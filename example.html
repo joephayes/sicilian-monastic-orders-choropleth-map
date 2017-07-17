@@ -52,12 +52,21 @@ info.onAdd = function (map) {
 };
 
 info.update = function (props) {
-  this._div.innerHTML = '<h4>Monastic Orders</h4>' +  (props ?
-    '<b>' + props.NOME_PRO + '</b>'
-    : 'Hover over a province');
+  this._div.innerHTML = '<h4>Monastic Orders</h4><em>Current Order: <strong>' +
+    snakeCaseToTitleCase(order_name) + '</strong></em><br/>' + (props ?
+      '<em>Selected province:</em> <strong>' + props.NOME_PRO +
+      '</strong><br/><em>Location Quotient: ' +
+      orders_data[props.NOME_PRO][order_name] + '</em>'
+      : '<br/>Hover over a province');
 };
 
 info.addTo(map);
+
+function snakeCaseToTitleCase(s) {
+  return s.split('_').map(function (item) {
+    return item.charAt(0).toUpperCase() + item.substring(1).toLowerCase();
+  }).join(' ');
+}
 
 // get color depending on location quotient value
 function getColor(d) {
