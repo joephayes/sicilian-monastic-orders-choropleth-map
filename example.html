@@ -10,6 +10,8 @@
 
     <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js" integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA==" crossorigin=""></script>
 
+    <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+
     <style>
       #map {
         width: 600px;
@@ -25,7 +27,6 @@
 
   <div id='map'></div>
 
-  <script type="text/javascript" src="it_sicilia_provinces.js"></script>
   <script type="text/javascript" src="orders.js"></script>
 
   <script type="text/javascript">
@@ -115,10 +116,12 @@ function onEachFeature(feature, layer) {
 }
 
 try {
-  geojson = L.geoJson(it_provinces, {
-    style: style,
-    onEachFeature: onEachFeature
-  }).addTo(map);
+ $.getJSON("it_sicilia_provinces.geojson", function(data) {
+    geojson = L.geoJson(data, {
+      style: style,
+      onEachFeature: onEachFeature
+    }).addTo(map);
+  });
 } catch(e){
   geojson = {};
   console.log(e)
