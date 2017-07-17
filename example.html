@@ -60,16 +60,16 @@
 
 	info.addTo(map);
 
-	// get color depending on population density value
+	// get color depending on location quotient value
 	function getColor(d) {
-		return d > 3.0 ? '#800026' :
-				d > 2.0  ? '#BD0026' :
-				d > 1.75  ? '#E31A1C' :
-				d > 1.5  ? '#FC4E2A' :
-				d > 1.0   ? '#FD8D3C' :
-				d > 0.5  ? '#FEB24C' :
-				d > 0.1   ? '#FED976' :
-							'#FFEDA0';
+		return d > 3.0 ? '#B10026' :
+				d > 2.0  ? '#E31A1C' :
+				d > 1.75  ? '#FC4E2A' :
+				d > 1.5  ? '#FD8D3C' :
+				d > 1.0   ? '#FEB24C' :
+				d > 0.5  ? '#FED976' :
+				d > 0.1   ? '#FFEDA0' :
+							'#FFFFCC';
 	}
 
 	function style(feature) {
