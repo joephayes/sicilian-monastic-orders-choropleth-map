@@ -1,157 +1,153 @@
 <!DOCTYPE html>
 <html>
-<head>
-	
-	<title>Choropleth Tutorial - Leaflet</title>
+  <head>
+    <title>Choropleth Tutorial - Leaflet</title>
 
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css" integrity="sha512-wcw6ts8Anuw10Mzh9Ytw4pylW8+NAD4ch3lqm9lzAsTxg0GFeJgoAtxuCLREZSC5lUXdVyo/7yfsqFjQ4S+aKw==" crossorigin=""/>
-    
+
     <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js" integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA==" crossorigin=""></script>
-    <!-- <script src="https://unpkg.com/topojson-client@3"></script>-->
 
-	<style>
-		#map {
-			width: 600px;
-			height: 400px;
-		}
-	</style>
+    <style>
+      #map {
+        width: 600px;
+        height: 400px;
+      }
+    </style>
 
-	<style>#map { width: 800px; height: 500px; }
-.info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
-.legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
+    <style>#map { width: 800px; height: 500px; }
+      .info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+    .legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
 </head>
 <body>
 
-<div id='map'></div>
+  <div id='map'></div>
 
-<script type="text/javascript" src="it_sicilia_provinces.js"></script>
-<script type="text/javascript" src="orders.js"></script>
+  <script type="text/javascript" src="it_sicilia_provinces.js"></script>
+  <script type="text/javascript" src="orders.js"></script>
 
-<script type="text/javascript">
+  <script type="text/javascript">
 
     var order_name = 'AUGUSTINIAN_CANONS';
 
-    var map = L.map('map').setView([37.5656, 14.28551], 8);
+var map = L.map('map').setView([37.5656, 14.28551], 8);
 
-	L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?access_token=***REMOVED***', {
-        minZoom: 8,
-        maxZoom: 18,
-		attribution: 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-			'<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, ' +
-			'Imagery © <a href="https://mapbox.com">Mapbox</a>'
-	}).addTo(map);
+L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?access_token=***REMOVED***', {
+  minZoom: 8,
+  maxZoom: 18,
+  attribution: 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+  '<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, ' +
+  'Imagery © <a href="https://mapbox.com">Mapbox</a>'
+}).addTo(map);
 
-	var info = L.control();
+var info = L.control();
 
-	info.onAdd = function (map) {
-		this._div = L.DomUtil.create('div', 'info');
-		this.update();
-		return this._div;
-	};
+info.onAdd = function (map) {
+  this._div = L.DomUtil.create('div', 'info');
+  this.update();
+  return this._div;
+};
 
-	info.update = function (props) {
-		this._div.innerHTML = '<h4>Monastic Orders</h4>' +  (props ?
-			'<b>' + props.NOME_PRO + '</b>'
-			: 'Hover over a province');
-	};
+info.update = function (props) {
+  this._div.innerHTML = '<h4>Monastic Orders</h4>' +  (props ?
+    '<b>' + props.NOME_PRO + '</b>'
+    : 'Hover over a province');
+};
 
-	info.addTo(map);
+info.addTo(map);
 
-	// get color depending on location quotient value
-	function getColor(d) {
-		return d > 3.0 ? '#B10026' :
-				d > 2.0  ? '#E31A1C' :
-				d > 1.75  ? '#FC4E2A' :
-				d > 1.5  ? '#FD8D3C' :
-				d > 1.0   ? '#FEB24C' :
-				d > 0.5  ? '#FED976' :
-				d > 0.1   ? '#FFEDA0' :
-							'#FFFFCC';
-	}
+// get color depending on location quotient value
+function getColor(d) {
+  return d > 3.0 ? '#B10026' :
+    d > 2.0  ? '#E31A1C' :
+    d > 1.75  ? '#FC4E2A' :
+    d > 1.5  ? '#FD8D3C' :
+    d > 1.0   ? '#FEB24C' :
+    d > 0.5  ? '#FED976' :
+    d > 0.1   ? '#FFEDA0' :
+    '#FFFFCC';
+}
 
-	function style(feature) {
-		return {
-			weight: 0.8,
-			fillOpacity: 0.7,
-			fillColor: getColor(orders[feature.properties.NOME_PRO][order_name])
-		};
-	}
+function style(feature) {
+  return {
+    weight: 0.8,
+    fillOpacity: 0.7,
+    fillColor: getColor(orders[feature.properties.NOME_PRO][order_name])
+  };
+}
 
-	function highlightFeature(e) {
-		var layer = e.target;
+function highlightFeature(e) {
+  var layer = e.target;
 
-		layer.setStyle({
-			weight: 5,
-			color: '#665',
-			dashArray: '',
-			fillOpacity: 0.7
-		});
+  layer.setStyle({
+    weight: 5,
+    color: '#665',
+    dashArray: '',
+    fillOpacity: 0.7
+  });
 
-		if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-			layer.bringToFront();
-		}
+  if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+    layer.bringToFront();
+  }
 
-		info.update(layer.feature.properties);
-	}
+  info.update(layer.feature.properties);
+}
 
-    var geojson;
+var geojson;
 
-	function resetHighlight(e) {
-		geojson.resetStyle(e.target);
-		info.update();
-	}
+function resetHighlight(e) {
+  geojson.resetStyle(e.target);
+  info.update();
+}
 
-	function zoomToFeature(e) {
-		map.fitBounds(e.target.getBounds());
-	}
+function zoomToFeature(e) {
+  map.fitBounds(e.target.getBounds());
+}
 
-	function onEachFeature(feature, layer) {
-		layer.on({
-			mouseover: highlightFeature,
-			mouseout: resetHighlight,
-			click: zoomToFeature
-		});
-	}
+function onEachFeature(feature, layer) {
+  layer.on({
+    mouseover: highlightFeature,
+    mouseout: resetHighlight,
+    click: zoomToFeature
+  });
+}
 
-    try {
-       // var provinces = topojson.feature(it_provinces, it_provinces.objects.prov2011_g);
+try {
+  geojson = L.geoJson(it_provinces, {
+    style: style,
+    onEachFeature: onEachFeature
+  }).addTo(map);
+} catch(e){
+  geojson = {};
+  console.log(e)
+}
 
-        geojson = L.geoJson(it_provinces, {
-            style: style,
-            onEachFeature: onEachFeature
-        }).addTo(map);
-    } catch(e){
-        geojson = {};
-        console.log(e)
-    }
+map.attributionControl.addAttribution('Monastic order data &copy; <a href="http://www.thehayesweb.org/dhayes/">Dawn Marie Hayes</a>');
 
-	map.attributionControl.addAttribution('Monastic order data &copy; <a href="http://www.thehayesweb.org/dhayes/">Dawn Marie Hayes</a>');
+var legend = L.control({position: 'bottomright'});
 
-	var legend = L.control({position: 'bottomright'});
+legend.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'info legend'),
+    grades = [0.1, 0.5, 1.0, 1.5, 1.75, 2.0, 3.0],
+    labels = [],
+    from, to;
 
-	legend.onAdd = function (map) {
-		var div = L.DomUtil.create('div', 'info legend'),
-			grades = [0.1, 0.5, 1.0, 1.5, 1.75, 2.0, 3.0],
-			labels = [],
-			from, to;
+  for (var i = 0; i < grades.length; i++) {
+    from = grades[i];
+    to = grades[i + 1];
 
-		for (var i = 0; i < grades.length; i++) {
-			from = grades[i];
-			to = grades[i + 1];
+    labels.push(
+      '<i style="background:' + getColor(from + 1) + '"></i> ' +
+      from + (to ? '&ndash;' + to : '+'));
+  }
 
-			labels.push(
-				'<i style="background:' + getColor(from + 1) + '"></i> ' +
-				from + (to ? '&ndash;' + to : '+'));
-		}
+  div.innerHTML = labels.join('<br>');
+  return div;
+};
 
-		div.innerHTML = labels.join('<br>');
-		return div;
-	};
-
-	legend.addTo(map);
+legend.addTo(map);
 
 </script>
 
