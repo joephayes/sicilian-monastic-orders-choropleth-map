@@ -1,4 +1,4 @@
-var orders = {
+{
   "CATANIA": {
     "AUGUSTINIAN_CANONS": 1.1,
     "BENEDICTINE": 2.2,
@@ -167,4 +167,4 @@ var orders = {
     "KNIGHTS_TEMPLAR": 0,
     "HOSPITAL_OF_SAINT_LAZARUS": 0
   }
-};
+}
