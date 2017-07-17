@@ -60,14 +60,14 @@ info.addTo(map);
 
 // get color depending on location quotient value
 function getColor(d) {
-  return d > 3.0 ? '#B10026' :
-    d > 2.0  ? '#E31A1C' :
-    d > 1.75  ? '#FC4E2A' :
-    d > 1.5  ? '#FD8D3C' :
-    d > 1.0   ? '#FEB24C' :
-    d > 0.5  ? '#FED976' :
-    d > 0.1   ? '#FFEDA0' :
-    '#FFFFCC';
+  return d > 3.0  ? '#800026' :
+    d > 2.0  ? '#BD0026' :
+    d > 1.75 ? '#E31A1C' :
+    d > 1.5  ? '#FC4E2A' :
+    d > 1.0  ? '#FD8D3C' :
+    d > 0.5  ? '#FEB24C' :
+    d > 0.1  ? '#FED976' :
+    d > 0.0  ? '#FFEDA0' : '#FFFFCC';
 }
 
 function style(feature) {
@@ -130,7 +130,7 @@ var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'info legend'),
-    grades = [0.1, 0.5, 1.0, 1.5, 1.75, 2.0, 3.0],
+    grades = [0.0, 0.1, 0.5, 1.0, 1.5, 1.75, 2.0, 3.0],
     labels = [],
     from, to;
 
@@ -139,7 +139,7 @@ legend.onAdd = function (map) {
     to = grades[i + 1];
 
     labels.push(
-      '<i style="background:' + getColor(from + 1) + '"></i> ' +
+      '<i style="background:' + getColor(from) + '"></i> ' +
       from + (to ? '&ndash;' + to : '+'));
   }
 
