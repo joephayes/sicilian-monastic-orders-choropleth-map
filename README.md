@@ -8,3 +8,5 @@
 Sicily. From https://github.com/Dataninja/geo-shapes.git (italy region 19).
 * orders_data.json - JSON file with the location quotient by monastic order by
 province
+* config.js.sample - edit this file to add your MapBox access token. Save and
+rename it to config.js. **IMPORTANT! DO NOT COMMIT THIS FILE!**

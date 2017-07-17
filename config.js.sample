@@ -1,0 +1,8 @@
+// IMPORTANT! DO NOT COMMIT THIS FILE!
+//
+// Replace the text 'YOUR MAPBOX ACCESS TOKEN' with your MapBox access token
+// and save and rename this file to 'config.js'.
+//
+var config = {
+  MAPBOX_ACCESS_TOKEN: 'YOUR MAPBOX ACCESS TOKEN'
+};
