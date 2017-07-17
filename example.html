@@ -54,8 +54,8 @@
 
 	info.update = function (props) {
 		this._div.innerHTML = '<h4>Monastic Orders</h4>' +  (props ?
-			'<b>' + props.NOME_PRO + '</b><br />' + props.REG_COD + ' people / mi<sup>2</sup>'
-			: 'Hover over a state');
+			'<b>' + props.NOME_PRO + '</b>'
+			: 'Hover over a province');
 	};
 
 	info.addTo(map);
@@ -128,7 +128,7 @@
         console.log(e)
     }
 
-	map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
+	map.attributionControl.addAttribution('Monastic order data &copy; <a href="http://www.thehayesweb.org/dhayes/">Dawn Marie Hayes</a>');
 
 	var legend = L.control({position: 'bottomright'});
 
