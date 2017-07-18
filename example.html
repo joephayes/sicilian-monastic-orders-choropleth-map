@@ -27,12 +27,43 @@
 </head>
 <body>
 
+  <select id='orders_select'></select>
   <div id='map'></div>
 
   <script type="text/javascript">
 
-var order_name = 'AUGUSTINIAN_CANONS';
+var orders = [
+  'AUGUSTINIAN_CANONS',
+  'BENEDICTINE',
+  'BASILIAN',
+  'CISTERCIAN',
+  'BASILIAN?',
+  'PREMONSTRATENSIAN_CANONS',
+  'KNIGHTS OF THE HOSPITAL',
+  'CLUNIAC',
+  'KNIGHTS_TEMPLAR',
+  'HOSPITAL_OF_SAINT_LAZARUS'
+];
 
+var order_name = '';
+
+function initOrdersSelect() {
+  var orders_select = $('#orders_select');
+  $.each(orders, function(index, value) {
+    orders_select
+      .append($('<option>', { value : value })
+      .text(snakeCaseToTitleCase(value)));
+  });
+
+  orders_select.change(function() {
+    order_name = orders_select.val();
+    refreshMap();
+  });
+
+  orders_select.val(orders[0]).change();
+}
+
+initOrdersSelect();
 var map = L.map('map').setView([37.5656, 14.28551], 8);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?access_token=' + config.MAPBOX_ACCESS_TOKEN, {
@@ -126,6 +157,19 @@ function onEachFeature(feature, layer) {
 
 var orders_data, it_provinces_data;
 
+function refreshMap() {
+  if (geojson) {
+    map.removeLayer(geojson);
+  }
+  if (orders_data && it_provinces_data) {
+    geojson = L.geoJson(it_provinces_data, {
+      style: style,
+      onEachFeature: onEachFeature
+    }).addTo(map);
+    info.update();
+  }
+}
+
 $.when(
   $.getJSON("orders_data.json", function(data){
     orders_data = data;
@@ -134,12 +178,7 @@ $.when(
     it_provinces_data = data;
   })
 ).then(function() {
-  if (orders_data && it_provinces_data) {
-    geojson = L.geoJson(it_provinces_data, {
-      style: style,
-      onEachFeature: onEachFeature
-    }).addTo(map);
-  }
+  refreshMap();
 });
 
 map.attributionControl.addAttribution('Monastic order data &copy; <a href="http://www.thehayesweb.org/dhayes/">Dawn Marie Hayes</a>');
