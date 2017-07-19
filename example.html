@@ -37,23 +37,11 @@
 
   <script type="text/javascript">
 
-var orders = [
-  'AUGUSTINIAN_CANONS',
-  'BENEDICTINE',
-  'BASILIAN',
-  'CISTERCIAN',
-  'BASILIAN?',
-  'PREMONSTRATENSIAN_CANONS',
-  'KNIGHTS_OF_THE_HOSPITAL',
-  'CLUNIAC',
-  'KNIGHTS_TEMPLAR',
-  'HOSPITAL_OF_SAINT_LAZARUS'
-];
-
 var order_name = '';
 
 function initOrdersSelect() {
   var orders_select = $('#orders_select');
+  var orders = Object.keys(orders_data[Object.keys(orders_data)[0]]);
   $.each(orders, function(index, value) {
     orders_select
       .append($('<option>', { value : value })
@@ -68,7 +56,6 @@ function initOrdersSelect() {
   orders_select.val(orders[0]).change();
 }
 
-initOrdersSelect();
 var map = L.map('map').setView([37.5656, 14.28551], 8);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?access_token=' + config.MAPBOX_ACCESS_TOKEN, {
@@ -183,6 +170,7 @@ $.when(
     it_provinces_data = data;
   })
 ).then(function() {
+  initOrdersSelect();
   refreshMap();
 });
 
