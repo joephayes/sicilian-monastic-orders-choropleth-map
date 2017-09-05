@@ -51,6 +51,12 @@ province
 * config.js.sample - edit this file to add your MapBox access token. Save and
 rename it to config.js. **IMPORTANT! DO NOT COMMIT THIS FILE!**
 
+## License
+
+Copyright © 2017 Joseph P. Hayes
+
+Released under the MIT license.
+
 ***
 
 **NOTES**
