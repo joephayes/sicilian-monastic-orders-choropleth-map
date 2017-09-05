@@ -31,7 +31,7 @@ provinces are used, while the reference area is the whole of Sicily.
 ## Data
 
 The data for monastic foundations by order are drawn from Lynn White's *Latin
-Monasticism in Norman Sicily*. In it, White gives a list of monasteries founded
+Monasticism in Norman Sicily*<sup>[3](#footnote3)</sup>. In it, White gives a list of monasteries founded
 in the Norman period of Sicilian history (1060-1194 CE).
 [Dawn Marie Hayes](http://www.thehayesweb.org/dhayes/) has assigned each of
 these foundations a location in one of the modern provinces of Sicily.
