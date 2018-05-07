@@ -108,7 +108,7 @@ function onEachFeature(feature, layer) {
   });
 }
 
-var orders_data, it_provinces_data;
+var monasteries_data, orders_data, it_provinces_data;
 
 function refreshMap() {
   if (geojson) {
@@ -123,12 +123,70 @@ function refreshMap() {
   }
 }
 
+function calculateLQs() {
+  // Given an array of objects that contain a "province" key and a
+  // "monastic_order" key, this function will use them to calculate
+  // location quotients. A location quotient is used to determine the
+  // representation of an order within a province.
+  // LQ = (regional total of order / grand total of order) / (regional total of all orders / grand total of all orders)
+
+  // get order counts by region
+  let orders_by_province = monasteries_data.reduce((accumulator, current_value) => {
+    if (!accumulator.hasOwnProperty(current_value.province)) {
+      accumulator[current_value.province] = {};
+    }
+    if (accumulator[current_value.province]){
+      if (accumulator[current_value.province].hasOwnProperty(current_value.monastic_order)){
+        accumulator[current_value.province][current_value.monastic_order] += 1;
+      } else {
+        accumulator[current_value.province][current_value.monastic_order] = 1;
+      }
+    }
+    return accumulator;
+  }, {});
+
+  let totals_by_province = monasteries_data.reduce((accumulator, current_value) => {
+    if (!accumulator.hasOwnProperty(current_value.province)) {
+      accumulator[current_value.province] = 0;
+    }
+
+    if (current_value.monastic_order && current_value.monastic_order.length > 0) {
+     accumulator[current_value.province] += 1;
+    }
+
+    return accumulator;
+  }, {});
+
+  let totals_by_order = monasteries_data.reduce((accumulator, current_value) => {
+    if (current_value.monastic_order && current_value.monastic_order.length > 0) {
+    if (!accumulator.hasOwnProperty(current_value.monastic_order)) {
+      accumulator[current_value.monastic_order] = 0;
+    }
+
+     accumulator[current_value.monastic_order] += 1;
+    }
+
+    return accumulator;
+  }, {});
+
+  location_quotients = orders_by_province.reduce((accumulator, current_value) => {
+  });
+
+  return [
+  
+    orders_by_province,totals_by_order,totals_by_province
+  ];
+}
+
 $.when(
   $.getJSON("orders_data.json", function(data){
     orders_data = data;
   }),
   $.getJSON("it_sicilia_provinces.geojson", function(data) {
     it_provinces_data = data;
+  }),
+  $.getJSON("monasteries.json", function(data) {
+    monasteries_data = data;
   })
 ).then(function() {
   initOrdersSelect();
