@@ -169,12 +169,32 @@ function calculateLQs() {
     return accumulator;
   }, {});
 
-  location_quotients = orders_by_province.reduce((accumulator, current_value) => {
-  });
+  let total_number = Object.keys(totals_by_province).reduce((a, i) => {
+   return a += totals_by_province[i];
+  }, 0);
+
+  location_quotients = Object.keys(orders_by_province).reduce((accumulator, current_value) => {
+    if (!accumulator.hasOwnProperty(current_value)) {
+      accumulator[current_value] = {};
+    }
+
+    accumulator[current_value] = Object.keys(orders_by_province[current_value]).reduce((acc, cv) => {
+      if (!acc.hasOwnProperty(cv)) {
+        acc[cv] = 0;
+      }
+      acc[cv] = (orders_by_province[current_value][cv] / totals_by_order[cv]) / (totals_by_province[current_value] / total_number);
+      return acc;
+    }, {});
+
+    return accumulator;
+  }, {});
 
   return [
-  
-    orders_by_province,totals_by_order,totals_by_province
+    orders_by_province,
+    totals_by_order,
+    totals_by_province,
+    total_number,
+    location_quotients
   ];
 }
 
