@@ -1,692 +1,692 @@
 [
-  {
-    "preferred_name": "Saint Elias the Prophet (en)",
-    "province": "Catania",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Lucy of AdernÃ² (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Robore Grosso (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Philip of Agira (en)",
-    "province": "Enna",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint George of Agrigento (en)",
-    "province": "Agrigento",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Anne of Fesime (en)",
-    "province": "Enna?",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Mary of Campogrosso (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Anne of Gala (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Gala (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Michael Archangel of Brolo (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Maniace (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Holy Cross of Buccheri (en)",
-    "province": "Syracuse",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Holy Trinity of Refesio (en)",
-    "province": "Agrigento",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Holy Spirit of Buscemi (en)",
-    "province": "Syracuse",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Nicholas of Canneto (en)",
-    "province": "Caltanissetta",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Butera (en)",
-    "province": "Caltanissetta",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Caccamo (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Eunufrius of Calatabiano (en)",
-    "province": "Catania",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint George of Triocala (en)",
-    "province": "Agrigento",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Holy Spirit at Caltanissetta (en)",
-    "province": "Caltanissetta",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Philip of Capizzi (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Anne of Monteforte (en)",
-    "province": "Agrigento?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Onufrius of Calatabiet (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saints Peter and Paul of AgrÃ² (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Cosmas of Gonata (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Anastasia of Gratteri (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Mallimachi (en)",
-    "province": "Messina?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Calatahameth (en)",
-    "province": "Trapani",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Holy Trinity of Delia (en)",
-    "province": "Trapani",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Peter of Largo Flumine (en)",
-    "province": "Palermo?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Castronovo (en)",
-    "province": "Palermo?",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Stephan of Castronuovo (en)",
-    "province": "Palermo?",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Venera of Vanella (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Agatha of Catania (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Christ the Savior and Saints Peter and Paul of CefalÃ¹ (en)",
-    "province": "Palermo",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Christ the Savior (en)",
-    "province": "Enna",
-    "monastic_order": ""
-  },
-  {
-    "preferred_name": "Saint Mary of Pedale (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian?"
-  },
-  {
-    "preferred_name": "Saint Nicholas of Corleone (en)",
-    "province": "Palermo",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Mary Magdalene of Corleone (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Michael of Ficarra (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Christ the Savior of Placa (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Philip of FragalÃ  (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Cava (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Elias of Scala Oliverii (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Nicholas of Ysa (en)",
-    "province": "Messina?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint George of Gratteri (en)",
-    "province": "Palermo",
-    "monastic_order": "Premonstratensian Canons"
-  },
-  {
-    "preferred_name": "Saints Peter and Paul of ItalÃ  (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Nicander of San Nicone (en)",
-    "province": "Messina?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint George of Lentini (en)",
-    "province": "Syracuse",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Mary of Roccadia (en)",
-    "province": "Syracuse",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Saint Bartholomew of Lipari (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Constantine of Malet (en)",
-    "province": "Catania",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Mandanici (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of the Grotto (en)",
-    "province": "Trapani",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Michael of Mazara (en)",
-    "province": "Trapani",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Nicholas Regale (en)",
-    "province": "Trapani",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Hospital of All Saints at Palermo (en)",
-    "province": "Palermo",
-    "monastic_order": "Knights of the Hospital of Saint John of Jerusalem"
-  },
-  {
-    "preferred_name": "Saint Mary de Alto de Jummariis (en)",
-    "province": "Trapani",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Mazzarino (en)",
-    "province": "Caltanissetta",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Hospital of Saint John the Baptist of Jerusalem (en)",
-    "province": "Messina",
-    "monastic_order": "Knights of the Hospital of Saint John of Jerusalem"
-  },
-  {
-    "preferred_name": "Saint John of the Greeks (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Leo of Messina (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Matthew of Messina (en)",
-    "province": "Messina",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Nicander of Messina (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Anne of Messina (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary della Scala (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Bordonaro (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Massa (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Mili (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Mount Sion (en)",
-    "province": "Messina",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Mary of Roccamadore (en)",
-    "province": "Messina",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Saint Mary of the Latins (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary Magdalene of Jehosaphat (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Christ the Savior in Messina (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Adriano (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Christ the Savior in Lingua Phari (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Steven of Messina (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Gregory of Gypso (en)",
-    "province": "Messina?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Peter of Milazzo (en)",
-    "province": "Messina",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Theodore of Milazzo (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Theodore of Mirto (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Anastasia in Mistretta (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary Nuova (en)",
-    "province": "Palermo",
-    "monastic_order": "Cluniac"
-  },
-  {
-    "preferred_name": "Saint Pantaleon of the Presbyter Scholarios (en)",
-    "province": "Trapani?",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Basil of Naso (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Leo of Pannachio (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Lucy of Noto (en)",
-    "province": "Syracuse",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Lucy of Rahalbiato (en)",
-    "province": "Syracuse",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint James of CalÃ² (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Novara (en)",
-    "province": "Messina",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Saint George of the Kemonia (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint John of the Hermits (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Nicholas of Gurguro (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Peter in Palermo (en)",
-    "province": "Palermo",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Andrew of Bebene (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of the Crypt (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of the Admiral (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary Martorana (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Abbey of the Holy Trinity of the Chancellor in Palermo (en)",
-    "province": "Palermo",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Saint Mary of the Chancellor or of the Latins (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Holy Spirit of Palermo (en)",
-    "province": "Palermo",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Christ the Savior in Palermo (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint James in Partinico (en)",
-    "province": "Palermo",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Philip of Pantano (en)",
-    "province": "Catania",
-    "monastic_order": ""
-  },
-  {
-    "preferred_name": "Saint Nicholas of PaternÃ² (en)",
-    "province": "Catania",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Jehosaphat (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Scala (en)",
-    "province": "Catania",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Christ the Savior of Patti (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Andrew at Piazza Armerina (en)",
-    "province": "Enna",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Mary of the Latins at Polizzi (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Christopher of Prizzi (en)",
-    "province": "Palermo",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Saint Angelo of Prizzi (en)",
-    "province": "Palermo",
-    "monastic_order": "Cistercian"
-  },
-  {
-    "preferred_name": "Saint Nicholas of Fico (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint John of Psichro (en)",
-    "province": "Catania",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Nicholas of Pellera (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Pancras of San Fratello (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Barbarus of San Marco (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Felix of San Marco (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Philip (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Licodia (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Licodia (Summer Abbey) (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Jummarriis (en)",
-    "province": "Agrigento",
-    "monastic_order": "Cluniac"
-  },
-  {
-    "preferred_name": "Saint Peter of Sclafani (en)",
-    "province": "Palermo",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Unknown (en)",
-    "province": "Catania",
-    "monastic_order": "Knights Templar"
-  },
-  {
-    "preferred_name": "Saint Lucy (en)",
-    "province": "Syracuse",
-    "monastic_order": "Augustinian Canons"
-  },
-  {
-    "preferred_name": "Saint Mary de Monialibus (en)",
-    "province": "Syracuse",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Peter of Deca (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Basil of Troina (en)",
-    "province": "Enna",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mercurius of Troina (en)",
-    "province": "Enna",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Michael of Troina (en)",
-    "province": "Enna",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Elias of Embula (en)",
-    "province": "Enna",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Mary of Tusa (en)",
-    "province": "Messina",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Ustica (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Mary of Vicari (en)",
-    "province": "Palermo",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Saint Sophia of Vicari (en)",
-    "province": "Palermo",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint John of Vizzini (en)",
-    "province": "Catania",
-    "monastic_order": "Benedictine"
-  },
-  {
-    "preferred_name": "Saint Philip the Great (en)",
-    "province": "Messina",
-    "monastic_order": "Basilian"
-  },
-  {
-    "preferred_name": "Holy Cross of Rasacambri (en)",
-    "province": "Ragusa",
-    "monastic_order": "Benedictine"
-  }
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Elias the Prophet",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Lucy of Adern\u00f2",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Robore Grosso",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Philip of Agira",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint George of Agrigento",
+        "province": "AGRIGENTO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Anne of Fesime",
+        "province": "ENNA?"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Campogrosso",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Anne of Gala",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Gala",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Michael Archangel of Brolo",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Maniace",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Holy Cross of Buccheri",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Holy Trinity of Refesio",
+        "province": "AGRIGENTO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Holy Spirit of Buscemi",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas of Canneto",
+        "province": "CALTANISSETTA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Butera",
+        "province": "CALTANISSETTA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Caccamo",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Eunufrius of Calatabiano",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint George of Triocala",
+        "province": "AGRIGENTO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Holy Spirit at Caltanissetta",
+        "province": "CALTANISSETTA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Philip of Capizzi",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Anne of Monteforte",
+        "province": "AGRIGENTO?"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Onufrius of Calatabiet",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saints Peter and Paul of Agr\u00f2",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Cosmas of Gonata",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Anastasia of Gratteri",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Mallimachi",
+        "province": "MESSINA?"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Calatahameth",
+        "province": "TRAPANI"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Holy Trinity of Delia",
+        "province": "TRAPANI"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Peter of Largo Flumine",
+        "province": "PALERMO?"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Mary of Castronovo",
+        "province": "PALERMO?"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Stephan of Castronuovo",
+        "province": "PALERMO?"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Venera of Vanella",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Agatha of Catania",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Christ the Savior and Saints Peter and Paul of Cefal\u00f9",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": null,
+        "name": "Christ the Savior",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BASILIAN?",
+        "name": "Saint Mary of Pedale",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Nicholas of Corleone",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary Magdalene of Corleone",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Michael of Ficarra",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Christ the Savior of Placa",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Philip of Fragal\u00e0",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Cava",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Elias of Scala Oliverii",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas of Ysa",
+        "province": "MESSINA?"
+    },
+    {
+        "monastic_order": "PREMONSTRATENSIAN_CANONS",
+        "name": "Saint George of Gratteri",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saints Peter and Paul of Ital\u00e0",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicander of San Nicone",
+        "province": "MESSINA?"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint George of Lentini",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Saint Mary of Roccadia",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Bartholomew of Lipari",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Constantine of Malet",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Mandanici",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of the Grotto",
+        "province": "TRAPANI"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Michael of Mazara",
+        "province": "TRAPANI"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas Regale",
+        "province": "TRAPANI"
+    },
+    {
+        "monastic_order": "KNIGHTS_OF_THE_HOSPITAL_OF_SAINT_JOHN_OF_JERUSALEM",
+        "name": "Hospital of All Saints at Palermo",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary de Alto de Jummariis",
+        "province": "TRAPANI"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Mazzarino",
+        "province": "CALTANISSETTA"
+    },
+    {
+        "monastic_order": "KNIGHTS_OF_THE_HOSPITAL_OF_SAINT_JOHN_OF_JERUSALEM",
+        "name": "Hospital of Saint John the Baptist of Jerusalem",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint John of the Greeks",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Leo of Messina",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Matthew of Messina",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicander of Messina",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Anne of Messina",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary della Scala",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Bordonaro",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Massa",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Mili",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Mary of Mount Sion",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Saint Mary of Roccamadore",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of the Latins",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary Magdalene of Jehosaphat",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Christ the Savior in Messina",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Adriano",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Christ the Savior in Lingua Phari",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Steven of Messina",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Gregory of Gypso",
+        "province": "MESSINA?"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Peter of Milazzo",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Theodore of Milazzo",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Theodore of Mirto",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Anastasia in Mistretta",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "CLUNIAC",
+        "name": "Saint Mary Nuova",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Pantaleon of the Presbyter Scholarios",
+        "province": "TRAPANI?"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Basil of Naso",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Leo of Pannachio",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Lucy of Noto",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Lucy of Rahalbiato",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint James of Cal\u00f2",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Saint Mary of Novara",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint George of the Kemonia",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint John of the Hermits",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas of Gurguro",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Peter in Palermo",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Andrew of Bebene",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of the Crypt",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of the Admiral",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary Martorana",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Abbey of the Holy Trinity of the Chancellor in Palermo",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of the Chancellor or of the Latins",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Holy Spirit of Palermo",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Christ the Savior in Palermo",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint James in Partinico",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": null,
+        "name": "Saint Philip of Pantano",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas of Patern\u00f2",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Jehosaphat",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Scala",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Christ the Savior of Patti",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Andrew at Piazza Armerina",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of the Latins at Polizzi",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Saint Christopher of Prizzi",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "CISTERCIAN",
+        "name": "Saint Angelo of Prizzi",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas of Fico",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint John of Psichro",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Nicholas of Pellera",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Pancras of San Fratello",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Barbarus of San Marco",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Felix of San Marco",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Philip",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Licodia",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Licodia (Summer Abbey)",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "CLUNIAC",
+        "name": "Saint Mary of Jummarriis",
+        "province": "AGRIGENTO"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Peter of Sclafani",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "KNIGHTS_TEMPLAR",
+        "name": "Unknown",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "AUGUSTINIAN_CANONS",
+        "name": "Saint Lucy",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary de Monialibus",
+        "province": "SYRACUSE"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Peter of Deca",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Basil of Troina",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mercurius of Troina",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Michael of Troina",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Elias of Embula",
+        "province": "ENNA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Tusa",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Mary of Ustica",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Mary of Vicari",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint Sophia of Vicari",
+        "province": "PALERMO"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Saint John of Vizzini",
+        "province": "CATANIA"
+    },
+    {
+        "monastic_order": "BASILIAN",
+        "name": "Saint Philip the Great",
+        "province": "MESSINA"
+    },
+    {
+        "monastic_order": "BENEDICTINE",
+        "name": "Holy Cross of Rasacambri",
+        "province": "RAGUSA"
+    }
 ]
