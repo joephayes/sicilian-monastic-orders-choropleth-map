@@ -108,7 +108,7 @@ function onEachFeature(feature, layer) {
   });
 }
 
-var monasteries_data, orders_data, it_provinces_data;
+var orders_data, it_provinces_data;
 
 function refreshMap() {
   if (geojson) {
@@ -123,47 +123,68 @@ function refreshMap() {
   }
 }
 
-function calculateLQs() {
+// source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round#A_better_solution
+function round(number, precision) {
+  var shift = function (number, precision) {
+    var numArray = ("" + number).split("e");
+    return +(numArray[0] + "e" + (numArray[1] ? (+numArray[1] + precision) : precision));
+  };
+  return shift(Math.round(shift(number, +precision)), -precision);
+}
+
+function calculateLQs(data, mergeUncertain) {
   // Given an array of objects that contain a "province" key and a
   // "monastic_order" key, this function will use them to calculate
   // location quotients. A location quotient is used to determine the
   // representation of an order within a province.
   // LQ = (regional total of order / grand total of order) / (regional total of all orders / grand total of all orders)
 
+  // let mergeUncertain = true;
+
   // get order counts by region
-  let orders_by_province = monasteries_data.reduce((accumulator, current_value) => {
-    if (!accumulator.hasOwnProperty(current_value.province)) {
-      accumulator[current_value.province] = {};
-    }
-    if (accumulator[current_value.province]){
-      if (accumulator[current_value.province].hasOwnProperty(current_value.monastic_order)){
-        accumulator[current_value.province][current_value.monastic_order] += 1;
-      } else {
-        accumulator[current_value.province][current_value.monastic_order] = 1;
+  let orders_by_province = data.reduce((accumulator, current_value) => {
+    if (current_value.province && current_value.province.length > 0) {
+      let p = mergeUncertain ? current_value.province.replace('?', '') : current_value.province;
+      if (!accumulator.hasOwnProperty(p)) {
+          accumulator[p] = {};
       }
+      if (accumulator[p]){
+        if (current_value.monastic_order && current_value.monastic_order.length > 0) {
+          let m = mergeUncertain ? current_value.monastic_order.replace('?', '') : current_value.monastic_order;
+          if (accumulator[p].hasOwnProperty(m)){
+            accumulator[p][m] += 1;
+          } else {
+            accumulator[p][m] = 1;
+          }
+        }
+      }
+      return accumulator;
     }
-    return accumulator;
   }, {});
 
-  let totals_by_province = monasteries_data.reduce((accumulator, current_value) => {
-    if (!accumulator.hasOwnProperty(current_value.province)) {
-      accumulator[current_value.province] = 0;
-    }
+  let totals_by_province = data.reduce((accumulator, current_value) => {
+    if (current_value.province && current_value.province.length > 0) {
+      let p = mergeUncertain ? current_value.province.replace('?', '') : current_value.province;
+      if (!accumulator.hasOwnProperty(p)) {
+        accumulator[p] = 0;
+      }
 
-    if (current_value.monastic_order && current_value.monastic_order.length > 0) {
-     accumulator[current_value.province] += 1;
-    }
+      if (current_value.monastic_order && current_value.monastic_order.length > 0) {
+       accumulator[p] += 1;
+      }
 
-    return accumulator;
+      return accumulator;
+    }
   }, {});
 
-  let totals_by_order = monasteries_data.reduce((accumulator, current_value) => {
+  let totals_by_order = data.reduce((accumulator, current_value) => {
     if (current_value.monastic_order && current_value.monastic_order.length > 0) {
-    if (!accumulator.hasOwnProperty(current_value.monastic_order)) {
-      accumulator[current_value.monastic_order] = 0;
-    }
+      let m = mergeUncertain ? current_value.monastic_order.replace('?', '') : current_value.monastic_order;
+      if (!accumulator.hasOwnProperty(m)) {
+        accumulator[m] = 0;
+      }
 
-     accumulator[current_value.monastic_order] += 1;
+      accumulator[m] += 1;
     }
 
     return accumulator;
@@ -182,31 +203,33 @@ function calculateLQs() {
       if (!acc.hasOwnProperty(cv)) {
         acc[cv] = 0;
       }
-      acc[cv] = (orders_by_province[current_value][cv] / totals_by_order[cv]) / (totals_by_province[current_value] / total_number);
+
+      acc[cv] = round(
+        (orders_by_province[current_value][cv] / totals_by_order[cv]) /
+        (totals_by_province[current_value] / total_number), 2);
+
       return acc;
     }, {});
 
     return accumulator;
   }, {});
 
-  return [
-    orders_by_province,
-    totals_by_order,
-    totals_by_province,
-    total_number,
-    location_quotients
-  ];
+  // return [
+  //   orders_by_province,
+  //   totals_by_order,
+  //   totals_by_province,
+  //   total_number,
+  //   location_quotients
+  // ];
+  return location_quotients;
 }
 
 $.when(
-  $.getJSON("orders_data.json", function(data){
-    orders_data = data;
-  }),
   $.getJSON("it_sicilia_provinces.geojson", function(data) {
     it_provinces_data = data;
   }),
   $.getJSON("monasteries.json", function(data) {
-    monasteries_data = data;
+    orders_data = calculateLQs(data, true);
   })
 ).then(function() {
   initOrdersSelect();
