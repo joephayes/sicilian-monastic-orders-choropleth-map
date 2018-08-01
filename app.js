@@ -193,8 +193,6 @@ class ChoroplethMapExample {
     // representation of an order within a province.
     // LQ = (regional total of order / grand total of order) / (regional total of all orders / grand total of all orders)
 
-    // let mergeUncertain = true;
-
     // get order counts by region
     let orders_by_province = data.reduce((accumulator, current_value) => {
       if (current_value.province && current_value.province.length > 0) {
@@ -263,7 +261,7 @@ class ChoroplethMapExample {
           (totals_by_province[current_value] / total_number), 2);
 
         return acc;
-      }, {});
+      }, Object.keys(totals_by_order).reduce((a,o)=>{a[o]=0; return a;}, {}));
 
       return accumulator;
     }, {});
