@@ -60,8 +60,18 @@ class ChoroplethMapExample {
       $.getJSON('it_sicilia_provinces.geojson', (data) => {
         this.province_data = data;
       }),
-      $.getJSON('monasteries.json', (data) => {
-        this.orders_data = this.calculateLQs(data, true);
+      $.getJSON('places-20180727.geojson', (data) => {
+        monasteries = data.features.map((f)=>{
+          properties = f.properties;
+          return {
+            "monastic_order": properties.order.toUpperCase(),
+            "province": properties.province.toUpperCase(),
+            "name": properties.english_place_name
+          };
+        });
+        if (monasteries.length > 0) {
+          this.orders_data = this.calculateLQs(monasteries, true);
+        }
       })
     ).then(() => {
       this.initOrdersSelect(this.orders_data);
