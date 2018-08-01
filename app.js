@@ -1,3 +1,5 @@
+/* global config L */
+
 'use strict';
 
 class ChoroplethMapExample {
@@ -31,7 +33,7 @@ class ChoroplethMapExample {
     }).addTo(this.map);
 
     L.Control.InfoControl = L.Control.extend({
-      'onAdd': (_) => {
+      'onAdd': () => {
         return L.DomUtil.create('div', 'info');
       },
 
@@ -44,31 +46,36 @@ class ChoroplethMapExample {
         let order_name = orders_select.val();
         L.control.infoControl.getContainer().innerHTML = '<h4>Monastic Orders</h4><em>Current Order: <strong>' +
           this.snakeCaseToTitleCase(order_name) + '</strong></em><br/>' + (props ?
-          '<em>Selected province:</em> <strong>' + props.NOME_PRO +
+            '<em>Selected province:</em> <strong>' + props.NOME_PRO +
             '</strong><br/><em>Location Quotient: ' +
             this.orders_data[props.NOME_PRO][order_name] + '</em>'
-          : '<br/>Hover over a province');
+            : '<br/>Hover over a province');
       }
     });
 
     L.control.infoControl = new L.Control.InfoControl();
     L.control.infoControl.addTo(this.map);
 
-    let geojson, orders_data, province_data;
-
     $.when(
       $.getJSON('it_sicilia_provinces.geojson', (data) => {
         this.province_data = data;
       }),
       $.getJSON('places-20180727.geojson', (data) => {
-        monasteries = data.features.map((f)=>{
-          properties = f.properties;
+        let monasteries = data.features.map((f)=>{
+          let properties = f.properties;
+          let province = ((province) => {
+            if (province.toLowerCase() === 'syracuse') {
+              return 'SIRACUSA';
+            }
+            return province.toUpperCase();
+          })(f.properties.province);
           return {
             "monastic_order": properties.order.toUpperCase(),
-            "province": properties.province.toUpperCase(),
+            "province": province,
             "name": properties.english_place_name
           };
-        });
+        }
+        );
         if (monasteries.length > 0) {
           this.orders_data = this.calculateLQs(monasteries, true);
         }
@@ -81,7 +88,7 @@ class ChoroplethMapExample {
 
     let legend = L.control({position: 'bottomright'});
 
-    legend.onAdd = (_) => {
+    legend.onAdd = () => {
       let div = L.DomUtil.create('div', 'info legend'),
         grades = [0.0, 0.1, 0.5, 1.0, 1.5, 1.75, 2.0, 3.0],
         labels = [],
@@ -117,12 +124,12 @@ class ChoroplethMapExample {
   getColor(d) {
     return d > 3.0  ? '#800026' :
       d > 2.0  ? '#BD0026' :
-        d > 1.75 ? '#E31A1C' :
-          d > 1.5  ? '#FC4E2A' :
-            d > 1.0  ? '#FD8D3C' :
-              d > 0.5  ? '#FEB24C' :
-                d > 0.1  ? '#FED976' :
-                  d > 0.0  ? '#FFEDA0' : '#FFFFCC';
+      d > 1.75 ? '#E31A1C' :
+      d > 1.5  ? '#FC4E2A' :
+      d > 1.0  ? '#FD8D3C' :
+      d > 0.5  ? '#FEB24C' :
+      d > 0.1  ? '#FED976' :
+      d > 0.0  ? '#FFEDA0' : '#FFFFCC';
   }
 
   style(feature) {
