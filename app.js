@@ -30,20 +30,19 @@ class ChoroplethMapExample {
       'Imagery © <a href="https://mapbox.com">Mapbox</a>'
     }).addTo(this.map);
 
-    let Info = L.Control.extend({
-      'onAdd': (map) => {
-        map.info = this;
+    L.Control.InfoControl = L.Control.extend({
+      'onAdd': (_) => {
         return L.DomUtil.create('div', 'info');
       },
 
       'onRemove': (map) => {
-        delete map.info;
+        delete map.infoControl;
       },
 
       'setContent': (props) => {
         let orders_select = $('#orders_select');
         let order_name = orders_select.val();
-        this.getContainer().innerHTML = '<h4>Monastic Orders</h4><em>Current Order: <strong>' +
+        L.control.infoControl.getContainer().innerHTML = '<h4>Monastic Orders</h4><em>Current Order: <strong>' +
           this.snakeCaseToTitleCase(order_name) + '</strong></em><br/>' + (props ?
           '<em>Selected province:</em> <strong>' + props.NOME_PRO +
             '</strong><br/><em>Location Quotient: ' +
@@ -52,8 +51,8 @@ class ChoroplethMapExample {
       }
     });
 
-    let info = new Info();
-    info.addTo(this.map);
+    L.control.infoControl = new L.Control.InfoControl();
+    L.control.infoControl.addTo(this.map);
 
     let geojson, orders_data, province_data;
 
@@ -66,7 +65,6 @@ class ChoroplethMapExample {
       })
     ).then(() => {
       this.initOrdersSelect(this.orders_data);
-      this.refreshMap();
     });
 
     this.map.attributionControl.addAttribution('Monastic order data &copy; <a href="http://www.thehayesweb.org/dhayes/">Dawn Marie Hayes</a>');
@@ -145,12 +143,12 @@ class ChoroplethMapExample {
       layer.bringToFront();
     }
 
-    this.map.info.setContent(layer.feature.properties);
+    L.control.infoControl.setContent(layer.feature.properties);
   }
 
   resetHighlight(e) {
     this.geojson.resetStyle(e.target);
-    this.map.info.setContent();
+    L.control.infoControl.setContent();
   }
 
   zoomToFeature(e) {
@@ -160,7 +158,7 @@ class ChoroplethMapExample {
   onEachFeature(feature, layer) {
     layer.on({
       mouseover: this.highlightFeature,
-      mouseout: this.resetHighlight,
+      mouseout: this.resetHighlight.bind(this),
       click: this.zoomToFeature
     });
   }
@@ -172,11 +170,11 @@ class ChoroplethMapExample {
 
     this.geojson = L.geoJson(this.province_data, {
       style: this.style.bind(this),
-      onEachFeature: this.onEachFeature
+      onEachFeature: this.onEachFeature.bind(this)
     });
     this.geojson.addTo(this.map);
 
-    this.map.info.setContent();
+    L.control.infoControl.setContent();
   }
 
   // source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round#A_better_solution
