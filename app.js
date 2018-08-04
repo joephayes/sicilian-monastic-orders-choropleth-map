@@ -9,6 +9,9 @@ class ChoroplethMapExample {
 
   initOrdersSelect(orders_data) {
     let orders_select = $('#orders_select');
+    if (orders_select[0].options){
+      orders_select[0].options.length = 0;
+    }
     let orders = Object.keys(orders_data[Object.keys(orders_data)[0]]);
     $.each(orders, (index, value) => {
       orders_select
@@ -33,6 +36,10 @@ class ChoroplethMapExample {
     }).addTo(this.map);
 
     L.Control.InfoControl = L.Control.extend({
+      'initialize': (options) => {
+        L.Util.setOptions(this, options);
+      },
+
       'onAdd': () => {
         return L.DomUtil.create('div', 'info');
       },
@@ -41,14 +48,14 @@ class ChoroplethMapExample {
         delete map.infoControl;
       },
 
-      'setContent': (props) => {
+      'setContent': (options) => {
         let orders_select = $('#orders_select');
         let order_name = orders_select.val();
         L.control.infoControl.getContainer().innerHTML = '<h4>Monastic Orders</h4><em>Current Order: <strong>' +
-          this.snakeCaseToTitleCase(order_name) + '</strong></em><br/>' + (props ?
-            '<em>Selected province:</em> <strong>' + props.NOME_PRO +
+          this.snakeCaseToTitleCase(order_name) + '</strong></em><br/>' + (options ?
+            '<em>Selected province:</em> <strong>' + options.NOME_PRO +
             '</strong><br/><em>Location Quotient: ' +
-            this.orders_data[props.NOME_PRO][order_name] + '</em>'
+            this.orders_data[options.NOME_PRO][order_name] + '</em>'
             : '<br/>Hover over a province');
       }
     });
@@ -61,7 +68,7 @@ class ChoroplethMapExample {
         this.province_data = data;
       }),
       $.getJSON('places-20180727.geojson', (data) => {
-        let monasteries = data.features.map((f)=>{
+        this.monasteries = data.features.map((f)=>{
           let properties = f.properties;
           let province = ((province) => {
             if (province.toLowerCase() === 'syracuse') {
@@ -76,12 +83,18 @@ class ChoroplethMapExample {
           };
         }
         );
-        if (monasteries.length > 0) {
-          this.orders_data = this.calculateLQs(monasteries, true);
+        if (this.monasteries.length > 0) {
+          this.orders_data = this.calculateLQs(this.monasteries, $('#include_uncertains').prop('checked'));
         }
       })
     ).then(() => {
       this.initOrdersSelect(this.orders_data);
+      let include_uncertains = $('#include_uncertains');
+      include_uncertains.change(() => {
+        this.orders_data = this.calculateLQs(this.monasteries, $('#include_uncertains').prop('checked'));
+        this.initOrdersSelect(this.orders_data);
+        this.refreshMap();
+      });
     });
 
     this.map.attributionControl.addAttribution('Monastic order data &copy; <a href="http://www.thehayesweb.org/dhayes/">Dawn Marie Hayes</a>');

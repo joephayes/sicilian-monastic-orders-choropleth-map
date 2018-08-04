@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Choropleth Map of Norman Sicilian Monastic Orders</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+                           integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+                           crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+            integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+            crossorigin=""></script>
+
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type='text/javascript' src='config.js'></script>
+
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <h1>Choropleth Map of Norman Sicilian Monastic Orders</h1>
+
+    <h2>Introduction</h2>
+    <p>In economics, a location quotient is used to determine areas where
+      employment in a specific industry may be over or under represented. In this
+      example, the location quotient concept is applied to the number of monastic
+      foundations by order in Norman Sicily. Hopefully, location quotients will
+      identify concentrations of orders in certain provinces of Sicily. In the model,
+      the monastic order replaces the concept of industry. For regions, the
+      boundaries of the modern provinces are used for convenience, while the
+      reference area is the whole of Sicily.</p>
+    <p>See the <a href="README.md">README file</a> for more information.</p>
+
+    <h2>Instructions</h2>
+    <p>Select a monastic order from the dropdown and with your mouse hover over
+      the various provinces to see the concentration of the specific monastic
+      order.</p>
+
+    <p>Check the checkbox marked "Include Uncertain Data?" to include
+      monasteries with uncertain location or order information in the
+      calculation of location quotient.</p>
+
+    <h2>The Map</h2>
+
+    <label for='orders_select'>Monastic Order:</label>
+    <select id='orders_select'></select>
+    <input type='checkbox' id='include_uncertains'/>
+    <label for='include_uncertains' class='tip-below'
+           data-tip='By checking this box, monasteries with provinces and orders
+           information which is not completely certain will be merged with
+           monasteries with certain province and order information'>
+      Include Uncertain Data?
+    </label>
+    <div id='map'></div>
+    <hr>
+    <p>&copy; 2017-2018 Joseph P. Hayes</p>
+
+    <script type="text/javascript" src="app.js"></script>
+
+  </body>
+</html>
