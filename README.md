@@ -62,7 +62,7 @@ provinces of Sicily.
 
 ## License
 
-Copyright © 2017-2018 Joseph P. Hayes
+Copyright © 2017-2018 [Joseph P. Hayes](mailto:joephayes@gmail.com)
 
 Released under the MIT license.
 
