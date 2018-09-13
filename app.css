@@ -1,3 +1,14 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.filter-controls {
+  width: 800px;
+  display: flex;
+  padding-bottom: 10px;
+}
+.column {
+  width: 50%;
+}
 #map {
   width: 800px;
   height: 500px;

@@ -45,15 +45,21 @@
 
     <h2>The Map</h2>
 
-    <label for='orders_select'>Monastic Order:</label>
-    <select id='orders_select'></select>
-    <input type='checkbox' id='include_uncertains'/>
-    <label for='include_uncertains' class='tip-below'
-           data-tip='By checking this box, monasteries with provinces and orders
-           information which is not completely certain will be merged with
-           monasteries with certain province and order information'>
-      Include Uncertain Data?
-    </label>
+    <div class='filter-controls'>
+      <div class='column'>
+        <label for='orders_select'>Monastic Order:</label>
+        <select id='orders_select'></select>
+      </div>
+      <div class='column'>
+        <input type='checkbox' id='include_uncertains'/>
+        <label for='include_uncertains' class='tip-below'
+               data-tip='By checking this box, monasteries with provinces and orders
+               information which is not completely certain will be merged with
+               monasteries with certain province and order information'>
+          Include Uncertain Data?
+        </label>
+      </div>
+    </div>
     <div id='map'></div>
     <hr>
     <p>&copy; 2017-2018 <a href="mailto:joephayes@gmail.com">Joseph P. Hayes</a></p>
