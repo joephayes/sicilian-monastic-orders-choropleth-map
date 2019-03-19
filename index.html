@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Choropleth Map of Norman Sicilian Monastic Orders</title>
+    <title>Choropleth Map of Norman Sicily's Monastic Orders</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,14 +19,14 @@
     <link rel="stylesheet" href="app.css" />
   </head>
   <body>
-    <h1>Choropleth Map of Norman Sicilian Monastic Orders</h1>
+    <h1>Choropleth Map of Norman Sicily's Monastic Orders</h1>
 
     <h2>Introduction</h2>
     <p>In economics, a location quotient is used to determine areas where
-      employment in a specific industry may be over or under represented. In this
+      employment in a specific industry may be over- or underrepresented. In this
       example, the location quotient concept is applied to the number of monastic
-      foundations by order in Norman Sicily. Hopefully, location quotients will
-      identify concentrations of orders in certain provinces of Sicily. In the model,
+      foundations by order. The location quotients should
+      identify concentrations of orders in Sicily's provinces. In the model,
       the monastic order replaces the concept of industry. For regions, the
       boundaries of the modern provinces are used for convenience, while the
       reference area is the whole of Sicily.</p>
@@ -34,39 +34,39 @@
     <p>All code is available via this project's
       <a href="https://github.com/joephayes/sicilian-monastic-orders-choropleth-map">GitHub repository.</a>
 
-    <h2>Instructions</h2>
-    <p>Select a monastic order from the dropdown and with your mouse hover over
-      the various provinces to see the concentration of the specific monastic
-      order.</p>
+      <h2>Instructions</h2>
+      <p>Select a monastic order from the dropdown menu and with your mouse hover over
+        the various provinces to see the concentration of a specific monastic
+        order.</p>
 
-    <p>Check the checkbox marked "Include Uncertain Data?" to include
-      monasteries with uncertain location or order information in the
-      calculation of location quotient.</p>
+      <p>Tick the checkbox marked "Include Uncertain Data?" to include
+        monasteries with undetermined locations or orders in the
+        calculation of the location quotients.</p>
 
-    <h2>The Map</h2>
+      <h2>The Map</h2>
 
-    <div class='filter-controls'>
-      <div class='column'>
-        <label for='orders_select'>Monastic Order:</label>
-        <select id='orders_select'></select>
+      <div class='filter-controls'>
+        <div class='column'>
+          <label for='orders_select'>Monastic Order:</label>
+          <select id='orders_select'></select>
+        </div>
+        <div class='column'>
+          <input type='checkbox' id='include_uncertains'/>
+          <label for='include_uncertains' class='tip-below'
+                 data-tip='By checking this box, monasteries with locations or orders
+                 that are uncertain will be merged with
+                 monasteries with known location and order data'>
+            Include Uncertain Data?
+          </label>
+        </div>
       </div>
-      <div class='column'>
-        <input type='checkbox' id='include_uncertains'/>
-        <label for='include_uncertains' class='tip-below'
-               data-tip='By checking this box, monasteries with provinces and orders
-               information which is not completely certain will be merged with
-               monasteries with certain province and order information'>
-          Include Uncertain Data?
-        </label>
-      </div>
-    </div>
-    <div id='map'></div>
-    <hr>
-    <p>&copy; 2017-2019 <a href="mailto:joephayes@gmail.com">Joseph P. Hayes</a></p>
+      <div id='map'></div>
+      <hr>
+      <p>&copy; 2017-2019 <a href="mailto:joephayes@gmail.com">Joseph P. Hayes</a></p>
 
-    <p>Released under the MIT license<p>
+      <p>Released under the MIT license<p>
 
-    <script type="text/javascript" src="app.js"></script>
+          <script type="text/javascript" src="app.js"></script>
 
   </body>
 </html>

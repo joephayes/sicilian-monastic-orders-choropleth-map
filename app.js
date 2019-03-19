@@ -16,7 +16,7 @@ class ChoroplethMapExample {
     $.each(orders, (index, value) => {
       orders_select
         .append($('<option>', { value : value })
-          .text(this.snakeCaseToTitleCase(value)));
+          .text(this.upperCaseToTitleCase(value)));
     });
 
     orders_select.change(() => {
@@ -52,11 +52,11 @@ class ChoroplethMapExample {
         let orders_select = $('#orders_select');
         let order_name = orders_select.val();
         L.control.infoControl.getContainer().innerHTML = '<h4>Monastic Orders</h4><em>Current Order: <strong>' +
-          this.snakeCaseToTitleCase(order_name) + '</strong></em><br/>' + (options ?
+          this.upperCaseToTitleCase(order_name) + '</strong></em><br/>' + (options ?
             '<em>Selected province:</em> <strong>' + options.NOME_PRO +
             '</strong><br/><em>Location Quotient: ' +
             this.orders_data[options.NOME_PRO][order_name] + '</em>'
-            : '<br/>Hover over a province');
+            : '<br/><em>Hover over a province.</em>');
       }
     });
 
@@ -122,8 +122,9 @@ class ChoroplethMapExample {
       }
 
       let divHtml = '<div class=\'title\'>Location Quotients</div>' +
-        '<div class=\'subtitle\'>(Quotients over 1.5 considered' +
-        ' a specialization)</div>' + labels.join('<br/>');
+        '<div class=\'subtitle\'>(Economists often identify an industry as' +
+        ' overrepresented if it has a location quotient of 1.5 or greater.)</div>' +
+        labels.join('<br/>');
 
       div.innerHTML = divHtml;
       return div;
@@ -132,8 +133,11 @@ class ChoroplethMapExample {
     legend.addTo(this.map);
   }
 
-  snakeCaseToTitleCase(s) {
-    return s.split('_').map((item) => {
+  upperCaseToTitleCase(s) {
+    return s.split(' ').map((item) => {
+      if (['OF','THE'].includes(item)) {
+        return item.toLowerCase();
+      }
       return item.charAt(0).toUpperCase() + item.substring(1).toLowerCase();
     }).join(' ');
   }
