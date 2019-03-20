@@ -67,7 +67,7 @@ class ChoroplethMapExample {
       $.getJSON('it_sicilia_provinces.geojson', (data) => {
         this.province_data = data;
       }),
-      $.getJSON('places-20190310.geojson', (data) => {
+      $.getJSON('places-20190319.geojson', (data) => {
         this.monasteries = data.features.map((f) => {
           let properties = f.properties;
           let province = ((province) => {
