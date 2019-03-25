@@ -4,10 +4,10 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.9573575, 38.4667512 ]
+      "coordinates" : [ 14.95728, 38.4668 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.464_14.953.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/10376237/cattedrale-di-san-bartolomeo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Garirat-Libara (unknown)", "Lipara (unknown)" ],
       "elevation" : 21.0,
@@ -45,7 +45,7 @@
       "coordinates" : [ 14.964094, 38.139876 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.147_14.97.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523864/patti.html" ],
       "children" : null,
       "alternate_location_names" : [ "Baqt.s (unknown)", "Pactes (unknown)" ],
       "elevation" : 0.0,
@@ -83,9 +83,9 @@
       "coordinates" : [ 13.663505, 37.936117 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.933_13.665.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525476/caccamo.html" ],
       "children" : null,
-      "alternate_location_names" : [ "Caccabo (unknown)", "K.k.b.sc (unknown)", "Qaqabus (unknown)", "Calces (unknown)", "Caccabum (unknown)" ],
+      "alternate_location_names" : [ "Qaqabus (unknown)", "Caccabo (unknown)", "K.k.b.sc (unknown)", "Calces (unknown)", "Caccabum (unknown)" ],
       "elevation" : 0.0,
       "rank_at_foundation" : "Priory",
       "parent" : "Abbey of Saint Bartholomew of Lipari/Saint Savior of Patti",
@@ -121,7 +121,7 @@
       "coordinates" : [ 14.8512177, 37.1270741 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.125_14.85.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525492/buccheri.html" ],
       "children" : null,
       "alternate_location_names" : [ "Baccaratum (unknown)", "Broccatus (unknown)", "Manzil-Bukìr (unknown)", "Buccherie (unknown)", "Castrum Buccherii (unknown)" ],
       "elevation" : 0.0,
@@ -159,7 +159,7 @@
       "coordinates" : [ 14.753695, 37.162151 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.161_14.75.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522709/vizzini.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bizinus (unknown)", "Bizino (unknown)", "Bidis (unknown)", "Bizînî (unknown)", "Bizinas (unknown)", "Turris Bizini (unknown)" ],
       "elevation" : 0.0,
@@ -197,7 +197,7 @@
       "coordinates" : [ 13.571007, 37.825702 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.824_13.566.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522774/vicari.html" ],
       "children" : null,
       "alternate_location_names" : [ "Biccari (unknown)", "Bikû (unknown)", "Boico (unknown)", "Biccarum (unknown)", "Castrum Biccari (unknown)" ],
       "elevation" : 0.0,
@@ -235,7 +235,7 @@
       "coordinates" : [ 14.2360416, 37.9832076 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.984_14.236.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522839/tusa.html" ],
       "children" : null,
       "alternate_location_names" : [ "Tusia (unknown)", "Tuz'ah (unknown)", "Tosa (unknown)", "Castrum Maritimae Tusae (unknown)" ],
       "elevation" : 0.0,
@@ -273,7 +273,7 @@
       "coordinates" : [ 14.213745, 37.304803 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.304_14.214.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524200/mazzarino.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mazaranu (unknown)", "Mazareno (unknown)", "Casale Mazarini (unknown)", "Mazareni (unknown)" ],
       "elevation" : 0.0,
@@ -287,7 +287,7 @@
       "english_place_name" : "Saint Mary of Mazzarino",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 103-104" ],
       "founders" : [ ],
-      "italian_place_name" : "Santa Maria a Mazzarino",
+      "italian_place_name" : "Santa Maria di Mazzarino",
       "place_type" : "monastery",
       "comune" : "Mazzarino",
       "place_category" : "priory",
@@ -311,7 +311,7 @@
       "coordinates" : [ 14.1845535, 37.1875953 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.191_14.184.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525480/butera.html" ],
       "children" : null,
       "alternate_location_names" : [ "Butheria (unknown)", "Buthìr (unknown)" ],
       "elevation" : 0.0,
@@ -349,7 +349,7 @@
       "coordinates" : [ 14.362704, 37.92746 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.927_14.357.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524122/mistretta.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mistrecta (unknown)" ],
       "elevation" : 0.0,
@@ -360,7 +360,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1122",
       "earliest_attestation_max_year" : "1122",
-      "english_place_name" : "Saint Anastasia in Mistretta",
+      "english_place_name" : "Saint Anastasia of Mistretta",
       "place_references" : [ "Cusa, Salvatore, ed. I diplomi greci ed arabi di Sicilia pubblicati nel testo originale. Palermo: Stabilimento tip. Lao, 1868. pp. 413", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 41" ],
       "founders" : [ "Matthew of Creun (Male)" ],
       "italian_place_name" : "Sant'Anastasia di Mistretta",
@@ -387,7 +387,7 @@
       "coordinates" : [ 13.35814, 38.098661 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 0.0,
@@ -425,7 +425,7 @@
       "coordinates" : [ 15.5533274, 38.1808393 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -463,7 +463,7 @@
       "coordinates" : [ 13.273087, 37.389294 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.383_13.267.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525557/capo-bianco.html" ],
       "children" : null,
       "alternate_location_names" : [ "Anf 'an Nahr (unknown)", "Capobianco (unknown)", "Monforte (unknown)" ],
       "elevation" : 0.0,
@@ -474,7 +474,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1131",
       "earliest_attestation_max_year" : "1131",
-      "english_place_name" : "Saint Anne of Monteforte",
+      "english_place_name" : "Saint Anne of Monforte",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 41" ],
       "founders" : [ ],
       "italian_place_name" : "Sant'Anna di Monforte",
@@ -501,7 +501,7 @@
       "coordinates" : [ 14.887604, 38.110529 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.155_14.83.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525499/brolo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Voah (unknown)", "Voab (unknown)", "Vohab (unknown)", "Marsâ Dalîah (unknown)" ],
       "elevation" : 411.0,
@@ -512,7 +512,7 @@
       "location_category" : "representative",
       "earliest_attestation_label" : "1084",
       "earliest_attestation_max_year" : "1084",
-      "english_place_name" : "Saint Michael Archangel of Brolo",
+      "english_place_name" : "Saint Michael the Archangel of Brolo",
       "place_references" : [ "Garufi, Carlo Alberto. I documenti inediti dell'epoca normanna in Sicilia. Palermo: Lo Statuto, 1899. pp. 1-7", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 41" ],
       "founders" : [ "Count Roger I (Male)" ],
       "italian_place_name" : "San Michele Arcangelo di Brolo",
@@ -539,7 +539,7 @@
       "coordinates" : [ 14.7005667, 38.0728323 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.072_14.701.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523425/san-marco-d-alunzio.html" ],
       "children" : null,
       "alternate_location_names" : [ "l'Agathyrnum (unknown)", "l'Agathinon (unknown)", "Qal'at-Sciant-Marku (unknown)", "Castrum Sancti Mauri (unknown)", "Castrum Marci (unknown)" ],
       "elevation" : 0.0,
@@ -577,7 +577,7 @@
       "coordinates" : [ 14.78688, 38.1222117 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.123_14.787.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524020/naso.html" ],
       "children" : null,
       "alternate_location_names" : [ "Nasa (unknown)", "Nasus (unknown)" ],
       "elevation" : 0.0,
@@ -615,7 +615,7 @@
       "coordinates" : [ 14.5993704, 37.782591 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.785_14.598.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522849/troina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Traina (unknown)", "Targinis (unknown)", "Trayna (unknown)", "Castrum Troinae (unknown)", "Castrum Trainae (unknown)", "Draginat (unknown)", "Targinis (unknown)" ],
       "elevation" : 0.0,
@@ -653,7 +653,7 @@
       "coordinates" : [ 14.8627627, 37.8286412 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.83_14.862.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524322/maletto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Castrum Malecti (unknown)" ],
       "elevation" : 0.0,
@@ -691,7 +691,7 @@
       "coordinates" : [ 14.081389, 37.885556 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.932_14.089.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525103/castelbuono.html" ],
       "children" : null,
       "alternate_location_names" : [ "Ypsigro (unknown)", "Ruqqah Basili (unknown)", "Castri Boni (unknown)", "Gonato (unknown)" ],
       "elevation" : 0.0,
@@ -702,10 +702,10 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1142-1143",
       "earliest_attestation_max_year" : "1143",
-      "english_place_name" : "Saint Cosmas of Gonata",
+      "english_place_name" : "Saint Cosmas at Gonata",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 41" ],
       "founders" : [ ],
-      "italian_place_name" : "San Cosma a Castelbuono",
+      "italian_place_name" : "San Cosma a Gonata",
       "place_type" : "monastery",
       "comune" : "Castelbuono",
       "place_category" : "abbey",
@@ -729,7 +729,7 @@
       "coordinates" : [ 14.5986194, 37.7844819 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.785_14.598.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522849/troina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Traina (unknown)", "Targinis (unknown)", "Trayna (unknown)", "Castrum Troinae (unknown)", "Castrum Trainae (unknown)", "Draginat (unknown)", "Targinis (unknown)", "Ambula (unknown)", "Ambola (unknown)" ],
       "elevation" : 0.0,
@@ -767,7 +767,7 @@
       "coordinates" : [ 15.0594847, 38.1242857 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.126_15.063.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523972/oliveri.html" ],
       "children" : null,
       "alternate_location_names" : [ "Marsa L.biri (unknown)", "Oliverium (unknown)", "Libiri (unknown)", "Limiri (unknown)", "Lu Liveri (unknown)", "Castrum Oliverii (unknown)" ],
       "elevation" : 0.0,
@@ -805,7 +805,7 @@
       "coordinates" : [ 14.6997621, 38.072883 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.072_14.701.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523425/san-marco-d-alunzio.html" ],
       "children" : null,
       "alternate_location_names" : [ "l'Agathyrnum (unknown)", "l'Agathinon (unknown)", "Qal'at-Sciant-Marku (unknown)", "Castrum Sancti Mauri (unknown)", "Castrum Marci (unknown)" ],
       "elevation" : 0.0,
@@ -843,7 +843,7 @@
       "coordinates" : [ 13.3544897, 38.1099097 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 24.0,
@@ -881,7 +881,7 @@
       "coordinates" : [ 13.2177298, 37.5738513 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.577_13.217.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525451/caltabellotta.html" ],
       "children" : null,
       "alternate_location_names" : [ "Troccolum (unknown)" ],
       "elevation" : 0.0,
@@ -919,7 +919,7 @@
       "coordinates" : [ 13.5771576, 37.3114325 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.45_13.5.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525764/agrigento.html" ],
       "children" : null,
       "alternate_location_names" : [ "Girgenti (unknown)" ],
       "elevation" : 0.0,
@@ -957,7 +957,7 @@
       "coordinates" : [ 15.4674759, 38.2357134 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.235_15.469.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Gibiso (unknown)", "Gesso (unknown)", "Ibiso (unknown)", "Gysa (unknown)", "Gypsus (unknown)", "Ysa (unknown)" ],
       "elevation" : 0.0,
@@ -995,7 +995,7 @@
       "coordinates" : [ 15.32228, 37.957175 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.958_15.323.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525251/casalvecchio-siculo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Palachorion (unknown)", "Calatabiet (unknown)", "Calatabieth (unknown)" ],
       "elevation" : 411.0,
@@ -1033,7 +1033,7 @@
       "coordinates" : [ 15.1319995, 38.016335 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.016_15.132.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523994/novara-di-sicilia.html" ],
       "children" : null,
       "alternate_location_names" : [ "Noara (unknown)", "Noharia (unknown)", "Nouah (unknown)", "Nugaria (unknown)", "Nohara (unknown)", "Castrum Nucariae (unknown)" ],
       "elevation" : 0.0,
@@ -1071,7 +1071,7 @@
       "coordinates" : [ 15.5533274, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -1109,7 +1109,7 @@
       "coordinates" : [ 15.014426, 37.889053 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.876_14.95.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523641/randazzo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Psicro (unknown)", "Ipsichro (unknown)", "Sicro (unknown)", "Fiumefreddo (unknown)", "Randâg (unknown)", "Randatium (unknown)" ],
       "elevation" : 590.0,
@@ -1147,7 +1147,7 @@
       "coordinates" : [ 15.5210473, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -1185,7 +1185,7 @@
       "coordinates" : [ 12.612731, 37.651731 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.655_12.59.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524205/mazara-del-vallo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mâzar (unknown)", "Castrum Maczarie (unknown)" ],
       "elevation" : 27.0,
@@ -1196,7 +1196,7 @@
       "location_category" : "representative",
       "earliest_attestation_label" : "before 1144",
       "earliest_attestation_max_year" : "1144",
-      "english_place_name" : "Saint Mary de Alto de Jummariis",
+      "english_place_name" : "Saint Mary of the Giummare",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 42" ],
       "founders" : [ ],
       "italian_place_name" : "Santa Maria delle Giummare",
@@ -1223,9 +1223,9 @@
       "coordinates" : [ 15.5135857, 38.1754338 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.183_15.517.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
-      "alternate_location_names" : [ ],
+      "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
       "rank_at_foundation" : "Abbey",
       "parent" : null,
@@ -1261,7 +1261,7 @@
       "coordinates" : [ 13.5638698, 38.0373274 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.038_13.548.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525734/altavilla-milicia.html" ],
       "children" : null,
       "alternate_location_names" : [ ],
       "elevation" : 0.0,
@@ -1299,7 +1299,7 @@
       "coordinates" : [ 13.361046, 38.113141 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.132_13.336.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 77.0,
@@ -1337,7 +1337,7 @@
       "coordinates" : [ 15.233962, 38.119878 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.148_15.21.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525597/barcellona-pozzo-di-gotto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Galath (unknown)" ],
       "elevation" : 260.0,
@@ -1375,7 +1375,7 @@
       "coordinates" : [ 14.8055513, 38.0837188 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.085_14.807.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525088/castell-umberto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mallimaco (unknown)", "Castania (unknown)", "Quastania (unknown)", "Castaniae (unknown)" ],
       "elevation" : 0.0,
@@ -1413,7 +1413,7 @@
       "coordinates" : [ 15.33537, 37.995241 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.004_15.317.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524310/mandanici.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mandanichium (unknown)", "Mashjmonli (unknown)", "Mandanich (unknown)", "Mandanichi (unknown)" ],
       "elevation" : 319.0,
@@ -1427,7 +1427,7 @@
       "english_place_name" : "Saint Mary of Mandanici",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 42" ],
       "founders" : [ "Count Roger I (Male)" ],
-      "italian_place_name" : "Santa Maria di Mandinici",
+      "italian_place_name" : "Santa Maria di Mandanici",
       "place_type" : "monastery",
       "comune" : "Mandanici",
       "place_category" : "abbey",
@@ -1451,7 +1451,7 @@
       "coordinates" : [ 12.4424612, 37.799186 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.804_12.438.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524245/marsala.html" ],
       "children" : null,
       "alternate_location_names" : [ "Marsa-Ali (unknown)", "Marsa-Allah (unknown)" ],
       "elevation" : 53.0,
@@ -1489,9 +1489,9 @@
       "coordinates" : [ 15.5368073, 38.2749769 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.274_15.537.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
-      "alternate_location_names" : [ ],
+      "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
       "rank_at_foundation" : "Abbey",
       "parent" : null,
@@ -1527,9 +1527,9 @@
       "coordinates" : [ 15.490884, 38.124229 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.126_15.489.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
-      "alternate_location_names" : [ ],
+      "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 167.0,
       "rank_at_foundation" : "Abbey",
       "parent" : null,
@@ -1565,7 +1565,7 @@
       "coordinates" : [ 13.362868, 38.114766 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 15.0,
@@ -1603,7 +1603,7 @@
       "coordinates" : [ 14.9212254, 37.5617072 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.571_14.903.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523866/paterno.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bâtarnû (unknown)", "Paternio (unknown)", "Castrum Paternionis (unknown)" ],
       "elevation" : 300.0,
@@ -1641,7 +1641,7 @@
       "coordinates" : [ 13.571007, 37.825702 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.824_13.566.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522774/vicari.html" ],
       "children" : null,
       "alternate_location_names" : [ "Biccari (unknown)", "Bikû (unknown)", "Boico (unknown)", "Biccarum (unknown)", "Castrum Biccari (unknown)" ],
       "elevation" : 0.0,
@@ -1679,7 +1679,7 @@
       "coordinates" : [ 14.60082, 37.78525 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.785_14.598.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522849/troina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Traina (unknown)", "Targinis (unknown)", "Trayna (unknown)", "Castrum Troinae (unknown)", "Castrum Trainae (unknown)", "Draginat (unknown)", "Targinis (unknown)" ],
       "elevation" : 0.0,
@@ -1714,10 +1714,10 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.590779, 37.653498 ]
+      "coordinates" : [ 12.612731, 37.651731 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.655_12.59.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524205/mazara-del-vallo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mâzar (unknown)", "Castrum Maczarie (unknown)" ],
       "elevation" : 12.0,
@@ -1755,7 +1755,7 @@
       "coordinates" : [ 14.8274471, 38.1104051 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.109_14.829.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524764/ficarra.html" ],
       "children" : null,
       "alternate_location_names" : [ "Ficcara (unknown)", "Fulgerino (unknown)", "Filarino (unknown)", "Ficarie (unknown)" ],
       "elevation" : 0.0,
@@ -1793,7 +1793,7 @@
       "coordinates" : [ 14.6071177, 37.7732506 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.785_14.598.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/11821412/ruderi-del-monastero-di-s-michele-arcangelo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Traina (unknown)", "Targinis (unknown)", "Trayna (unknown)", "Castrum Troinae (unknown)", "Castrum Trainae (unknown)", "Draginat (unknown)", "Targinis (unknown)" ],
       "elevation" : 853.0,
@@ -1831,7 +1831,7 @@
       "coordinates" : [ 15.554167, 38.216111 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -1869,7 +1869,7 @@
       "coordinates" : [ 15.4367602, 38.050838 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.051_15.438.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524492/itala.html" ],
       "children" : null,
       "alternate_location_names" : [ "Gitala (unknown)" ],
       "elevation" : 0.0,
@@ -1907,7 +1907,7 @@
       "coordinates" : [ 14.1845535, 37.1875953 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.191_14.184.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525480/butera.html" ],
       "children" : null,
       "alternate_location_names" : [ "Butheria (unknown)", "Buthìr (unknown)" ],
       "elevation" : 0.0,
@@ -1945,7 +1945,7 @@
       "coordinates" : [ 14.916375, 38.0462583 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.055_14.91.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523658/raccuja.html" ],
       "children" : null,
       "alternate_location_names" : [ "Racuja (unknown)", "Raccuglia (unknown)", "Rahl kudyah (unknown)", "Racudia (unknown)", "Raccudia (unknown)", "Castrum Raccuiae (unknown)" ],
       "elevation" : 665.0,
@@ -1983,7 +1983,7 @@
       "coordinates" : [ 13.3336542, 38.0787177 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.083_13.333.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Churchuro (unknown)", "Churkaru (unknown)", "Ci'irchuro (unknown)" ],
       "elevation" : 0.0,
@@ -2021,7 +2021,7 @@
       "coordinates" : [ 14.896241, 37.56779 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.571_14.903.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523866/paterno.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bâtarnû (unknown)", "Paternio (unknown)", "Castrum Paternionis (unknown)" ],
       "elevation" : 0.0,
@@ -2035,7 +2035,7 @@
       "english_place_name" : "Saint Nicholas of Paternò",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 43" ],
       "founders" : [ "Geoffrey Secretus (Male)" ],
-      "italian_place_name" : "San Nicolò of Paternò",
+      "italian_place_name" : "San Nicolò di Paternò",
       "place_type" : "monastery",
       "comune" : "Paternò",
       "place_category" : "abbey",
@@ -2059,7 +2059,7 @@
       "coordinates" : [ 15.010865, 37.933354 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.933_15.01.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523594/roccella-valdemone.html" ],
       "children" : null,
       "alternate_location_names" : [ "Castrum Aurichelle (unknown)", "Castrum Roccellae (unknown)" ],
       "elevation" : 0.0,
@@ -2094,10 +2094,10 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.586792, 37.6537615 ]
+      "coordinates" : [ 12.5874, 37.65359 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.655_12.59.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/10376094/saint-nicolo-regale.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mâzar (unknown)", "Castrum Maczarie (unknown)" ],
       "elevation" : 2.0,
@@ -2135,7 +2135,7 @@
       "coordinates" : [ 15.4688599, 38.2348833 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.235_15.469.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524634/gesso.html" ],
       "children" : null,
       "alternate_location_names" : [ "Gibiso (unknown)", "Gesso (unknown)", "Ibiso (unknown)", "Gysa (unknown)", "Gypsus (unknown)", "Gypso (unknown)" ],
       "elevation" : 0.0,
@@ -2173,7 +2173,7 @@
       "coordinates" : [ 14.5972855386231, 38.0328919780564 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.017_14.598.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523487/san-fratello.html" ],
       "children" : null,
       "alternate_location_names" : [ "San Filadelfo (unknown)", "San Filadelfio (unknown)", "Philadelphos (unknown)", "Filad.nt (unknown)", "Filadalf (unknown)", "Filadelfus (unknown)", "Castrum Sancti Filadelli (unknown)", "Castrum Sancti Filodelli (unknown)", "Philatellus (unknown)", "Filadellus (unknown)", "Fradellus (unknown)", "Tre Santi (unknown)" ],
       "elevation" : 703.0,
@@ -2184,7 +2184,7 @@
       "location_category" : "representative",
       "earliest_attestation_label" : "1131",
       "earliest_attestation_max_year" : "1131",
-      "english_place_name" : "Saint Pancras of San Fratello",
+      "english_place_name" : "Saint Pancras of Saint Fratello",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 43" ],
       "founders" : [ ],
       "italian_place_name" : "San Pancrazio di San Fratello",
@@ -2211,7 +2211,7 @@
       "coordinates" : [ 12.4681852, 37.8676528 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.865_12.468.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524039/mozia.html" ],
       "children" : null,
       "alternate_location_names" : [ ],
       "elevation" : 0.0,
@@ -2249,7 +2249,7 @@
       "coordinates" : [ 14.686714, 38.085164 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.094_14.68.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522900/torrenova.html" ],
       "children" : null,
       "alternate_location_names" : [ ],
       "elevation" : 88.0,
@@ -2287,7 +2287,7 @@
       "coordinates" : [ 13.6040968, 37.6798925 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.679_13.603.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525074/castronuovo-di-sicilia.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qaṣr Nubut (unknown)", "Qasr-Nubu (unknown)", "Castrum Castrinovi (unknown)", "Qasr al-Gadid (unknown)", "Qasr al Jadid (unknown)", "Castrum Novum (unknown)" ],
       "elevation" : 0.0,
@@ -2325,7 +2325,7 @@
       "coordinates" : [ 15.3084088, 37.9470811 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.958_15.323.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525251/casalvecchio-siculo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Palachorion (unknown)", "Calatabiet (unknown)", "Calatabieth (unknown)" ],
       "elevation" : 142.0,
@@ -2363,7 +2363,7 @@
       "coordinates" : [ 15.440424, 38.046484 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.051_15.438.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524492/itala.html" ],
       "children" : null,
       "alternate_location_names" : [ "Gitala (unknown)" ],
       "elevation" : 237.0,
@@ -2401,7 +2401,7 @@
       "coordinates" : [ 14.741713, 38.0705092 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.073_14.742.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524698/frazzano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Frasano (unknown)", "Flacianò (unknown)", "Frasino (unknown)" ],
       "elevation" : 523.0,
@@ -2439,7 +2439,7 @@
       "coordinates" : [ 15.5003272, 38.1654608 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.165_15.501.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523492/san-filippo-superiore.html" ],
       "children" : null,
       "alternate_location_names" : [ ],
       "elevation" : 0.0,
@@ -2477,7 +2477,7 @@
       "coordinates" : [ 15.2730725, 38.1697389 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.144_15.281.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523333/santa-lucia-del-mela.html" ],
       "children" : null,
       "alternate_location_names" : [ "Santa Lucia del Mela (unknown)", "Castrum Maccaruni (unknown)", "Castrum Sanctae Luciae (unknown)" ],
       "elevation" : 0.0,
@@ -2488,7 +2488,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "before 1101",
       "earliest_attestation_max_year" : "1101",
-      "english_place_name" : "Saint Philip",
+      "english_place_name" : "Saint Philip of Saint Lucy",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 43" ],
       "founders" : [ "Count Roger I (Male)" ],
       "italian_place_name" : "San Filippo di Santa Lucia",
@@ -2515,7 +2515,7 @@
       "coordinates" : [ 15.562538, 38.196592 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -2553,7 +2553,7 @@
       "coordinates" : [ 15.5210473, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -2564,7 +2564,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : null,
       "earliest_attestation_max_year" : null,
-      "english_place_name" : "Christ the Savior in Messina",
+      "english_place_name" : "Christ the Savior of Messina",
       "place_references" : [ "Garufi, Carlo Alberto. I documenti inediti dell'epoca normanna in Sicilia. Palermo: Lo Statuto, 1899. pp. 168", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 43" ],
       "founders" : [ ],
       "italian_place_name" : "Santissimo Salvatore di Messina",
@@ -2588,10 +2588,10 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.3586443, 38.1143913 ]
+      "coordinates" : [ 13.35888, 38.11442 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/10344717/chiesa-del-santissimo-salvatore.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 55.0,
@@ -2602,7 +2602,7 @@
       "location_category" : "representative",
       "earliest_attestation_label" : null,
       "earliest_attestation_max_year" : null,
-      "english_place_name" : "Christ the Savior in Palermo",
+      "english_place_name" : "Christ the Savior of Palermo",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 43" ],
       "founders" : [ ],
       "italian_place_name" : "Santissimo Salvatore di Palermo",
@@ -2629,7 +2629,7 @@
       "coordinates" : [ 15.1010408, 37.9153099 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.902_15.137.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524707/francavilla-di-sicilia.html" ],
       "children" : null,
       "alternate_location_names" : [ ],
       "elevation" : 495.0,
@@ -2667,7 +2667,7 @@
       "coordinates" : [ 15.478462, 38.100772 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)", "Briga (unknown)", "Briculo (unknown)" ],
       "elevation" : 144.0,
@@ -2705,7 +2705,7 @@
       "coordinates" : [ 15.268428, 38.187244 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.221_15.238.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524155/milazzo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Milâs (unknown)", "Milatium (unknown)", "Castrum Melacii (unknown)" ],
       "elevation" : 0.0,
@@ -2743,7 +2743,7 @@
       "coordinates" : [ 14.7496803, 38.0847065 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.085_14.751.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524131/mirto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Mertu (unknown)" ],
       "elevation" : 0.0,
@@ -2781,7 +2781,7 @@
       "coordinates" : [ 12.7541969, 37.6858036 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.683_12.792.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525083/castelvetrano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qaṣr Ibn Mankud (unknown)", "Bellumvidere Castle (unknown)", "Palazzo Pignatelli (unknown)", "Bellumvider Castle (unknown)", "Castrum Vitranum (unknown)", "Handag al daliyah (unknown)" ],
       "elevation" : 149.0,
@@ -2819,7 +2819,7 @@
       "coordinates" : [ 15.2167096, 38.0440563 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.074_15.205.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525073/castroreale.html" ],
       "children" : null,
       "alternate_location_names" : [ "Baffia (unknown)", "Vanellu (unknown)" ],
       "elevation" : 0.0,
@@ -2857,7 +2857,7 @@
       "coordinates" : [ 15.092612, 37.518963 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.472_14.847.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525068/catania.html" ],
       "children" : "Abbey of Saint Euphemia, Calabria",
       "alternate_location_names" : [ "Cathania (unknown)", "Qataniah (unknown)", "Balad-al-Fil (unknown)", "Qatâna (unknown)", "Castello Ursino (unknown)" ],
       "elevation" : 66.0,
@@ -2895,7 +2895,7 @@
       "coordinates" : [ 14.9936716, 37.7511407 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.616_15.025.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524010/nicolosi.html" ],
       "children" : null,
       "alternate_location_names" : [ "Pennachio (unknown)" ],
       "elevation" : 0.0,
@@ -2933,7 +2933,7 @@
       "coordinates" : [ 14.8580471, 37.6484169 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.662_14.835.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525769/adrano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Adernò (unknown)" ],
       "elevation" : 0.0,
@@ -2971,7 +2971,7 @@
       "coordinates" : [ 14.887793, 37.616163 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.615_14.891.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523320/santa-maria-di-licodia.html" ],
       "children" : "Abbey of Saint Agatha of Catania",
       "alternate_location_names" : [ ],
       "elevation" : 446.0,
@@ -3006,10 +3006,10 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.3547141, 38.1097357 ]
+      "coordinates" : [ 13.35478, 38.10953 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/11822517/eglise-saint-jean-des-ermites.html" ],
       "children" : "Abbey of Santa Maria of Montevergine, Campania",
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 24.0,
@@ -3047,7 +3047,7 @@
       "coordinates" : [ 13.3328134, 37.6455443 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.681_13.379.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523925/palazzo-adriano.html" ],
       "children" : "Abbey of Saint John of the Hermits",
       "alternate_location_names" : [ "Adrianum (unknown)", "Villa Adriana (unknown)", "Palacium Triane (unknown)", "Castrum Palacii Adriani (unknown)" ],
       "elevation" : 733.0,
@@ -3082,10 +3082,10 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.2918855, 38.0782587 ]
+      "coordinates" : [ 13.29215, 38.08202 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.08_13.289.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/10401310/cattedrale-di-monreale.html" ],
       "children" : "Abbey of the Holy Trinity at La Cava, Campania",
       "alternate_location_names" : [ "Munt Rival (unknown)" ],
       "elevation" : 256.0,
@@ -3123,7 +3123,7 @@
       "coordinates" : [ 14.831383, 37.858033 ]
     },
     "properties" : {
-      "location_see_also_uris" : null,
+      "location_see_also_uris" : [ "http://www.geonames.org/2525498/bronte.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bronti (unknown)", "Brontis (unknown)" ],
       "elevation" : 754.0,
@@ -3161,7 +3161,7 @@
       "coordinates" : [ 13.08785, 37.507266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.508_13.088.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523194/sciacca.html" ],
       "children" : null,
       "alternate_location_names" : [ "Valverde (unknown)", "Sacca (unknown)", "'As Saqqah (unknown)", "Cronio (unknown)", "Kronio (unknown)", "Castrum Saccae (unknown)", "Castrum Novum Saccae (unknown)", "Xiaxia (unknown)" ],
       "elevation" : 73.0,
@@ -3175,7 +3175,7 @@
       "english_place_name" : "Saint Mary of Jummarriis",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 149-151" ],
       "founders" : [ "Countess Juliet (Female)" ],
-      "italian_place_name" : "Santa Maria de Giummare",
+      "italian_place_name" : "Santa Maria delle Giummare",
       "place_type" : "monastery",
       "comune" : "Sciacca",
       "place_category" : "priory",
@@ -3199,7 +3199,7 @@
       "coordinates" : [ 14.8978519, 37.0931777 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.087_14.884.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525483/buscemi.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bussema (unknown)", "Requisenz (unknown)", "Buyssem (unknown)", "Buxeme (unknown)" ],
       "elevation" : 623.0,
@@ -3237,7 +3237,7 @@
       "coordinates" : [ 13.168807, 38.703677 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.711_13.192.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2522818/ustica.html" ],
       "children" : null,
       "alternate_location_names" : [ "Ghazîrat-Osctika (unknown)", "Hostica (unknown)" ],
       "elevation" : 0.0,
@@ -3275,7 +3275,7 @@
       "coordinates" : [ 15.514933, 38.213066 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : "Abbey of Saint Euplus, Calabria",
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 278.0,
@@ -3286,10 +3286,10 @@
       "location_category" : "representative",
       "earliest_attestation_label" : "before 1101",
       "earliest_attestation_max_year" : "1101",
-      "english_place_name" : "Saint Mary della Scala",
+      "english_place_name" : "Saint Mary delle Scale",
       "place_references" : [ "Garufi, Carlo Alberto. I documenti inediti dell'epoca normanna in Sicilia. Palermo: Lo Statuto, 1899. pp. 15-16, 101-102", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 153-157" ],
       "founders" : [ "Count Roger I (Male)", "Countess Adelasia (Female)" ],
-      "italian_place_name" : "Santa Maria de Scalis",
+      "italian_place_name" : "Santa Maria delle Scale",
       "place_type" : "monastery",
       "comune" : "Messina",
       "place_category" : "abbey",
@@ -3313,7 +3313,7 @@
       "coordinates" : [ 15.281103, 37.069723 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.088_15.279.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523083/siracusa.html" ],
       "children" : null,
       "alternate_location_names" : [ "Sarakûsa (unknown)" ],
       "elevation" : 0.0,
@@ -3324,7 +3324,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : null,
       "earliest_attestation_max_year" : null,
-      "english_place_name" : "Saint Mary de Monialibus",
+      "english_place_name" : "Saint Mary of the Nuns",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 157" ],
       "founders" : [ ],
       "italian_place_name" : "Santa Maria de Monialibus",
@@ -3351,7 +3351,7 @@
       "coordinates" : [ 14.83369, 37.662844 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.662_14.835.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525769/adrano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Adernò (unknown)" ],
       "elevation" : 558.0,
@@ -3389,7 +3389,7 @@
       "coordinates" : [ 13.2995746, 37.8135067 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.299.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524928/corleone.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qorliûn (unknown)", "Coiroillionis (unknown)", "Corilionis (unknown)", "Coniglione (unknown)" ],
       "elevation" : 0.0,
@@ -3427,7 +3427,7 @@
       "coordinates" : [ 13.3683437, 38.1131978 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 12.0,
@@ -3438,7 +3438,7 @@
       "location_category" : "representative",
       "earliest_attestation_label" : "c. 1191",
       "earliest_attestation_max_year" : "1200",
-      "english_place_name" : "Abbey of the Holy Trinity of the Chancellor in Palermo",
+      "english_place_name" : "Holy Trinity of the Chancellor",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 180-181" ],
       "founders" : [ "Royal Vice-Chancellor Matthew of Agello (Male)" ],
       "italian_place_name" : "Santissima Trinità del Cancelliere",
@@ -3465,7 +3465,7 @@
       "coordinates" : [ 13.3620184, 38.1148252 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 16.0,
@@ -3503,7 +3503,7 @@
       "coordinates" : [ 13.4333844, 37.7208839 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.721_13.433.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523678/prizzi.html" ],
       "children" : "Abbey of Saint Mary Magdalene, Tripoli, Syria",
       "alternate_location_names" : [ "B.r.zzu (unknown)", "Prizi (unknown)", "Perizium (unknown)", "Perici (unknown)", "Castrum Piricii (unknown)" ],
       "elevation" : 0.0,
@@ -3541,7 +3541,7 @@
       "coordinates" : [ 13.4333844, 37.7208839 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.721_13.433.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523678/prizzi.html" ],
       "children" : null,
       "alternate_location_names" : [ "B.r.zzu (unknown)", "Prizi (unknown)", "Perizium (unknown)", "Perici (unknown)", "Castrum Piricii (unknown)" ],
       "elevation" : 0.0,
@@ -3579,7 +3579,7 @@
       "coordinates" : [ 13.362695, 38.0998181 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : "Abbey of Sambucina, Calabria",
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 34.0,
@@ -3617,7 +3617,7 @@
       "coordinates" : [ 13.343851, 37.608188 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.599_13.29.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525485/burgio.html" ],
       "children" : null,
       "alternate_location_names" : [ "Villanova (unknown)", "Burgimill (unknown)", "Burgimillus (unknown)", "Burgi de Cristiani (unknown)", "Borgetto (unknown)" ],
       "elevation" : 806.0,
@@ -3655,7 +3655,7 @@
       "coordinates" : [ 14.9154348, 37.6571737 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.615_14.891.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523320/santa-maria-di-licodia.html" ],
       "children" : "Abbey of Saint Agatha of Catania",
       "alternate_location_names" : [ ],
       "elevation" : 847.0,
@@ -3693,7 +3693,7 @@
       "coordinates" : [ 13.3606459, 38.1168651 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 12.0,
@@ -3731,7 +3731,7 @@
       "coordinates" : [ 15.104299, 37.999851 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.016_15.132.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523994/novara-di-sicilia.html" ],
       "children" : "Abbey of Sambucina, Calabria",
       "alternate_location_names" : [ "Noara (unknown)", "Noharia (unknown)", "Nouah (unknown)", "Nugaria (unknown)", "Nohara (unknown)", "Castrum Nucariae (unknown)" ],
       "elevation" : 533.0,
@@ -3769,7 +3769,7 @@
       "coordinates" : [ 15.523231, 38.140598 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : "Abbey of Saint Mary of Novara",
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 27.0,
@@ -3807,7 +3807,7 @@
       "coordinates" : [ 15.068383, 36.889834 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_36.89_15.069.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523998/noto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Notus (unknown)", "Notosc (unknown)", "Nutus (unknown)", "Nota (unknown)" ],
       "elevation" : 0.0,
@@ -3845,7 +3845,7 @@
       "coordinates" : [ 13.3569992, 38.117699 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 0.0,
@@ -3856,7 +3856,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1116",
       "earliest_attestation_max_year" : "1116",
-      "english_place_name" : "Saint Peter in Palermo",
+      "english_place_name" : "Saint Peter of Palermo",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 186" ],
       "founders" : [ ],
       "italian_place_name" : "San Pietro di Palermo",
@@ -3883,7 +3883,7 @@
       "coordinates" : [ 13.116553, 38.045107 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.044_13.12.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523871/partinico.html" ],
       "children" : null,
       "alternate_location_names" : [ "B.rt.niq (unknown)", "Bartinîq (unknown)", "Battinîq (unknown)", "Partenich (unknown)", "Castrum Sale Parthenici (unknown)" ],
       "elevation" : 0.0,
@@ -3894,7 +3894,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : null,
       "earliest_attestation_max_year" : null,
-      "english_place_name" : "Saint James in Partinico",
+      "english_place_name" : "Saint James of Partinico",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 186" ],
       "founders" : [ ],
       "italian_place_name" : "San Giacomo di Partinico",
@@ -3921,7 +3921,7 @@
       "coordinates" : [ 13.6017081, 37.679698 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.679_13.603.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525074/castronuovo-di-sicilia.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qaṣr Nubut (unknown)", "Qasr-Nubu (unknown)", "Castrum Castrinovi (unknown)", "Qasr al-Gadid (unknown)", "Qasr al Jadid (unknown)", "Castrum Novum (unknown)" ],
       "elevation" : 0.0,
@@ -3959,7 +3959,7 @@
       "coordinates" : [ 13.602676, 37.678159 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.679_13.603.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525074/castronuovo-di-sicilia.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qaṣr Nubut (unknown)", "Qasr-Nubu (unknown)", "Castrum Castrinovi (unknown)", "Qasr al-Gadid (unknown)", "Qasr al Jadid (unknown)", "Castrum Novum (unknown)" ],
       "elevation" : 0.0,
@@ -3997,7 +3997,7 @@
       "coordinates" : [ 15.5210473, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -4035,7 +4035,7 @@
       "coordinates" : [ 15.2333918, 37.8230309 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.821_15.228.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525459/calatabiano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qal'at al-Bian (unknown)", "Qal'at al-Bayan (unknown)", "Calatabien (unknown)", "Castrum Calatabiani (unknown)" ],
       "elevation" : 0.0,
@@ -4073,7 +4073,7 @@
       "coordinates" : [ 14.996815, 37.288121 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.285_15.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524410/lentini.html" ],
       "children" : null,
       "alternate_location_names" : [ "Lentina (unknown)", "Leontini (unknown)", "Wâdî Lentini (unknown)", "Palude Salata (unknown)" ],
       "elevation" : 0.0,
@@ -4111,7 +4111,7 @@
       "coordinates" : [ 15.068268, 36.889968 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_36.89_15.069.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523998/noto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Larbiato (unknown)", "Notus (unknown)", "Notosc (unknown)", "Nutus (unknown)", "Nota (unknown)", "Ralbiceo (unknown)", "Rahalbiati (unknown)", "Ralbiatum (unknown)" ],
       "elevation" : 0.0,
@@ -4149,7 +4149,7 @@
       "coordinates" : [ 13.855695, 37.82149 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.822_13.855.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523185/sclafani-bagni.html" ],
       "children" : null,
       "alternate_location_names" : [ "Isqlafiah (unknown)", "Schafa (unknown)", "Sclafa (unknown)", "Cluse (unknown)", "Chiuse (unknown)" ],
       "elevation" : 0.0,
@@ -4187,7 +4187,7 @@
       "coordinates" : [ 13.2995746, 37.8135067 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.299.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524928/corleone.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qorliûn (unknown)", "Coiroillionis (unknown)", "Corilionis (unknown)", "Coniglione (unknown)" ],
       "elevation" : 0.0,
@@ -4225,7 +4225,7 @@
       "coordinates" : [ 15.2433448, 38.2183065 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.221_15.238.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524155/milazzo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Milâs (unknown)", "Milatium (unknown)", "Castrum Melacii (unknown)" ],
       "elevation" : 0.0,
@@ -4263,7 +4263,7 @@
       "coordinates" : [ 14.0233794, 38.0399685 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.032_14.01.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525041/cefalu.html" ],
       "children" : "Priory of Saint Mary and the Twelve Apostles at Bagnara, Calabria",
       "alternate_location_names" : [ "Gafludi (unknown)", "Cephaludi (unknown)" ],
       "elevation" : 47.0,
@@ -4277,7 +4277,7 @@
       "english_place_name" : "Christ the Savior and Saints Peter and Paul of Cefalù",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 189-201" ],
       "founders" : [ "King Roger II (Male)" ],
-      "italian_place_name" : "Santissimo Salvatore e Santi Pietro e Paolo Cefalù",
+      "italian_place_name" : "Santissimo Salvatore e Santi Pietro e Paolo a Cefalù",
       "place_type" : "monastery",
       "comune" : "Cefalù",
       "place_category" : "abbey",
@@ -4301,7 +4301,7 @@
       "coordinates" : [ 15.281103, 37.069723 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.088_15.279.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523083/siracusa.html" ],
       "children" : null,
       "alternate_location_names" : [ "Sarakûsa (unknown)" ],
       "elevation" : 0.0,
@@ -4339,7 +4339,7 @@
       "coordinates" : [ 13.963844, 37.952862 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.966_13.972.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524572/gratteri.html" ],
       "children" : null,
       "alternate_location_names" : [ "Q.ratiris (unknown)" ],
       "elevation" : 665.0,
@@ -4353,7 +4353,7 @@
       "english_place_name" : "Saint George of Gratteri",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 205-206" ],
       "founders" : [ "Duke of Apulia Roger (Male)" ],
-      "italian_place_name" : "San Giorgio a Gratteri",
+      "italian_place_name" : "San Giorgio di Gratteri",
       "place_type" : "monastery",
       "comune" : "Gratteri",
       "place_category" : "priory",
@@ -4377,7 +4377,7 @@
       "coordinates" : [ 15.3, 38.07 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.148_15.21.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525597/barcellona-pozzo-di-gotto.html" ],
       "children" : null,
       "alternate_location_names" : [ "Galath (unknown)" ],
       "elevation" : 0.0,
@@ -4415,7 +4415,7 @@
       "coordinates" : [ 14.8946395, 37.5657758 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.571_14.903.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523866/paterno.html" ],
       "children" : null,
       "alternate_location_names" : [ "Gancia (unknown)", "Bâtarnû (unknown)", "Paternio (unknown)", "Castrum Paternionis (unknown)" ],
       "elevation" : 256.0,
@@ -4453,7 +4453,7 @@
       "coordinates" : [ 15.292174, 38.043722 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "San Placido di Calonerò (unknown)", "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -4467,7 +4467,7 @@
       "english_place_name" : "Saint Mary Magdalene of Jehosaphat",
       "place_references" : [ "Garufi, Carlo Alberto. I documenti inediti dell'epoca normanna in Sicilia. Palermo: Lo Statuto, 1899. pp. 36-38, 66-67, 67-72", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 210-213" ],
       "founders" : [ ],
-      "italian_place_name" : "Santa Maria Maddalena Giosafat",
+      "italian_place_name" : "Santa Maria Maddalena di Giosafat",
       "place_type" : "monastery",
       "comune" : "Messina",
       "place_category" : "priory",
@@ -4491,7 +4491,7 @@
       "coordinates" : [ 12.880417, 38.02643 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.019_12.886.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525095/castellammare-del-golfo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Hisn-al-Madrig (unknown)", "Calatamet (unknown)", "Qal'at al hammah (unknown)", "Castrum Calatameti (unknown)" ],
       "elevation" : 0.0,
@@ -4529,7 +4529,7 @@
       "coordinates" : [ 14.5184819, 37.6569322 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.656_14.522.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525767/agira.html" ],
       "children" : null,
       "alternate_location_names" : [ "Agirò (unknown)", "Agoron (unknown)", "Mons Argirium (unknown)", "Argirione (unknown)" ],
       "elevation" : 608.0,
@@ -4567,7 +4567,7 @@
       "coordinates" : [ 13.99922, 37.811967 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.812_14.003.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523736/polizzi-generosa.html" ],
       "children" : null,
       "alternate_location_names" : [ "Hisn-Bûlis (unknown)", "Castrum Policii (unknown)", "Politium (unknown)", "Casrum Policii (unknown)" ],
       "elevation" : 0.0,
@@ -4578,7 +4578,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1151",
       "earliest_attestation_max_year" : "1151",
-      "english_place_name" : "Saint Mary of the Latins at Polizzi",
+      "english_place_name" : "Saint Mary of the Latins of Polizzi",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 224-225" ],
       "founders" : [ ],
       "italian_place_name" : "Santa Maria Latina di Polizzi",
@@ -4605,7 +4605,7 @@
       "coordinates" : [ 14.47828, 37.848816 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.848_14.478.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525387/capizzi.html" ],
       "children" : null,
       "alternate_location_names" : [ "Capicio (unknown)", "Qaysî (unknown)", "Capitio (unknown)" ],
       "elevation" : 0.0,
@@ -4643,7 +4643,7 @@
       "coordinates" : [ 14.524197, 36.828956 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_36.926_14.724.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523650/ragusa.html" ],
       "children" : null,
       "alternate_location_names" : [ "Kamerina (unknown)", "Camerina (unknown)", "Ragusia (unknown)", "Ragûs (unknown)", "Castrum Ragusiae (unknown)", "Racusiam (unknown)" ],
       "elevation" : 0.0,
@@ -4681,7 +4681,7 @@
       "coordinates" : [ 15.5210473, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -4695,7 +4695,7 @@
       "english_place_name" : "Saint Mary of the Latins",
       "place_references" : [ "Garufi, Carlo Alberto. I documenti inediti dell'epoca normanna in Sicilia. Palermo: Lo Statuto, 1899. pp. 163-164", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 227-228" ],
       "founders" : [ ],
-      "italian_place_name" : "Santa Maria Latina",
+      "italian_place_name" : "Santa Maria dei Latina",
       "place_type" : "monastery",
       "comune" : "Messina",
       "place_category" : "priory",
@@ -4719,7 +4719,7 @@
       "coordinates" : [ 14.36291, 37.391941 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.386_14.367.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523796/piazza-armerina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Iblatasa (unknown)", "Iblatsah (unknown)", "Platia (unknown)", "Castrum Placiae (unknown)" ],
       "elevation" : 662.0,
@@ -4730,7 +4730,7 @@
       "location_category" : "representative",
       "earliest_attestation_label" : "1148",
       "earliest_attestation_max_year" : "1148",
-      "english_place_name" : "Saint Andrew at Piazza Armerina",
+      "english_place_name" : "Saint Andrew of Piazza Armerina",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 230" ],
       "founders" : [ "Count of Butera and Policastro Simon (Male)", "Countess of Butera and Policastro Thomasia (Female)" ],
       "italian_place_name" : "Sant'Andrea di Piazza Amerina",
@@ -4757,7 +4757,7 @@
       "coordinates" : [ 14.8353867, 37.6639868 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.662_14.835.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525769/adrano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Adernò (unknown)" ],
       "elevation" : 0.0,
@@ -4795,7 +4795,7 @@
       "coordinates" : [ 14.076178, 37.506258 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.49_14.062.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525448/caltanissetta.html" ],
       "children" : null,
       "alternate_location_names" : [ "Qal'at an-Nisâ (unknown)", "Calatanissa (unknown)", "Calatanixectum (unknown)", "Castello di Nisa (unknown)" ],
       "elevation" : 572.0,
@@ -4833,7 +4833,7 @@
       "coordinates" : [ 15.5210473, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -4871,7 +4871,7 @@
       "coordinates" : [ 14.469397, 37.474889 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.415_14.445.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525761/aidone.html" ],
       "children" : null,
       "alternate_location_names" : [ "Fessina (unknown)", "Fessima (unknown)", "Fesine (unknown)", "Felsinae (unknown)" ],
       "elevation" : 0.0,
@@ -4889,7 +4889,7 @@
       "place_type" : "monastery",
       "comune" : "Aidone?",
       "place_category" : null,
-      "notes" : "Luigi Santagati, _Viabilità e topografia della Sicilia antica_, vol. 2 (Caltanissetta, 2013), 88 (s.v. \"Fessina\"), places this near Aidone, near Pietratagliata in Contrada San Bartoloaa",
+      "notes" : "Luigi Santagati, _Viabilità e topografia della Sicilia antica_, vol. 2 (Caltanissetta, 2013), 88 (s.v. \"Fessina\"), places this near Aidone, near Pietratagliata in Contrada San Bartolo.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
@@ -4909,7 +4909,7 @@
       "coordinates" : [ 14.8422705, 37.2935824 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.298_14.841.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523180/scordia.html" ],
       "children" : null,
       "alternate_location_names" : [ "Excordia (unknown)", "Scordia Suitana (unknown)", "Scordia Suprana (unknown)" ],
       "elevation" : 0.0,
@@ -4923,7 +4923,7 @@
       "english_place_name" : "Unknown",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 234-235" ],
       "founders" : [ ],
-      "italian_place_name" : "null",
+      "italian_place_name" : "Sconosciuto",
       "place_type" : "monastery",
       "comune" : "Scordia",
       "place_category" : "temple",
@@ -4947,7 +4947,7 @@
       "coordinates" : [ 15.5210473, 38.1908266 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_38.05_14.867.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524170/messina.html" ],
       "children" : null,
       "alternate_location_names" : [ "Massîni (unknown)" ],
       "elevation" : 0.0,
@@ -4958,7 +4958,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : null,
       "earliest_attestation_max_year" : null,
-      "english_place_name" : "Hospital of Saint John the Baptist of Jerusalem",
+      "english_place_name" : "Hospital of Saint John of Jerusalem",
       "place_references" : [ "Garufi, Carlo Alberto. I documenti inediti dell'epoca normanna in Sicilia. Palermo: Lo Statuto, 1899. pp.  ", "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 235-239" ],
       "founders" : [ ],
       "italian_place_name" : "L'ospedale di San Giovanni di Gerusalemme",
@@ -4985,7 +4985,7 @@
       "coordinates" : [ 13.3614322, 38.110431 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.817_13.583.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523920/palermo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bn.rm (unknown)", "Balarm (unknown)", "Balarmuh (unknown)", "Bân.rm (unknown)", "Panormus (unknown)" ],
       "elevation" : 0.0,
@@ -4996,7 +4996,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1181",
       "earliest_attestation_max_year" : "1181",
-      "english_place_name" : "Hospital of All Saints at Palermo",
+      "english_place_name" : "Hospital of All Saints of Palermo",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 239" ],
       "founders" : [ ],
       "italian_place_name" : "L'ospedale di Tutti i Santi di Palermo",
@@ -5023,7 +5023,7 @@
       "coordinates" : [ 15.039317, 37.260433 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.285_15.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524410/lentini.html" ],
       "children" : "Abbey of Sambucina, Calabria",
       "alternate_location_names" : [ "Lentina (unknown)", "Leontini (unknown)", "Wâdî Lentini (unknown)", "Palude Salata (unknown)" ],
       "elevation" : 0.0,
@@ -5061,7 +5061,7 @@
       "coordinates" : [ 13.941816, 37.941756 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.918_13.936.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524964/collesano.html" ],
       "children" : null,
       "alternate_location_names" : [ "Golisanum (unknown)", "Qal'at -aṣ-Ṣirat (unknown)", "Gulosam (unknown)", "Pedali (unknown)" ],
       "elevation" : 557.0,
@@ -5075,7 +5075,7 @@
       "english_place_name" : "Saint Mary of Pedale",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 192, n.7" ],
       "founders" : [ "Countess? Adelasia? (Female?)" ],
-      "italian_place_name" : "Santa Maria del Pedale",
+      "italian_place_name" : "Santa Maria di Pedale",
       "place_type" : "monastery",
       "comune" : "Collesano",
       "place_category" : "abbey",
@@ -5099,7 +5099,7 @@
       "coordinates" : [ 14.085329, 37.9733477 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.932_14.089.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525103/castelbuono.html" ],
       "children" : null,
       "alternate_location_names" : [ "Ypsigro (unknown)", "Ruqqah Basili (unknown)", "Castri Boni (unknown)", "Q.ratiris (unknown)" ],
       "elevation" : 431.0,
@@ -5113,7 +5113,7 @@
       "english_place_name" : "Saint Anastasia of Gratteri",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 191 n.1" ],
       "founders" : [ "Count Roger I (Male)" ],
-      "italian_place_name" : "Santa Maria di Gratteri",
+      "italian_place_name" : "Santa Anastasia di Gratteri",
       "place_type" : "monastery",
       "comune" : "Castelbuono",
       "place_category" : "abbey",
@@ -5137,7 +5137,7 @@
       "coordinates" : [ 14.1198199, 37.8838052 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.86_14.154.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2524641/geraci-siculo.html" ],
       "children" : null,
       "alternate_location_names" : [ "Giracium (unknown)", "Geragia (unknown)", "Gârâs (unknown)", "Garas (unknown)", "Castrum Giracii (unknown)", "Castrum Girachii (unknown)" ],
       "elevation" : 681.0,
@@ -5175,7 +5175,7 @@
       "coordinates" : [ 14.5073319, 37.8094542 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.811_14.507.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2525031/cerami.html" ],
       "children" : "Abbey of Saint Mary of Licodia",
       "alternate_location_names" : [ "Cirama (unknown)", "Garâmi (unknown)", "Ceramin (unknown)", "Chirami (unknown)", "Terami (unknown)", "Chinami (unknown)" ],
       "elevation" : 0.0,
@@ -5186,7 +5186,7 @@
       "location_category" : "associated_modern",
       "earliest_attestation_label" : "1143",
       "earliest_attestation_max_year" : "1143",
-      "english_place_name" : "Christ the Savior",
+      "english_place_name" : "Christ the Savior of Cerami",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 41, 122" ],
       "founders" : [ ],
       "italian_place_name" : "Santissimo Salvatore di Cerami",
@@ -5213,7 +5213,7 @@
       "coordinates" : [ 14.8946012, 37.5680045 ]
     },
     "properties" : {
-      "location_see_also_uris" : [ "http://www.geonames.org/maps/google_37.571_14.903.html" ],
+      "location_see_also_uris" : [ "http://www.geonames.org/2523866/paterno.html" ],
       "children" : null,
       "alternate_location_names" : [ "Bâtarnû (unknown)", "Paternio (unknown)", "Castrum Paternionis (unknown)" ],
       "elevation" : 0.0,
@@ -5364,7 +5364,7 @@
       "location_category" : null,
       "earliest_attestation_label" : null,
       "earliest_attestation_max_year" : null,
-      "english_place_name" : "Saint Mary de Baratathe",
+      "english_place_name" : "Saint Mary of Baratathe",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 232" ],
       "founders" : [ ],
       "italian_place_name" : "Santa Maria di Baratathe",
@@ -5434,7 +5434,7 @@
       "location_category" : null,
       "earliest_attestation_label" : "1156",
       "earliest_attestation_max_year" : "1156",
-      "english_place_name" : "Saint Nicholas de Arena",
+      "english_place_name" : "Saint Nicholas of Arena",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 117-120" ],
       "founders" : [ "Count of Butera and Policastro Simon (Male)" ],
       "italian_place_name" : "San Nicolò l'Arena",
@@ -5507,7 +5507,7 @@
       "english_place_name" : "Saint Nicholas of Butana",
       "place_references" : [ "White, Lynn. Latin Monasticism in Norman Sicily. Cambridge, Mass. :: Mediaeval Academy of America Ann Arbor, Michigan: MPublishing, University of Michigan Library, 1938. http://hdl.handle.net/2027/heb.30929. pp. 42" ],
       "founders" : [ ],
-      "italian_place_name" : "San Nicola Butana",
+      "italian_place_name" : "San Nicola di Butana",
       "place_type" : "monastery",
       "comune" : null,
       "place_category" : "abbey",
