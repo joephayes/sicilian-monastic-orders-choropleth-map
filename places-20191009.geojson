@@ -32,7 +32,7 @@
       "place_type" : "monastery",
       "comune" : "Lipari",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.092Z",
+      "updated_at" : "2019-10-09T03:54:21.601Z",
       "place_category" : "abbey",
       "notes" : "Located at the top of a steep set of stairs that give way to a street lined with neolithic archeological sites, the current church of San Bartolomeo is easy to access. Although nothing from the Norman period appears to remain on the exterior (though it was impossible for us to tell as we were unable to walk around the entire exterior), the back of the current church offers a view of the sea the monks would have had; the site is on a cliff with a sheer drop to the water. Inside the church is the Norman cloister. Lynn White noted in 1938 that traces of the exterior apse remained, though it seems he was not aware of the extent of the cloister’s survival (\"The exterior of the apse of the cathedral of St. Bartholomew on Lipari would seem to be a fragment of the Norman church; however, I could find no reliable information on the subject.\" (p. 99)). It wasn't fully uncovered until 1978, when Luigi Pastore, the church's long-serving sacristan, noticed other clues and notified the Soprintendenza of Messina, which began excavation.\n\nInside one gets a sense of the “recycling” that went on – fluted columns from Roman houses were freely adapted and integrated into the cloister, providing support for the double barrel-vaulted ceilings. The Roman houses, in their turn, were built over preexisting Greek structures. Apparently, the area was for long a site of religious observance; a temple to Hephaestus and an early Christian church may have preceded the monastery. Though intriguing, this reuse makes stone assessment at the site difficult, as it is hard to discern the stones' ages. Note that the first sustainability reading - the one for the column - was performed on one recycled from a Roman house.\n\nFrom the cloister’s ambulatory, one can look out into the now-barren courtyard that served as the monastic community’s contemplative space. While some of the columns’ capitals may be of an earlier style, there are others that seem to be medieval (or, at least, fashioned in a medieval style). Remnants of wall painting from a later period are especially visible near the cloister’s entrance, where it is connected to the cathedral.                                                                                                                                                                                                                                                        This was an exceptionally important monastery during the Norman period. It was made a bishopric on September 14, 1131 by Antipope Anacletus II though in 1139, it was reduced to its previous status. Its abbot is referred to as \"electus\" in Sicily after September 1156, but was not consecrated bishop until late 1166.",
       "attestation_types" : "documentary, archaeological",
@@ -47,7 +47,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.092Z"
+      "created_at" : "2019-10-09T03:54:21.601Z"
     }
   }, {
     "type" : "Feature",
@@ -81,7 +81,7 @@
       "place_type" : "monastery",
       "comune" : "Patti",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.104Z",
+      "updated_at" : "2019-10-09T03:54:21.616Z",
       "place_category" : "abbey",
       "notes" : "This monastery was made a bishopric on September 14, 1131 by Antipope Anacletus II; in 1139, it was reduced to its previous status. Its abbot is referred to as electus in Sicily after September 1156, but was not consecrated bishop until late 1166. According to White, Latin Monasticism, traces of the exterior apse remain.",
       "attestation_types" : "documentary",
@@ -96,7 +96,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.104Z"
+      "created_at" : "2019-10-09T03:54:21.616Z"
     }
   }, {
     "type" : "Feature",
@@ -139,7 +139,7 @@
       "place_type" : "monastery",
       "comune" : "Caccamo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.115Z",
+      "updated_at" : "2019-10-09T03:54:21.629Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -154,7 +154,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.115Z"
+      "created_at" : "2019-10-09T03:54:21.629Z"
     }
   }, {
     "type" : "Feature",
@@ -197,7 +197,7 @@
       "place_type" : "monastery",
       "comune" : "Buccheri",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.127Z",
+      "updated_at" : "2019-10-09T03:54:21.642Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -212,7 +212,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.127Z"
+      "created_at" : "2019-10-09T03:54:21.642Z"
     }
   }, {
     "type" : "Feature",
@@ -258,7 +258,7 @@
       "place_type" : "monastery",
       "comune" : "Vizzini",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.138Z",
+      "updated_at" : "2019-10-09T03:54:21.655Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -273,7 +273,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.138Z"
+      "created_at" : "2019-10-09T03:54:21.655Z"
     }
   }, {
     "type" : "Feature",
@@ -316,7 +316,7 @@
       "place_type" : "monastery",
       "comune" : "Vicari",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.149Z",
+      "updated_at" : "2019-10-09T03:54:21.668Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -331,7 +331,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.149Z"
+      "created_at" : "2019-10-09T03:54:21.668Z"
     }
   }, {
     "type" : "Feature",
@@ -377,7 +377,7 @@
         "name" : "Santa Maria Palatia",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.159Z",
+      "updated_at" : "2019-10-09T03:54:21.680Z",
       "place_category" : "priory",
       "notes" : "On 102 n. 8, White, Latin Monasticism, notes that Pirri, Sicilia sacra (794 and 837), suggests that this house is the same as Saint Mary \"de Palatio,\" located two miles from Tusa.",
       "attestation_types" : "documentary",
@@ -392,7 +392,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.159Z"
+      "created_at" : "2019-10-09T03:54:21.680Z"
     }
   }, {
     "type" : "Feature",
@@ -432,7 +432,7 @@
       "place_type" : "monastery",
       "comune" : "Mazzarino",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.170Z",
+      "updated_at" : "2019-10-09T03:54:21.692Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -447,7 +447,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Caltanissetta",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.170Z"
+      "created_at" : "2019-10-09T03:54:21.692Z"
     }
   }, {
     "type" : "Feature",
@@ -481,7 +481,7 @@
       "place_type" : "monastery",
       "comune" : "Butera",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.180Z",
+      "updated_at" : "2019-10-09T03:54:21.704Z",
       "place_category" : "priory",
       "notes" : "\n",
       "attestation_types" : "documentary",
@@ -496,7 +496,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Caltanissetta",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.180Z"
+      "created_at" : "2019-10-09T03:54:21.704Z"
     }
   }, {
     "type" : "Feature",
@@ -527,7 +527,7 @@
       "place_type" : "monastery",
       "comune" : "Mistretta",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.190Z",
+      "updated_at" : "2019-10-09T03:54:21.716Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -542,7 +542,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.190Z"
+      "created_at" : "2019-10-09T03:54:21.716Z"
     }
   }, {
     "type" : "Feature",
@@ -585,7 +585,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.201Z",
+      "updated_at" : "2019-10-09T03:54:21.728Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -600,7 +600,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.201Z"
+      "created_at" : "2019-10-09T03:54:21.728Z"
     }
   }, {
     "type" : "Feature",
@@ -631,7 +631,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.212Z",
+      "updated_at" : "2019-10-09T03:54:21.740Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -646,7 +646,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.212Z"
+      "created_at" : "2019-10-09T03:54:21.740Z"
     }
   }, {
     "type" : "Feature",
@@ -692,7 +692,7 @@
         "name" : "Sant'Anna di Monteforte",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.222Z",
+      "updated_at" : "2019-10-09T03:54:21.751Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -707,7 +707,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.222Z"
+      "created_at" : "2019-10-09T03:54:21.751Z"
     }
   }, {
     "type" : "Feature",
@@ -738,7 +738,7 @@
       "place_type" : "monastery",
       "comune" : "Barcellona Pozzo di Gotto",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.233Z",
+      "updated_at" : "2019-10-09T03:54:21.763Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -753,7 +753,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.233Z"
+      "created_at" : "2019-10-09T03:54:21.763Z"
     }
   }, {
     "type" : "Feature",
@@ -793,7 +793,7 @@
       "place_type" : "monastery",
       "comune" : "Brolo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.243Z",
+      "updated_at" : "2019-10-09T03:54:21.774Z",
       "place_category" : "abbey",
       "notes" : "The history of Sant’Angelo di Brolo is shrouded in mystery, a fact that is reflected in the scholarly record. Scaduto (p. 80), sees this monastery as having been one and the same with Sant’Angelo di Ficarra (also known as Fulgerino or Filarino) whereas Lynn White (pp. 41-42) considers them separately. Currently used as an urban cemetery, the remains of Sant’Angelo di Brolo bear little evidence of their medieval past. Indeed, during our July 2019 visit, Mr. Basilio Segreto, a local historian and moderator of the Facebook group Siciliantica Sede di Sant’Angelo di Brolo, suggested that, based on legends that surround Roger I’s conquest of the region and a document from 1092 that refers to a pre-existing location, the original monastery was located farther up in the hills surrounding the town. The new medieval community was formed by the count as he collected various Greek monks who were living in the area as hermits. According to this hypothesis, the monks moved to the current location sometime during the 16th century. Although this is not known for certain, it appears that the monastery was rebuilt in the mid-16th century; the following years, Mr. Segreto reports, were very favorable to the monastic community, due to silk production and, later, the cultivation of hazelnut trees. The site was converted into a cemetery following the religious suppression of the mid-19th century; today, its nave provides a footprint for its main corridor and the cloister offers an enclosure for a certain section of the interments. Given the vicissitudes of the monastery and the highly doubtful survival of Norman remains, cultural stone assessment would be of limited use for the project. We are enormously grateful to Mr. Segreto and to Ms. Angela Princiotto for sharing both their knowledge and time with us. ",
       "attestation_types" : "documentary, archaeological",
@@ -808,7 +808,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.243Z"
+      "created_at" : "2019-10-09T03:54:21.774Z"
     }
   }, {
     "type" : "Feature",
@@ -851,7 +851,7 @@
       "place_type" : "monastery",
       "comune" : "San Marco d'Alunzio",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.253Z",
+      "updated_at" : "2019-10-09T03:54:21.786Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -866,7 +866,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.253Z"
+      "created_at" : "2019-10-09T03:54:21.786Z"
     }
   }, {
     "type" : "Feature",
@@ -900,7 +900,7 @@
       "place_type" : "monastery",
       "comune" : "Naso",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.264Z",
+      "updated_at" : "2019-10-09T03:54:21.799Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -915,7 +915,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.264Z"
+      "created_at" : "2019-10-09T03:54:21.799Z"
     }
   }, {
     "type" : "Feature",
@@ -964,7 +964,7 @@
       "place_type" : "monastery",
       "comune" : "Troina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.274Z",
+      "updated_at" : "2019-10-09T03:54:21.810Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -979,7 +979,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.274Z"
+      "created_at" : "2019-10-09T03:54:21.810Z"
     }
   }, {
     "type" : "Feature",
@@ -1013,7 +1013,7 @@
         "name" : "San Costantino di Maletto",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.284Z",
+      "updated_at" : "2019-10-09T03:54:21.822Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1028,7 +1028,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.284Z"
+      "created_at" : "2019-10-09T03:54:21.822Z"
     }
   }, {
     "type" : "Feature",
@@ -1071,7 +1071,7 @@
         "name" : "San Cosma di Gonata",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.294Z",
+      "updated_at" : "2019-10-09T03:54:21.834Z",
       "place_category" : "abbey",
       "notes" : "Although Scaduto (p. 152) and Giunta (p. 730) place this house in Petralia, our best guess based on toponymic evidenc is that it was located in Gonato, near the Masseria Rocca di Gonato. Today, an agriturismo sits on or near the former site of the monastery. We were able to see no evidence of a medieval structure during our visit.",
       "attestation_types" : "documentary",
@@ -1086,7 +1086,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.294Z"
+      "created_at" : "2019-10-09T03:54:21.834Z"
     }
   }, {
     "type" : "Feature",
@@ -1147,9 +1147,9 @@
         "name" : "Sant'Elia di Ebulo",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.304Z",
+      "updated_at" : "2019-10-09T03:54:21.846Z",
       "place_category" : "abbey",
-      "notes" : "This is a guess. Troina's official tourism website (\"Enjoy Troina,\" (https://enjoytroina.it/siti-storici-e-archeologici/) claims that the Chiesa di San Silvestro was built to host the monks of the cenobio di Sant'Elia. So it needed to be nearby. The earliest date of construction reported by the commune is 1625, though the site has a placard explaining that the current church of San Silvestro was constructed on the foundations of a preexisting Basilian monastery’s small church. Nothing from the Norman period remains outside and though we were unable to access the church’s interior (its being locked for the summer, at least), the information available suggests that nothing from the period exists inside. Still, the current landscape is evocative of the vistas that might have been available to the monks – located in Troina, the first Norman capital in Sicily, Sant’Elia’s high location would have provided it an expansive overview of the surrounding mountains and valleys.  ",
+      "notes" : "This is a guess. Troina's official tourism website (\"Enjoy Troina,\" (https://enjoytroina.it/siti-storici-e-archeologici/) claims that the Chiesa di San Silvestro was built to host the monks of the cenobio di Sant'Elia. So it needed to be nearby. The earliest date of construction reported by the commune is 1625, though the site has a placard explaining that the current church of San Silvestro was constructed on the foundations of a preexisting Basilian monastery’s small church. Nothing from the Norman period remains outside and though we were unable to access the church’s interior (its being locked for the summer, at least). Still, the current landscape is evocative of the vistas that might have been available to the monks – located in Troina, the first Norman capital in Sicily, Sant’Elia’s high location would have provided it an expansive overview of the surrounding mountains and valleys.  ",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger I",
@@ -1162,7 +1162,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.304Z"
+      "created_at" : "2019-10-09T03:54:21.846Z"
     }
   }, {
     "type" : "Feature",
@@ -1214,7 +1214,7 @@
         "name" : "Sant'Elia de Burracha",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.315Z",
+      "updated_at" : "2019-10-09T03:54:21.857Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1229,7 +1229,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.314Z"
+      "created_at" : "2019-10-09T03:54:21.857Z"
     }
   }, {
     "type" : "Feature",
@@ -1272,7 +1272,7 @@
       "place_type" : "monastery",
       "comune" : "San Marco d'Alunzio",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.325Z",
+      "updated_at" : "2019-10-09T03:54:21.868Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1287,7 +1287,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.325Z"
+      "created_at" : "2019-10-09T03:54:21.868Z"
     }
   }, {
     "type" : "Feature",
@@ -1330,7 +1330,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.335Z",
+      "updated_at" : "2019-10-09T03:54:21.879Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1345,7 +1345,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.335Z"
+      "created_at" : "2019-10-09T03:54:21.879Z"
     }
   }, {
     "type" : "Feature",
@@ -1376,7 +1376,7 @@
       "place_type" : "monastery",
       "comune" : "Caltabellotta",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.345Z",
+      "updated_at" : "2019-10-09T03:54:21.890Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1391,7 +1391,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Agrigento",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.345Z"
+      "created_at" : "2019-10-09T03:54:21.890Z"
     }
   }, {
     "type" : "Feature",
@@ -1422,7 +1422,7 @@
       "place_type" : "monastery",
       "comune" : "Agrigento",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.356Z",
+      "updated_at" : "2019-10-09T03:54:21.903Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1437,7 +1437,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Agrigento",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.356Z"
+      "created_at" : "2019-10-09T03:54:21.903Z"
     }
   }, {
     "type" : "Feature",
@@ -1483,7 +1483,7 @@
       "place_type" : "monastery",
       "comune" : "Gesso",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.371Z",
+      "updated_at" : "2019-10-09T03:54:21.920Z",
       "place_category" : "abbey",
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lussografica, 2013), 93 (s.v. \"Gesso\"), places Gypso 9 kilometers (approximately 5.5 miles) northwest of Messina.",
       "attestation_types" : "documentary",
@@ -1498,7 +1498,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.371Z"
+      "created_at" : "2019-10-09T03:54:21.920Z"
     }
   }, {
     "type" : "Feature",
@@ -1547,7 +1547,7 @@
         "name" : "Sant'Onofrio",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.382Z",
+      "updated_at" : "2019-10-09T03:54:21.931Z",
       "place_category" : "abbey",
       "notes" : "White, Latin Monasticism, (187 n.2), asks whether this could be the same house as Saint Eunufrius of Calatabiano.",
       "attestation_types" : "documentary",
@@ -1562,7 +1562,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.382Z"
+      "created_at" : "2019-10-09T03:54:21.931Z"
     }
   }, {
     "type" : "Feature",
@@ -1608,7 +1608,7 @@
       "place_type" : "monastery",
       "comune" : "Novara di Sicilia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.392Z",
+      "updated_at" : "2019-10-09T03:54:21.942Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1623,7 +1623,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.392Z"
+      "created_at" : "2019-10-09T03:54:21.942Z"
     }
   }, {
     "type" : "Feature",
@@ -1654,7 +1654,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.402Z",
+      "updated_at" : "2019-10-09T03:54:21.954Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1669,7 +1669,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.402Z"
+      "created_at" : "2019-10-09T03:54:21.954Z"
     }
   }, {
     "type" : "Feature",
@@ -1715,7 +1715,7 @@
       "place_type" : "monastery",
       "comune" : "Randazzo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.413Z",
+      "updated_at" : "2019-10-09T03:54:21.965Z",
       "place_category" : "abbey",
       "notes" : "There appears to be some difference as to where exactly this house was located. Both Scaduto (p. 101) and Giunta (p. 730) place it near Mascali. Giuseppe Tropea, however, says on his medioevosicilia.eu (http://www.medioevosicilia.eu/markIII/il-monastero-di-san-giovanni-psicro-presso-randazzo/) that the remains of this monastery can be found in Contrada Sant'Anastasia, Randazzo. If this is right, what remains of the monastery is now on the property of Feudo Vagliasindi. The proprietors were not aware that the structure may actually be the remains of a monastery that dates to the Norman period. There are two distinct structures here, which may have been joined. The owners shared that there was an excavation led by Prof. Privitera of the University of Catania c. 2007.  Found were a few lava stone tombs were covered with terracotta. Another tomb was discovered nearby that likely belonged to a member of the clergy which contained a slab with a Greek inscription. It has been left in place. Pieces of exterior walls, obscured by thick vegetation, also survive. (Can a standard Basilian plan be used to make sense of this info?) We are very grateful to Paolo and Corrado Vassallo for making the site available to us. ",
       "attestation_types" : "documentary, archaeological",
@@ -1730,7 +1730,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.413Z"
+      "created_at" : "2019-10-09T03:54:21.965Z"
     }
   }, {
     "type" : "Feature",
@@ -1761,7 +1761,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.423Z",
+      "updated_at" : "2019-10-09T03:54:21.976Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1776,7 +1776,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.423Z"
+      "created_at" : "2019-10-09T03:54:21.976Z"
     }
   }, {
     "type" : "Feature",
@@ -1807,7 +1807,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.435Z",
+      "updated_at" : "2019-10-09T03:54:21.987Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1822,7 +1822,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.435Z"
+      "created_at" : "2019-10-09T03:54:21.987Z"
     }
   }, {
     "type" : "Feature",
@@ -1862,7 +1862,7 @@
         "name" : "Santa Maria de Alto",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.445Z",
+      "updated_at" : "2019-10-09T03:54:21.998Z",
       "place_category" : "abbey",
       "notes" : "Found on a hill in a suburb in Mazara’s east, the former monastery provides an impressive vantage point of the urban landscape and a sliver of the sea just beyond the sprawl – one can only imagine the unimpeded vista that would have been available to the monks. Though it was converted into a church and is apparently used with some frequency (a local newspaper reports that weddings are held there), the site seems abandoned. While it is relatively easy to reach the site by car/on foot, it is impossible to access the interior without keys. That said, the exterior is very telling: it seems that there has been some real effort to recreate the original context. A plaque on a stone wall describes the restoration of an \"ancient enclosing wall restored through the works of the Servi del Cuore Immacolato di Maria in 2000 A.D.\" The doorway and columns at the church's front appear to be original and it seems that the rest of the facade was later restored to harmonize with the earlier style. Unfortunately, the more modern stone does not seem to be wearing well, as cracks are visible. Also, it appears that fragments - some of which may be of the original building - are scattered throughout a debris field to the church's north side. As they are fully exposed to the elements and the animals that have easy access to the site, there are real concerns for their preservation. Humans have not been completely kind to the site either - litter abounds and there is some light graffiti present. The exterior security measures are easy to evade - the fences have large holes in them and despite signs warning of video surveillance and a camera, it is unclear whether the site is actually monitored. In addition to being of historical interest, the church's grounds are also of interest from a perspective of biodiversity. According to a video produced by a local newspaper, there is some unique vegetation located around the building. During our visit of 2019, we noticed that rough-hewn rocks had been arranged in a rounded labyrinth pattern, perhaps suggesting an attempt at creating a prayer space, though no identification was available.",
       "attestation_types" : "documentary, archaeological",
@@ -1877,7 +1877,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Trapani",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.445Z"
+      "created_at" : "2019-10-09T03:54:21.998Z"
     }
   }, {
     "type" : "Feature",
@@ -1908,7 +1908,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.456Z",
+      "updated_at" : "2019-10-09T03:54:22.008Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -1923,7 +1923,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.456Z"
+      "created_at" : "2019-10-09T03:54:22.008Z"
     }
   }, {
     "type" : "Feature",
@@ -1954,7 +1954,7 @@
         "name" : "San Michele di Campogrosso",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.466Z",
+      "updated_at" : "2019-10-09T03:54:22.019Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -1969,7 +1969,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.466Z"
+      "created_at" : "2019-10-09T03:54:22.019Z"
     }
   }, {
     "type" : "Feature",
@@ -2015,7 +2015,7 @@
         "name" : "Santa Maria della Grotta",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.477Z",
+      "updated_at" : "2019-10-09T03:54:22.030Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2030,7 +2030,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.477Z"
+      "created_at" : "2019-10-09T03:54:22.030Z"
     }
   }, {
     "type" : "Feature",
@@ -2070,7 +2070,7 @@
       "place_type" : "monastery",
       "comune" : "Castell'Umberto",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.488Z",
+      "updated_at" : "2019-10-09T03:54:22.042Z",
       "place_category" : "abbey",
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lusografica, 2013), 104 (s.v. \"Mallimaco\"), places Mallimachi near Castell'Umberto and we have used this town as the monastery's marker.",
       "attestation_types" : "documentary",
@@ -2085,7 +2085,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.488Z"
+      "created_at" : "2019-10-09T03:54:22.042Z"
     }
   }, {
     "type" : "Feature",
@@ -2125,7 +2125,7 @@
       "place_type" : "monastery",
       "comune" : "Mandanici",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.498Z",
+      "updated_at" : "2019-10-09T03:54:22.053Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -2140,7 +2140,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.498Z"
+      "created_at" : "2019-10-09T03:54:22.053Z"
     }
   }, {
     "type" : "Feature",
@@ -2174,7 +2174,7 @@
       "place_type" : "monastery",
       "comune" : "Marsala",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.509Z",
+      "updated_at" : "2019-10-09T03:54:22.064Z",
       "place_category" : "abbey",
       "notes" : "There is some confusion here. White, p. 42, locates this house in Marsala. But Graham Loud thinks it was in Palermo but had been given a house in Marsala so that the monks of Palermo would revive the house to the west (Latin Church in Norman Italy (Cambridge: Cambridge University Press, 2007), p. 508). Scaduto, pp.131-32, argues that the confusion comes from the two houses having the same name and maintains that the monastery in Palermo had been united with the one in Marsala at the end of the twelfth century. In July 2019, we met a representative of the Museo Archeologico Lillibeo at the site. It has been rebuilt, having suffered significant damage during World War II, and there is no sign of a Norman presence. Excessive vegetation prevented us from accessing the interior. Michele, the representative, told us that up until approximately 30 years ago the site was in use but then was closed on account of structural concerns.  Until about 15 years ago, it was possible to access the entrance. The site has been vandalized and we were told that an altar and a statue of the Virgin Mary has been taken. There is graffiti as well. There is a business being run from the area just behind an exterior wall. The site is built over a Punic burial ground. Stairs that descend to the entrance perhaps suggest the presence of the grotto after which this monastery hadx been named. The site is now autonomous and is under the care of Marsala's polo museale. It is possible to view the exterior without a guide, but entrance into the gated area can only be made possible by a representative.",
       "attestation_types" : "documentary, archaeological",
@@ -2189,7 +2189,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Trapani",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.509Z"
+      "created_at" : "2019-10-09T03:54:22.064Z"
     }
   }, {
     "type" : "Feature",
@@ -2223,7 +2223,7 @@
         "name" : "Santa Maria di Austro",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.519Z",
+      "updated_at" : "2019-10-09T03:54:22.076Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2238,7 +2238,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.519Z"
+      "created_at" : "2019-10-09T03:54:22.076Z"
     }
   }, {
     "type" : "Feature",
@@ -2269,7 +2269,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.529Z",
+      "updated_at" : "2019-10-09T03:54:22.087Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -2284,7 +2284,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.529Z"
+      "created_at" : "2019-10-09T03:54:22.087Z"
     }
   }, {
     "type" : "Feature",
@@ -2333,7 +2333,7 @@
         "name" : "Santa Maria la Pinta",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.539Z",
+      "updated_at" : "2019-10-09T03:54:22.098Z",
       "place_category" : "abbey",
       "notes" : "White (p. 42) suggests that this monastery may have also been known under the names of \"Santa Maria de Crisè\" and \"Santa Maria la Pinta.\" Scaduto, on the other hand, considers them as separate entities (p. 160) as does Giunta (p. 729). ",
       "attestation_types" : "documentary",
@@ -2348,7 +2348,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.539Z"
+      "created_at" : "2019-10-09T03:54:22.098Z"
     }
   }, {
     "type" : "Feature",
@@ -2385,7 +2385,7 @@
       "place_type" : "monastery",
       "comune" : "Paternò",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.550Z",
+      "updated_at" : "2019-10-09T03:54:22.110Z",
       "place_category" : "abbey",
       "notes" : "The ruins are located in Contrada Giaconia. Visited the site in July 2016. It is behind a padlocked fence, apparently on private property.  The images reflect how difficult it is to access.",
       "attestation_types" : "documentary, archaeological",
@@ -2400,7 +2400,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.550Z"
+      "created_at" : "2019-10-09T03:54:22.110Z"
     }
   }, {
     "type" : "Feature",
@@ -2443,7 +2443,7 @@
       "place_type" : "monastery",
       "comune" : "Vicari",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.560Z",
+      "updated_at" : "2019-10-09T03:54:22.120Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2458,7 +2458,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.560Z"
+      "created_at" : "2019-10-09T03:54:22.120Z"
     }
   }, {
     "type" : "Feature",
@@ -2507,7 +2507,7 @@
       "place_type" : "monastery",
       "comune" : "Troina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.571Z",
+      "updated_at" : "2019-10-09T03:54:22.132Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2522,7 +2522,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.571Z"
+      "created_at" : "2019-10-09T03:54:22.132Z"
     }
   }, {
     "type" : "Feature",
@@ -2556,7 +2556,7 @@
       "place_type" : "monastery",
       "comune" : "Mazara",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.581Z",
+      "updated_at" : "2019-10-09T03:54:22.143Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -2571,7 +2571,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Trapani",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.581Z"
+      "created_at" : "2019-10-09T03:54:22.143Z"
     }
   }, {
     "type" : "Feature",
@@ -2605,7 +2605,7 @@
       "place_type" : "monastery",
       "comune" : "Mazara",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.591Z",
+      "updated_at" : "2019-10-09T03:54:22.154Z",
       "place_category" : "abbey",
       "notes" : "Nothing from the Norman period seems to have survived, a confirmation in 2019 of the original observation done in 2016.The interior, as well as the exterior, have been completely redone in a Baroque style. A statue of St. Michael is still located in a privileged place at the top of the church's facade, and he is accompanied by other holy figures, made at a significantly later date. The church today is surrounded by numerous buildings in a farily densely-packed setting, including an attached Benedictine nunery, a parrochial guest house, a B&B and numerous residential buildings. The piazza in front of the church is used for parking. This usage - as well as bird droppings, plants growing on the facade and human vandalism - present significant challenges to the current structure. As of the summer of 2019, the church was regularly opened in the early morning for mass, though its hours were very limited.",
       "attestation_types" : "documentary",
@@ -2620,7 +2620,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Trapani",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.591Z"
+      "created_at" : "2019-10-09T03:54:22.154Z"
     }
   }, {
     "type" : "Feature",
@@ -2663,7 +2663,7 @@
         "name" : "San Michele di Fulgerino",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.601Z",
+      "updated_at" : "2019-10-09T03:54:22.165Z",
       "place_category" : "abbey",
       "notes" : "There is some confusion here. White sees this as a separate house that may have been also referred to as \"San Michele di Fulgerino\" and \"San Michele di Filarino\" (p. 42). Scaduto, however, asserts (p. 80) that San Michele/Sant'Angelo di Ficarra was the same house as San Michele/Sant'Angelo di Brolo (attested to as of 1084) and that San Michele di Fulgerino/San Michele di Filarino, located in Linguaglossa, is not attested to until the 15th century.",
       "attestation_types" : "documentary",
@@ -2678,7 +2678,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.601Z"
+      "created_at" : "2019-10-09T03:54:22.165Z"
     }
   }, {
     "type" : "Feature",
@@ -2727,7 +2727,7 @@
       "place_type" : "monastery",
       "comune" : "Troina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.612Z",
+      "updated_at" : "2019-10-09T03:54:22.177Z",
       "place_category" : "abbey",
       "notes" : "Troina promotes an Arab-Norman itinerary, which includes Saint Michael. However, the monastery is accessed via private property (at the time of our visit, guarded by dogs). It is necessary to call the comune in advance so that contact can be made with the owner.",
       "attestation_types" : "documentary, archaeological",
@@ -2742,7 +2742,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.612Z"
+      "created_at" : "2019-10-09T03:54:22.177Z"
     }
   }, {
     "type" : "Feature",
@@ -2773,7 +2773,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.622Z",
+      "updated_at" : "2019-10-09T03:54:22.187Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2788,7 +2788,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.622Z"
+      "created_at" : "2019-10-09T03:54:22.187Z"
     }
   }, {
     "type" : "Feature",
@@ -2822,7 +2822,7 @@
       "place_type" : "monastery",
       "comune" : "Fiumedinisi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.632Z",
+      "updated_at" : "2019-10-09T03:54:22.198Z",
       "place_category" : "abbey",
       "notes" : "NB: Luigi Santagati, Viabilità e topografia della Sicilia antica, vol 2 (Caltanissetta: Edizioni Lussografica, 2013), 150 (s.v. \"San Nicono\"), proposes that San Nicone was near Itala, which would be some distance (>10 miles) away.",
       "attestation_types" : "documentary",
@@ -2837,7 +2837,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.632Z"
+      "created_at" : "2019-10-09T03:54:22.198Z"
     }
   }, {
     "type" : "Feature",
@@ -2883,7 +2883,7 @@
         "name" : "San Nicola di Calamio",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.642Z",
+      "updated_at" : "2019-10-09T03:54:22.210Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2898,7 +2898,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.642Z"
+      "created_at" : "2019-10-09T03:54:22.210Z"
     }
   }, {
     "type" : "Feature",
@@ -2947,7 +2947,7 @@
         "name" : "San Nicolò de Ficu",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.652Z",
+      "updated_at" : "2019-10-09T03:54:22.221Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -2962,7 +2962,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.652Z"
+      "created_at" : "2019-10-09T03:54:22.221Z"
     }
   }, {
     "type" : "Feature",
@@ -3005,7 +3005,7 @@
         "name" : "San Nicolò del Gurguro",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.662Z",
+      "updated_at" : "2019-10-09T03:54:22.232Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3020,7 +3020,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.662Z"
+      "created_at" : "2019-10-09T03:54:22.232Z"
     }
   }, {
     "type" : "Feature",
@@ -3057,7 +3057,7 @@
       "place_type" : "monastery",
       "comune" : "Paternò",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.672Z",
+      "updated_at" : "2019-10-09T03:54:22.243Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3072,7 +3072,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.672Z"
+      "created_at" : "2019-10-09T03:54:22.243Z"
     }
   }, {
     "type" : "Feature",
@@ -3106,7 +3106,7 @@
       "place_type" : "monastery",
       "comune" : "Roccella Valdemone",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.682Z",
+      "updated_at" : "2019-10-09T03:54:22.255Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3121,7 +3121,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.682Z"
+      "created_at" : "2019-10-09T03:54:22.255Z"
     }
   }, {
     "type" : "Feature",
@@ -3149,7 +3149,7 @@
       "place_type" : "monastery",
       "comune" : "VIllafranca Sicula",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.693Z",
+      "updated_at" : "2019-10-09T03:54:22.266Z",
       "place_category" : "abbey",
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lussografica, 2013), 93 (s.v. \"Gesso\"), places Ysa 9 kilometers (approximately 5.5 miles) northwest of Messina. This identification (and Pirri's comment) may give us some reason to reconsider the placement of this monastery in the province of Agrigento,",
       "attestation_types" : "documentary",
@@ -3164,7 +3164,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Agrigento",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.693Z"
+      "created_at" : "2019-10-09T03:54:22.266Z"
     }
   }, {
     "type" : "Feature",
@@ -3228,7 +3228,7 @@
       "place_type" : "monastery",
       "comune" : "San Fratello",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.704Z",
+      "updated_at" : "2019-10-09T03:54:22.277Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -3243,7 +3243,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.704Z"
+      "created_at" : "2019-10-09T03:54:22.277Z"
     }
   }, {
     "type" : "Feature",
@@ -3274,7 +3274,7 @@
         "name" : "San Salvatore di Bordonaro",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.714Z",
+      "updated_at" : "2019-10-09T03:54:22.289Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3289,7 +3289,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.714Z"
+      "created_at" : "2019-10-09T03:54:22.289Z"
     }
   }, {
     "type" : "Feature",
@@ -3320,7 +3320,7 @@
         "name" : "San Pietro di Voca",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.724Z",
+      "updated_at" : "2019-10-09T03:54:22.300Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3335,7 +3335,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.724Z"
+      "created_at" : "2019-10-09T03:54:22.300Z"
     }
   }, {
     "type" : "Feature",
@@ -3366,7 +3366,7 @@
         "name" : "San Pietro di Largoflumine",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.733Z",
+      "updated_at" : "2019-10-09T03:54:22.312Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3381,7 +3381,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.733Z"
+      "created_at" : "2019-10-09T03:54:22.312Z"
     }
   }, {
     "type" : "Feature",
@@ -3418,7 +3418,7 @@
       "place_type" : "monastery",
       "comune" : "Casalvecchio Siculo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.743Z",
+      "updated_at" : "2019-10-09T03:54:22.323Z",
       "place_category" : "abbey",
       "notes" : "Antonino Tranchina, \"L’igumeno Theostíriktos e il «franco» Girardo ai Ss. Pietro e Paolo di Agrò,\" Arte medievale 6 (2016): 61-68 argues for a construction date of 1169-1172.",
       "attestation_types" : "documentary, archaeological",
@@ -3433,7 +3433,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.743Z"
+      "created_at" : "2019-10-09T03:54:22.323Z"
     }
   }, {
     "type" : "Feature",
@@ -3464,7 +3464,7 @@
       "place_type" : "monastery",
       "comune" : "Italà",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.753Z",
+      "updated_at" : "2019-10-09T03:54:22.334Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -3479,7 +3479,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.753Z"
+      "created_at" : "2019-10-09T03:54:22.334Z"
     }
   }, {
     "type" : "Feature",
@@ -3519,7 +3519,7 @@
         "name" : "San Filippo di Demenna",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.763Z",
+      "updated_at" : "2019-10-09T03:54:22.345Z",
       "place_category" : "abbey",
       "notes" : "This monastery may have been a center of hagiographical research.",
       "attestation_types" : "documentary, archaeological",
@@ -3534,7 +3534,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.763Z"
+      "created_at" : "2019-10-09T03:54:22.345Z"
     }
   }, {
     "type" : "Feature",
@@ -3565,7 +3565,7 @@
         "name" : "San Filippo Superiore",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.773Z",
+      "updated_at" : "2019-10-09T03:54:22.355Z",
       "place_category" : "abbey",
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lussografica, 2013), 147 (s.v. \"San Filippo\"), places San Filippo Magno at San Filippo Superiore.",
       "attestation_types" : "documentary",
@@ -3580,7 +3580,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.773Z"
+      "created_at" : "2019-10-09T03:54:22.355Z"
     }
   }, {
     "type" : "Feature",
@@ -3617,7 +3617,7 @@
       "place_type" : "monastery",
       "comune" : "Santa Lucia del Mela",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.783Z",
+      "updated_at" : "2019-10-09T03:54:22.367Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3632,7 +3632,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.783Z"
+      "created_at" : "2019-10-09T03:54:22.367Z"
     }
   }, {
     "type" : "Feature",
@@ -3666,7 +3666,7 @@
         "name" : "Archimandritato del Santissimo Salvatore",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.793Z",
+      "updated_at" : "2019-10-09T03:54:22.377Z",
       "place_category" : "abbey",
       "notes" : "Vita Bartholomei abbatis in Schriftquellen zur Kunstgeschichte des 11. und 12. Jahrhunderts für Deutschland, Lothringen und Italien, ed. Otto Lehmann-Brockhaus, 2 vols. (New York: ), 470. The monastery had been converted into a fortress by Charles V in the 1540s. The twelfth-century monastery was completely destroyed by the explosion of a powder magazine. After some time, the monks were relocated to a new location in 1573, a complex in the baroque style situated in the Charybdis neighborhood. ",
       "attestation_types" : "documentary",
@@ -3681,7 +3681,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.793Z"
+      "created_at" : "2019-10-09T03:54:22.377Z"
     }
   }, {
     "type" : "Feature",
@@ -3715,7 +3715,7 @@
         "name" : "San Salvatore Filantropo",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.814Z",
+      "updated_at" : "2019-10-09T03:54:22.399Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3730,7 +3730,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.814Z"
+      "created_at" : "2019-10-09T03:54:22.399Z"
     }
   }, {
     "type" : "Feature",
@@ -3773,7 +3773,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.824Z",
+      "updated_at" : "2019-10-09T03:54:22.410Z",
       "place_category" : "abbey",
       "notes" : "The guide given out at the church reads that the monastery was founded by Robert Guiscard in 1071, becoming one of the richest in Sicily. Nothing from the Norman structure survives, however, as a bombardment in 1943 destroyed whatever remained (which had been incorporated into a modern buidling which today hosts a school). It also reads that according to tradition, Empress Costanza, daughter of Roger II, may have been an abbess of this Basilian convent and that Santa Rosalia, Palermo's patron, may have also been a Basilian nun; a bilingual inscription in Greek and Latin records the discovery of one of her books inside the church.",
       "attestation_types" : "documentary",
@@ -3788,7 +3788,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.824Z"
+      "created_at" : "2019-10-09T03:54:22.410Z"
     }
   }, {
     "type" : "Feature",
@@ -3816,7 +3816,7 @@
       "place_type" : "monastery",
       "comune" : "Francavilla di Sicilia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.834Z",
+      "updated_at" : "2019-10-09T03:54:22.421Z",
       "place_category" : "abbey",
       "notes" : "This monastery is located near Francavilla, in Contrada Badiazza, on a steep and inaccessible road. Little is known about the community. It was abandoned in the 18th century.",
       "attestation_types" : "documentary, archaeological",
@@ -3831,7 +3831,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.834Z"
+      "created_at" : "2019-10-09T03:54:22.421Z"
     }
   }, {
     "type" : "Feature",
@@ -3871,7 +3871,7 @@
         "name" : "Santo Stefano di Briga",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.844Z",
+      "updated_at" : "2019-10-09T03:54:22.432Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -3886,7 +3886,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.844Z"
+      "created_at" : "2019-10-09T03:54:22.432Z"
     }
   }, {
     "type" : "Feature",
@@ -3923,7 +3923,7 @@
       "place_type" : "monastery",
       "comune" : "Milazzo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.854Z",
+      "updated_at" : "2019-10-09T03:54:22.444Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -3938,7 +3938,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.854Z"
+      "created_at" : "2019-10-09T03:54:22.444Z"
     }
   }, {
     "type" : "Feature",
@@ -3969,7 +3969,7 @@
       "place_type" : "monastery",
       "comune" : "Mirto",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.863Z",
+      "updated_at" : "2019-10-09T03:54:22.455Z",
       "place_category" : "abbey",
       "notes" : "Both Mario Scaduto, Il monachesimo basiliano nella Sicilia medievale (Rome: Edizioni di \"Storia e Letteratura,\" 1982), p. 110 and Giuseppe Reina, Itinerari italo-greci in Sicilia: I monasteri basiliani (Venice: Marsilio, 2016), p. 166 put the date of the earliest document for this monastery at 1136, a bit later than Lynn White.",
       "attestation_types" : "documentary",
@@ -3984,7 +3984,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.863Z"
+      "created_at" : "2019-10-09T03:54:22.455Z"
     }
   }, {
     "type" : "Feature",
@@ -4030,7 +4030,7 @@
       "place_type" : "monastery",
       "comune" : "Castelvetrano",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.873Z",
+      "updated_at" : "2019-10-09T03:54:22.466Z",
       "place_category" : "abbey",
       "notes" : "In Monumenti della Sicilia normanna, 2d. ed. (Palermo: Flaccovio, 1979), 59, Guido Di Stefano suggests a foundation between 1140 and 1160, leaning towards the earlier date.",
       "attestation_types" : "documentary, archaeological",
@@ -4045,7 +4045,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Trapani",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.873Z"
+      "created_at" : "2019-10-09T03:54:22.466Z"
     }
   }, {
     "type" : "Feature",
@@ -4082,7 +4082,7 @@
         "name" : "Santa Parasceve di Vanella",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:07.883Z",
+      "updated_at" : "2019-10-09T03:54:22.477Z",
       "place_category" : "abbey",
       "notes" : "Having fallen victim to an earthquake, a flood and the post-Risorgimento sale of ecclesiastical lands that placed it in private hands to ultimately be used as farmland, little remains of the monastery of Santa Venera. Surrounded by hills and valleys and just a few feet away from the fiumara (seasonal river) of Santa Venera, Antonino Quattrocchi, a local historian who has done research on this foundation and has located the monastery near the modern town of Castroreale (see his Sui sentieri dei monaci di Vanella (2017)), explained that the area was once heavily forested but that the trees were depleted in the fifteenth century to build houses for newly-formed communes like Bafia. Not much of the structure remains visible. Continual heavy rains that lasted for over two weeks in January 1880 lead to landslides that left much of it buried. As of our 2019 visit, only the upper windows remain aboveground. Unfortunately, lack of funding has prevented excavation to uncover what lies below the earth. It should also be noted that the site rests in private hands, located on a family estate. Mr. Quattrocchi explained that the visible structure is most likely a sixteenth-century refabrication of the Norman medieval building; indeed, a document from the 1500s describes the reconstruction of Santa Venera. The remains only became visible in 2009-2010, when another flood shifted the ground and laid the ruins bare. We would like to end with an expression of our deep gratitude to the current landowner for permitting us to visit the site as well as to Mr. Quattrocchi for his enthusiasm, knowledge and warm hospitality during our visit in July 2019.  ",
       "attestation_types" : "documentary, archaeological",
@@ -4097,7 +4097,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.883Z"
+      "created_at" : "2019-10-09T03:54:22.477Z"
     }
   }, {
     "type" : "Feature",
@@ -4140,7 +4140,7 @@
       "place_type" : "monastery",
       "comune" : "Catania",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.893Z",
+      "updated_at" : "2019-10-09T03:54:22.488Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4155,7 +4155,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.893Z"
+      "created_at" : "2019-10-09T03:54:22.488Z"
     }
   }, {
     "type" : "Feature",
@@ -4186,7 +4186,7 @@
       "place_type" : "monastery",
       "comune" : "Nicolosi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.903Z",
+      "updated_at" : "2019-10-09T03:54:22.500Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4201,7 +4201,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.903Z"
+      "created_at" : "2019-10-09T03:54:22.500Z"
     }
   }, {
     "type" : "Feature",
@@ -4244,7 +4244,7 @@
       "place_type" : "monastery",
       "comune" : "Catania",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.913Z",
+      "updated_at" : "2019-10-09T03:54:22.511Z",
       "place_category" : "grange",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4259,7 +4259,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.913Z"
+      "created_at" : "2019-10-09T03:54:22.511Z"
     }
   }, {
     "type" : "Feature",
@@ -4290,7 +4290,7 @@
       "place_type" : "monastery",
       "comune" : "Adrano",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.923Z",
+      "updated_at" : "2019-10-09T03:54:22.522Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4305,7 +4305,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.923Z"
+      "created_at" : "2019-10-09T03:54:22.522Z"
     }
   }, {
     "type" : "Feature",
@@ -4333,7 +4333,7 @@
       "place_type" : "monastery",
       "comune" : "Santa Maria di Licodia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.933Z",
+      "updated_at" : "2019-10-09T03:54:22.533Z",
       "place_category" : "abbey",
       "notes" : "This is now the town hall as well as the Chiesa Madre Santissimo Crocifisso. Local tradition holds that there was a summer abbey, too, which is now a restaurant.",
       "attestation_types" : "documentary, archaeological",
@@ -4348,7 +4348,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.933Z"
+      "created_at" : "2019-10-09T03:54:22.533Z"
     }
   }, {
     "type" : "Feature",
@@ -4391,7 +4391,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.943Z",
+      "updated_at" : "2019-10-09T03:54:22.545Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -4406,7 +4406,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.943Z"
+      "created_at" : "2019-10-09T03:54:22.545Z"
     }
   }, {
     "type" : "Feature",
@@ -4446,7 +4446,7 @@
       "place_type" : "monastery",
       "comune" : "Palazzo Adriano",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.952Z",
+      "updated_at" : "2019-10-09T03:54:22.556Z",
       "place_category" : "priory",
       "notes" : "The ruins of Santa Maria di Adriano are located high up in the mountains of the Sosio Valley Nature Reserve. The site is difficult to reach without an all-terrain vehicle and a local who is familiar with the landscape. In July 2019, the comune put us in touch with a resident who was willing to make the journey. It appears that until a few years ago, the path to the monastery and the immediately surrounding area was much easier to reach. Since that time, though, the territory has suffered from extensive overgrowth, as the images demonstrate. Once there, we were able to see the remaining walls of the monastery; traces of the paint suggest that the structure had been redone in a later style, though it is impossible to determine the extent of the reconstruction. As far as we can tell, two levels of the structure survive. The state of the building is incredibly poor and it is dangerous to enter its confines. With that said, it is clear that both animals and humans have sheltered there in the recent past and local lore has it that criminal elements have sought refuge in the ruin.",
       "attestation_types" : "documentary, archaeological",
@@ -4461,7 +4461,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.952Z"
+      "created_at" : "2019-10-09T03:54:22.556Z"
     }
   }, {
     "type" : "Feature",
@@ -4492,7 +4492,7 @@
       "place_type" : "monastery",
       "comune" : "Monreale",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.962Z",
+      "updated_at" : "2019-10-09T03:54:22.567Z",
       "place_category" : "abbey",
       "notes" : "This house was elevated to an archbishopric by Pope Lucius III on February 5, 1183. White, Latin Monasticism, pp. 142-43.",
       "attestation_types" : "documentary, archaeological",
@@ -4507,7 +4507,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.962Z"
+      "created_at" : "2019-10-09T03:54:22.567Z"
     }
   }, {
     "type" : "Feature",
@@ -4541,7 +4541,7 @@
       "place_type" : "monastery",
       "comune" : "Bronte",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.972Z",
+      "updated_at" : "2019-10-09T03:54:22.578Z",
       "place_category" : "abbey",
       "notes" : "White claims that \"[t]he abbot of Maniace was thus really the bishop of a diocese . . . .\" Latin Monasticism in Norman Sicily, 147.",
       "attestation_types" : "documentary, archaeological",
@@ -4556,7 +4556,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.972Z"
+      "created_at" : "2019-10-09T03:54:22.578Z"
     }
   }, {
     "type" : "Feature",
@@ -4596,7 +4596,7 @@
       "place_type" : "monastery",
       "comune" : "Corleone",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.977Z",
+      "updated_at" : "2019-10-09T03:54:22.583Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4611,7 +4611,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.977Z"
+      "created_at" : "2019-10-09T03:54:22.583Z"
     }
   }, {
     "type" : "Feature",
@@ -4648,7 +4648,7 @@
       "place_type" : "monastery",
       "comune" : "Milazzo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.981Z",
+      "updated_at" : "2019-10-09T03:54:22.588Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4663,7 +4663,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.981Z"
+      "created_at" : "2019-10-09T03:54:22.588Z"
     }
   }, {
     "type" : "Feature",
@@ -4715,7 +4715,7 @@
       "place_type" : "monastery",
       "comune" : "Sciacca",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.991Z",
+      "updated_at" : "2019-10-09T03:54:22.599Z",
       "place_category" : "priory",
       "notes" : "This church was located next to the church of San Nicolò Latina. See the Libellus de successione pontificum agrigenti in Carlo Garufi, \"L'Archivio Capitolare di Girgenti: i documenti del tempo normanno-svevo e il Cartularium del secolo XIII,\" Archivio storico siciliano XXVIII (1903), 144. Also White, Latin Monasticism, 149. ",
       "attestation_types" : "documentary, archaeological",
@@ -4730,7 +4730,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Agrigento",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.991Z"
+      "created_at" : "2019-10-09T03:54:22.599Z"
     }
   }, {
     "type" : "Feature",
@@ -4770,7 +4770,7 @@
       "place_type" : "monastery",
       "comune" : "Buscemi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.001Z",
+      "updated_at" : "2019-10-09T03:54:22.611Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4785,7 +4785,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.001Z"
+      "created_at" : "2019-10-09T03:54:22.611Z"
     }
   }, {
     "type" : "Feature",
@@ -4819,7 +4819,7 @@
       "place_type" : "monastery",
       "comune" : "Ustica",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.011Z",
+      "updated_at" : "2019-10-09T03:54:22.621Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4834,7 +4834,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.011Z"
+      "created_at" : "2019-10-09T03:54:22.621Z"
     }
   }, {
     "type" : "Feature",
@@ -4877,7 +4877,7 @@
         "name" : "Santa Maria de Scalis",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.021Z",
+      "updated_at" : "2019-10-09T03:54:22.632Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -4892,7 +4892,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.021Z"
+      "created_at" : "2019-10-09T03:54:22.632Z"
     }
   }, {
     "type" : "Feature",
@@ -4923,7 +4923,7 @@
       "place_type" : "monastery",
       "comune" : "Syracuse",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.030Z",
+      "updated_at" : "2019-10-09T03:54:22.643Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4938,7 +4938,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.030Z"
+      "created_at" : "2019-10-09T03:54:22.643Z"
     }
   }, {
     "type" : "Feature",
@@ -4969,7 +4969,7 @@
       "place_type" : "monastery",
       "comune" : "Adrano",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.040Z",
+      "updated_at" : "2019-10-09T03:54:22.655Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -4984,7 +4984,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.040Z"
+      "created_at" : "2019-10-09T03:54:22.655Z"
     }
   }, {
     "type" : "Feature",
@@ -5024,7 +5024,7 @@
       "place_type" : "monastery",
       "comune" : "Corleone",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.050Z",
+      "updated_at" : "2019-10-09T03:54:22.666Z",
       "place_category" : "abbey",
       "notes" : "By March 1177, Archbishop Offamil of Palermo had ceded control of this monastery to the Abbot of Monreale. White, Latin Monasticism, 158.",
       "attestation_types" : "documentary",
@@ -5039,7 +5039,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.050Z"
+      "created_at" : "2019-10-09T03:54:22.666Z"
     }
   }, {
     "type" : "Feature",
@@ -5085,7 +5085,7 @@
         "name" : "La Magione",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.061Z",
+      "updated_at" : "2019-10-09T03:54:22.678Z",
       "place_category" : "abbey",
       "notes" : "G.A. Loud, Latin Church in Norman Italy (Cambridge: Cambridge University Press, 2007), 533 (Appendix V)) puts the Cistercian foundation at 1190/1191 and adds that the house was turned over to the Teutonic Knights in 1197. Part of this church was destroyed during a bombardment in 1943.                                                                              ",
       "attestation_types" : "documentary, archaeological",
@@ -5100,7 +5100,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.061Z"
+      "created_at" : "2019-10-09T03:54:22.678Z"
     }
   }, {
     "type" : "Feature",
@@ -5143,7 +5143,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.070Z",
+      "updated_at" : "2019-10-09T03:54:22.689Z",
       "place_category" : "abbey",
       "notes" : "White, Latin Monasticism in Norman Sicily, 161, n. 4, notes that part of this foundation (a section of the cortile), established in a house of Geoffrey of Martirano and his wife, Aloysa, survived as \"the only surviving bit of Norman domestic architecture.\" It was destroyed soon after, during World War II. It had at one time been owned by Countess Adelicia of Collesano.",
       "attestation_types" : "documentary",
@@ -5158,7 +5158,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.070Z"
+      "created_at" : "2019-10-09T03:54:22.689Z"
     }
   }, {
     "type" : "Feature",
@@ -5201,7 +5201,7 @@
       "place_type" : "monastery",
       "comune" : "Prizzi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.080Z",
+      "updated_at" : "2019-10-09T03:54:22.701Z",
       "place_category" : "abbey",
       "notes" : "This became a female community beginning around 1190 (G.A. Loud, The Latin Church in Norman Italy (Cambridge: Cambridge University Press, 2007), 533 (Appendix V). White, Latin Monasticism, 166, lists this as a priory. Parts of an arcade from the cloister may survive.",
       "attestation_types" : "documentary",
@@ -5216,7 +5216,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.080Z"
+      "created_at" : "2019-10-09T03:54:22.701Z"
     }
   }, {
     "type" : "Feature",
@@ -5259,7 +5259,7 @@
       "place_type" : "monastery",
       "comune" : "Prizzi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.090Z",
+      "updated_at" : "2019-10-09T03:54:22.711Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -5274,7 +5274,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.090Z"
+      "created_at" : "2019-10-09T03:54:22.711Z"
     }
   }, {
     "type" : "Feature",
@@ -5317,7 +5317,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.100Z",
+      "updated_at" : "2019-10-09T03:54:22.722Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -5332,7 +5332,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.100Z"
+      "created_at" : "2019-10-09T03:54:22.722Z"
     }
   }, {
     "type" : "Feature",
@@ -5375,7 +5375,7 @@
       "place_type" : "monastery",
       "comune" : "Burgio",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.110Z",
+      "updated_at" : "2019-10-09T03:54:22.733Z",
       "place_category" : "abbey",
       "notes" : "It appears that this had been a monastery dedicated to the Virgin Mary but then was rebuilt and/or expanded to become a monastery dedicated to the Holy Trinity with a church dedicted to the Virgin Mary. White, Latin Monsticism, pp. 172-77.",
       "attestation_types" : "documentary, archaeological",
@@ -5390,7 +5390,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Agrigento",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.110Z"
+      "created_at" : "2019-10-09T03:54:22.733Z"
     }
   }, {
     "type" : "Feature",
@@ -5418,7 +5418,7 @@
       "place_type" : "monastery",
       "comune" : "Santa Maria di Licodia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.120Z",
+      "updated_at" : "2019-10-09T03:54:22.744Z",
       "place_category" : "abbey",
       "notes" : "This was purportedly a summer location for the monks in Santa Maria di Licodia. It has now been restored and is used as a restaurant and as a wedding venue. This structure was brought to our attention during a visit to Santa Maria di Licodia in July 2016; we are not yet aware of other sources that attest to Norman origins for this building.",
       "attestation_types" : "documentary, archaeological",
@@ -5433,7 +5433,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.120Z"
+      "created_at" : "2019-10-09T03:54:22.744Z"
     }
   }, {
     "type" : "Feature",
@@ -5476,7 +5476,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.130Z",
+      "updated_at" : "2019-10-09T03:54:22.755Z",
       "place_category" : "abbey",
       "notes" : "\"The nunnery contained at least two chapels: That of St. Eustachius, where it had two Latin priests, and that of St. Paul, served by a Greek priest. One is tempted to believe that the monastery was also connected with a preexisting church of St. Mary of the Latins, to which, in April 6673 (1165), ind. 13, the widow Filiberta willed two tars. This would seem to be identical with the 'ecclesia S. Marie de Cancellario' to which on the 16 March 1186, ind. 4, regni 22, Theocritus Mairosini of Chioggia left three taris. A church of Santa Maria del Cancelliere still exists in Palermo, near the Quattro Canti, but if anything of the Norman structure still exists it is completely obscured by baroque 'improvements' of the late sixteenth century.\"   White, Latin Monasticism, pp. 160-61. An uncorroborated postscript is offered by the Italian-language Wikipedia article, \"Chiesa di Santa Maria del Cancelliere,\": \"1943, Nella notte tra il 29 e il 30 giugno è effettuato l'ultimo disastroso bombardamento aereo su Palermo, la chiesa è distrutta insieme al monastero. Restano pochi brandelli dell'antica magnificenza, sull'area occupata dal primitivo aggregato sorge un discutibile edificio scolastico. Grazie alla lungimiranza di monsignore Pottino direttore del Museo diocesano, preventivamente sono salvate molte delle opere, ma la struttura e gli affreschi, sono perduti per sempre.\" [https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Cancelliere, February 5, 2018]  ",
       "attestation_types" : "documentary",
@@ -5491,7 +5491,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.130Z"
+      "created_at" : "2019-10-09T03:54:22.755Z"
     }
   }, {
     "type" : "Feature",
@@ -5537,7 +5537,7 @@
       "place_type" : "monastery",
       "comune" : "Novara di Sicilia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.141Z",
+      "updated_at" : "2019-10-09T03:54:22.767Z",
       "place_category" : "abbey",
       "notes" : "G.A. Loud says that this was founded as a Cistercian house in 1195 (Latin Church in Norman Italy (Cambridge: Cambridge University Press, 2007), 533 (Appendix V)). When we visited in July 2016, a gentleman from the town claimed that there had been a tunnel that dated from the Muslim domination that connected the castle and this monastery.",
       "attestation_types" : "documentary, archaeological",
@@ -5552,7 +5552,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.141Z"
+      "created_at" : "2019-10-09T03:54:22.767Z"
     }
   }, {
     "type" : "Feature",
@@ -5583,7 +5583,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.151Z",
+      "updated_at" : "2019-10-09T03:54:22.778Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary, archaeological?",
@@ -5598,7 +5598,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.151Z"
+      "created_at" : "2019-10-09T03:54:22.778Z"
     }
   }, {
     "type" : "Feature",
@@ -5638,7 +5638,7 @@
       "place_type" : "monastery",
       "comune" : "Noto",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.161Z",
+      "updated_at" : "2019-10-09T03:54:22.789Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -5653,7 +5653,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.161Z"
+      "created_at" : "2019-10-09T03:54:22.789Z"
     }
   }, {
     "type" : "Feature",
@@ -5696,7 +5696,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.166Z",
+      "updated_at" : "2019-10-09T03:54:22.795Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -5711,7 +5711,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.166Z"
+      "created_at" : "2019-10-09T03:54:22.795Z"
     }
   }, {
     "type" : "Feature",
@@ -5754,7 +5754,7 @@
       "place_type" : "monastery",
       "comune" : "Partinico",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.171Z",
+      "updated_at" : "2019-10-09T03:54:22.800Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -5769,7 +5769,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.171Z"
+      "created_at" : "2019-10-09T03:54:22.800Z"
     }
   }, {
     "type" : "Feature",
@@ -5815,7 +5815,7 @@
       "place_type" : "monastery",
       "comune" : "Castronovo di Sicilia?",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.176Z",
+      "updated_at" : "2019-10-09T03:54:22.805Z",
       "place_category" : null,
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lussografica, 2013), 76 (s.v. \"Castronovo\"), equates the location with Castronovo di Sicilia.",
       "attestation_types" : "documentary",
@@ -5830,7 +5830,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo?",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.176Z"
+      "created_at" : "2019-10-09T03:54:22.805Z"
     }
   }, {
     "type" : "Feature",
@@ -5876,7 +5876,7 @@
       "place_type" : "monastery",
       "comune" : "Castronovo di Sicilia?",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.181Z",
+      "updated_at" : "2019-10-09T03:54:22.810Z",
       "place_category" : null,
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lussografica, 2013), 76 (s.v. \"Castronovo\"), suggests that the location was Castronovo di Sicilia.",
       "attestation_types" : "documentary",
@@ -5891,7 +5891,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo?",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.181Z"
+      "created_at" : "2019-10-09T03:54:22.810Z"
     }
   }, {
     "type" : "Feature",
@@ -5922,7 +5922,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.186Z",
+      "updated_at" : "2019-10-09T03:54:22.815Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -5937,7 +5937,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.186Z"
+      "created_at" : "2019-10-09T03:54:22.815Z"
     }
   }, {
     "type" : "Feature",
@@ -5989,7 +5989,7 @@
         "name" : "Sant'Onofrio",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.191Z",
+      "updated_at" : "2019-10-09T03:54:22.820Z",
       "place_category" : null,
       "notes" : "White, Latin Monasticism (187 n.2), asks whether this could be the same house as Saint Onufrius of Calatabiet.",
       "attestation_types" : "documentary",
@@ -6004,7 +6004,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.191Z"
+      "created_at" : "2019-10-09T03:54:22.820Z"
     }
   }, {
     "type" : "Feature",
@@ -6044,7 +6044,7 @@
       "place_type" : "monastery",
       "comune" : "Lentini",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.196Z",
+      "updated_at" : "2019-10-09T03:54:22.825Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6059,7 +6059,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.196Z"
+      "created_at" : "2019-10-09T03:54:22.825Z"
     }
   }, {
     "type" : "Feature",
@@ -6111,7 +6111,7 @@
       "place_type" : "monastery",
       "comune" : "Noto",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.200Z",
+      "updated_at" : "2019-10-09T03:54:22.830Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6126,7 +6126,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.200Z"
+      "created_at" : "2019-10-09T03:54:22.830Z"
     }
   }, {
     "type" : "Feature",
@@ -6169,7 +6169,7 @@
       "place_type" : "monastery",
       "comune" : "Sclafani Bagni",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.210Z",
+      "updated_at" : "2019-10-09T03:54:22.841Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6184,7 +6184,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.210Z"
+      "created_at" : "2019-10-09T03:54:22.841Z"
     }
   }, {
     "type" : "Feature",
@@ -6218,7 +6218,7 @@
       "place_type" : "monastery",
       "comune" : "Cefalù",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.220Z",
+      "updated_at" : "2019-10-09T03:54:22.851Z",
       "place_category" : "abbey",
       "notes" : "This monastery was made a bishopric by the Antipope Anacletus II on 14 December 1131; after July 1139, its bishop was known as electus until December 1166, when the episcopal rank was restored. See White, Latin Monasticism, pp. 189 - 201. We are very grateful to Prof. Eric Ivison, College of Staten Island/CUNY, for making many of his images of this site available to us.",
       "attestation_types" : "documentary",
@@ -6233,7 +6233,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.220Z"
+      "created_at" : "2019-10-09T03:54:22.851Z"
     }
   }, {
     "type" : "Feature",
@@ -6264,7 +6264,7 @@
       "place_type" : "monastery",
       "comune" : "Syracuse",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.229Z",
+      "updated_at" : "2019-10-09T03:54:22.861Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6279,7 +6279,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.229Z"
+      "created_at" : "2019-10-09T03:54:22.861Z"
     }
   }, {
     "type" : "Feature",
@@ -6310,7 +6310,7 @@
       "place_type" : "monastery",
       "comune" : "Gratteri",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.241Z",
+      "updated_at" : "2019-10-09T03:54:22.872Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -6325,7 +6325,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.241Z"
+      "created_at" : "2019-10-09T03:54:22.872Z"
     }
   }, {
     "type" : "Feature",
@@ -6356,7 +6356,7 @@
       "place_type" : "monastery",
       "comune" : "Barcellona Pozzo di Gotto",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.250Z",
+      "updated_at" : "2019-10-09T03:54:22.882Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6371,7 +6371,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.250Z"
+      "created_at" : "2019-10-09T03:54:22.882Z"
     }
   }, {
     "type" : "Feature",
@@ -6411,7 +6411,7 @@
       "place_type" : "monastery",
       "comune" : "Paternò",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.260Z",
+      "updated_at" : "2019-10-09T03:54:22.893Z",
       "place_category" : "priory",
       "notes" : "The gentleman who provided access in July 2016 claimed there had been Muslim burials discovered there three or four years prior. Some had jewelry (he mentioned a necklace and ring, specifically). Among the remains were a mother and a baby. A few of the images show the pavement where he said they are located. At this time, there was a pending plan to open the burials for viewing by covering them with glass. In October 2019, however, this account was challenged by Antonio Mursia, a Ph.D. candidate in the Dipartimento di Studi Umanistici at the Università degli Studi di Catania, who said that the burials were exclusively Christian, with the earliest dating to the twelfth century. A cross discovered in one of the tombs likely comes from either the tenth or eleventh century. It may have functioned as a reliquary.",
       "attestation_types" : "documentary, archaeological",
@@ -6426,7 +6426,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.260Z"
+      "created_at" : "2019-10-09T03:54:22.893Z"
     }
   }, {
     "type" : "Feature",
@@ -6460,7 +6460,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.270Z",
+      "updated_at" : "2019-10-09T03:54:22.903Z",
       "place_category" : "priory",
       "notes" : "This house later came to be known as San Placido di Calonerò. See White, Latin Monasticism, pp. 211 - 13.",
       "attestation_types" : "documentary",
@@ -6475,7 +6475,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.270Z"
+      "created_at" : "2019-10-09T03:54:22.903Z"
     }
   }, {
     "type" : "Feature",
@@ -6515,7 +6515,7 @@
       "place_type" : "monastery",
       "comune" : "Castellammare del Golfo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.280Z",
+      "updated_at" : "2019-10-09T03:54:22.914Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6530,7 +6530,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Trapani",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.280Z"
+      "created_at" : "2019-10-09T03:54:22.914Z"
     }
   }, {
     "type" : "Feature",
@@ -6570,7 +6570,7 @@
       "place_type" : "monastery",
       "comune" : "Agira",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.289Z",
+      "updated_at" : "2019-10-09T03:54:22.924Z",
       "place_category" : "priory",
       "notes" : "Possibly refounded by Roger I, who gave the monastery to the Benedictine order, the site is now located in one of Agira’s piazze – embedded in an urban context. Not much of its long history is obvious from the exterior; the building was refaced in the early 20th century but had been rebuilt in the 18th, after the monastery had been destroyed by an earthquake in 1693. Little trace from the Norman period is to be found inside, though columns (with replaced capitals) in a chapel on the south side of the church and an external archway off the eastern flank may date to the Middle Ages. Memory of the Normans linger in the sacristy where a painting of Roger I by Filippo Randazzo hangs (we were unable to view this work during our visit). Inside the church, it is clear that the local population traces the ultimate foundation of this monastery to a Basilian community that pre-dated the Normans.",
       "attestation_types" : "documentary, archaeological",
@@ -6585,7 +6585,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.289Z"
+      "created_at" : "2019-10-09T03:54:22.924Z"
     }
   }, {
     "type" : "Feature",
@@ -6625,7 +6625,7 @@
       "place_type" : "monastery",
       "comune" : "Polizzi Generosa",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.299Z",
+      "updated_at" : "2019-10-09T03:54:22.935Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6640,7 +6640,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.299Z"
+      "created_at" : "2019-10-09T03:54:22.935Z"
     }
   }, {
     "type" : "Feature",
@@ -6677,7 +6677,7 @@
       "place_type" : "monastery",
       "comune" : "Capizzi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.309Z",
+      "updated_at" : "2019-10-09T03:54:22.946Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6692,7 +6692,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.309Z"
+      "created_at" : "2019-10-09T03:54:22.946Z"
     }
   }, {
     "type" : "Feature",
@@ -6738,7 +6738,7 @@
       "place_type" : "monastery",
       "comune" : "Ragusa",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.323Z",
+      "updated_at" : "2019-10-09T03:54:22.962Z",
       "place_category" : "priory",
       "notes" : "White, Latin Monasticism, 110 n. 2: \"Pirri [Sicilia sacra, 3rd ed., Palermo, 1733], 573 and 688, asserts that a charter [given to the monks of St. Agatha's, Catania, by Count Geoffrey of Ragusa, son of Roger I, on December 16, 1120] united the priory of St. Mary in Ragusa to St. Agatha's. However, since there is no reference in the Norman period to this priory, De Grossis [Catana sacra, Catania, 1654], 66, more conservatively speculates that St. Mary's may ultimately have grown out of [Geoffrey's] donation.\"",
       "attestation_types" : "documentary",
@@ -6753,7 +6753,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Ragusa",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.323Z"
+      "created_at" : "2019-10-09T03:54:22.962Z"
     }
   }, {
     "type" : "Feature",
@@ -6784,7 +6784,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.333Z",
+      "updated_at" : "2019-10-09T03:54:22.972Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6799,7 +6799,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.333Z"
+      "created_at" : "2019-10-09T03:54:22.972Z"
     }
   }, {
     "type" : "Feature",
@@ -6839,7 +6839,7 @@
       "place_type" : "monastery",
       "comune" : "Piazza Armerina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.343Z",
+      "updated_at" : "2019-10-09T03:54:22.983Z",
       "place_category" : "priory",
       "notes" : "Located on a hill in one of Piazza Armerina’s suburbs, the former monastery has few neighbors – though there are roads and a gravel path that lead into the city, there are just a few villas and hills nearby. It is not often disturbed, as it is solely used for wedding ceremonies of which there are just a few every year. Though none were seen during the visit, there is evidence that goats and sheep have access to the site and that it may be used for grazing. They are not the only creatures great or small that have been on the grounds – there are bird feathers and droppings throughout. A shrub field with a gravel path lies to the north of the former monastery. Though Sant’Andrea sees little parochial traffic, when we were at the site in 2019, the sacristan described how it sometimes serves as a base for late-night revelry. As a result, the site is littered and graffitied and there are few funds available to help care for the grounds more aggressively.\n\nRegularly sized and spaced holes are carved into the building’s exterior, perhaps suggesting the former presence of wooden beams that supported other structures. Though it seems that the original doorway remains, it is quite heavily damaged – on the western façade’s northern side, the interior column has been destroyed except for the base. The southern side has fared better; the columns are almost completely intact. A modern staircase of an undetermined date descends from this doorway.\n\nSant’Andrea’s interior has been more carefully maintained than its exterior – though much of the area has been redone and the original decoration is no longer visible, it was restored with an eye to honoring the original style. There are fragments of Crusader art murals that now hang framed on the former monastery’s walls. A bulletin board contains some more in-depth but as-yet-unverified information about Sant’Andrea’s history. The monastery was run by the Regular Canons of the Holy Sepulcher of Jerusalem and was a stop for pilgrims on their way to the Holy Land. The materials also detailed some of the problems with the site that were not immediately obvious: the roof has been heavily damaged, and water enters freely when it rains; humidity has degraded the building’s stones and presents major challenges to the murals’ preservation.\n",
       "attestation_types" : "documentary, archaeological",
@@ -6854,7 +6854,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.343Z"
+      "created_at" : "2019-10-09T03:54:22.983Z"
     }
   }, {
     "type" : "Feature",
@@ -6885,7 +6885,7 @@
       "place_type" : "monastery",
       "comune" : "Adrano",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.353Z",
+      "updated_at" : "2019-10-09T03:54:22.994Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -6900,7 +6900,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.353Z"
+      "created_at" : "2019-10-09T03:54:22.994Z"
     }
   }, {
     "type" : "Feature",
@@ -6940,7 +6940,7 @@
       "place_type" : "monastery",
       "comune" : "Caltanissetta",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.363Z",
+      "updated_at" : "2019-10-09T03:54:23.005Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -6955,7 +6955,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Caltanissetta",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.363Z"
+      "created_at" : "2019-10-09T03:54:23.005Z"
     }
   }, {
     "type" : "Feature",
@@ -6986,7 +6986,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.372Z",
+      "updated_at" : "2019-10-09T03:54:23.016Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7001,7 +7001,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.372Z"
+      "created_at" : "2019-10-09T03:54:23.016Z"
     }
   }, {
     "type" : "Feature",
@@ -7041,7 +7041,7 @@
       "place_type" : "monastery",
       "comune" : "Aidone?",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.377Z",
+      "updated_at" : "2019-10-09T03:54:23.022Z",
       "place_category" : null,
       "notes" : "Luigi Santagati, Viabilità e topografia della Sicilia antica, vol. 2 (Caltanissetta: Edizioni Lussografica, 2013), 88 (s.v. \"Fessina\"), places this near Aidone, near Pietratagliata in Contrada San Bartolo.\n",
       "attestation_types" : "documentary",
@@ -7056,7 +7056,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna?",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.377Z"
+      "created_at" : "2019-10-09T03:54:23.022Z"
     }
   }, {
     "type" : "Feature",
@@ -7093,7 +7093,7 @@
       "place_type" : "monastery",
       "comune" : "Scordia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.387Z",
+      "updated_at" : "2019-10-09T03:54:23.032Z",
       "place_category" : "temple",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7108,7 +7108,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.387Z"
+      "created_at" : "2019-10-09T03:54:23.032Z"
     }
   }, {
     "type" : "Feature",
@@ -7139,7 +7139,7 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.396Z",
+      "updated_at" : "2019-10-09T03:54:23.043Z",
       "place_category" : "hospital",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7154,7 +7154,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.396Z"
+      "created_at" : "2019-10-09T03:54:23.043Z"
     }
   }, {
     "type" : "Feature",
@@ -7197,7 +7197,7 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.406Z",
+      "updated_at" : "2019-10-09T03:54:23.053Z",
       "place_category" : "hospital",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7212,7 +7212,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.406Z"
+      "created_at" : "2019-10-09T03:54:23.053Z"
     }
   }, {
     "type" : "Feature",
@@ -7252,7 +7252,7 @@
       "place_type" : "monastery",
       "comune" : "Carlentini",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.421Z",
+      "updated_at" : "2019-10-09T03:54:23.069Z",
       "place_category" : null,
       "notes" : "The foundation date and location of this monastery were taken from https://www.cistercensi.info/abbazie/abbazie.php?ab=1057 and the latter was confirmed during a field visit in July 2019. As it is in private hands, this site is especially difficult to access. Unless contact has been made with the landowner, it is only possible to drive up to the gates of the orchard on which the building is located. It is clear that not much (if any) of the monastery remains. At some point, it was converted into now-abandoned and crumbling farm buildings that may reflect the original arrangement: three buildings form a courtyard that provide views of the surrounding hills. Though the structures’ foundations seem to be earlier than their walls and roofs, one of the caretakers of the estate explained that over time the rains would dissolve the mortar holding the walls together, making it difficult to determine what might survive from the Norman period. Its use as farm buildings, especially stables, would have exposed structures to damaging animal byproducts that would have further degraded their integrity. As the buildings were deemed unstable, they are no longer in use (except for an apiary enclosed in a field to the site’s side) and, as such, have been overgrown – as of the visit of 2019, the courtyard is now overrun by plants of various stripes. Yet, even in its current ruin, it is easy to get a sense of how advantageous the location would have been for the monks. The caretaker lead us to two natural springs that likely kept - and continue to keep - the land well-watered.",
       "attestation_types" : "documentary, archaeological?",
@@ -7267,7 +7267,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.421Z"
+      "created_at" : "2019-10-09T03:54:23.069Z"
     }
   }, {
     "type" : "Feature",
@@ -7307,14 +7307,14 @@
       "place_type" : "monastery",
       "comune" : "Lentini",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.430Z",
+      "updated_at" : "2019-10-09T03:54:23.079Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger II",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1116",
@@ -7322,7 +7322,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Syracuse",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.430Z"
+      "created_at" : "2019-10-09T03:54:23.079Z"
     }
   }, {
     "type" : "Feature",
@@ -7365,14 +7365,14 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.436Z",
+      "updated_at" : "2019-10-09T03:54:23.084Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1697",
@@ -7380,7 +7380,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.436Z"
+      "created_at" : "2019-10-09T03:54:23.084Z"
     }
   }, {
     "type" : "Feature",
@@ -7423,7 +7423,7 @@
         "name" : "Santa Maria Pratali Graecorum",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.446Z",
+      "updated_at" : "2019-10-09T03:54:23.095Z",
       "place_category" : "abbey",
       "notes" : "White, Latin Monasticism, 192 n. 7, notes that althought Pirri and Amico assert that this monastery was founded around 1130, the first documentary evidence dates to 1347. White wonders if this house was confused with Saint Peter of Collesano. See the argument (1982) here http://www.collesanocultura.it/attachments/article/124/abbazia%20di%20Pedale.pdf for a Bailian identity. White considers this to have been a Benedictine house.",
       "attestation_types" : "documentary, archaeological",
@@ -7438,7 +7438,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.446Z"
+      "created_at" : "2019-10-09T03:54:23.095Z"
     }
   }, {
     "type" : "Feature",
@@ -7478,7 +7478,7 @@
       "place_type" : "monastery",
       "comune" : "Castelbuono",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.456Z",
+      "updated_at" : "2019-10-09T03:54:23.105Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7493,7 +7493,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.456Z"
+      "created_at" : "2019-10-09T03:54:23.105Z"
     }
   }, {
     "type" : "Feature",
@@ -7539,7 +7539,7 @@
       "place_type" : "monastery",
       "comune" : "Geraci Siculo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.466Z",
+      "updated_at" : "2019-10-09T03:54:23.115Z",
       "place_category" : "priory",
       "notes" : "",
       "attestation_types" : "documentary, archaeological",
@@ -7554,7 +7554,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.466Z"
+      "created_at" : "2019-10-09T03:54:23.115Z"
     }
   }, {
     "type" : "Feature",
@@ -7600,7 +7600,7 @@
       "place_type" : "monastery",
       "comune" : "Cerami",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.471Z",
+      "updated_at" : "2019-10-09T03:54:23.120Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7615,7 +7615,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Enna",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.471Z"
+      "created_at" : "2019-10-09T03:54:23.120Z"
     }
   }, {
     "type" : "Feature",
@@ -7652,7 +7652,7 @@
       "place_type" : "monastery",
       "comune" : "Paternò",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.481Z",
+      "updated_at" : "2019-10-09T03:54:23.131Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7667,7 +7667,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Catania",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.481Z"
+      "created_at" : "2019-10-09T03:54:23.131Z"
     }
   }, {
     "type" : "Feature",
@@ -7707,14 +7707,14 @@
         "name" : "Santa Maria di Fricanò",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.486Z",
+      "updated_at" : "2019-10-09T03:54:23.136Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger I",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1096",
@@ -7722,7 +7722,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.486Z"
+      "created_at" : "2019-10-09T03:54:23.136Z"
     }
   }, {
     "type" : "Feature",
@@ -7750,7 +7750,7 @@
       "place_type" : "monastery",
       "comune" : "Naso",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.496Z",
+      "updated_at" : "2019-10-09T03:54:23.147Z",
       "place_category" : "grange",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -7765,7 +7765,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.496Z"
+      "created_at" : "2019-10-09T03:54:23.147Z"
     }
   }, {
     "type" : "Feature",
@@ -7802,14 +7802,14 @@
         "name" : "Sant'Ippolito",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.506Z",
+      "updated_at" : "2019-10-09T03:54:23.157Z",
       "place_category" : "grange",
       "notes" : "The identification of the location of this house in Patti is made by Giuseppe Reina, Itinerari italo-greci in Sicilia: I monasteri basiliani (Venice: Marsilio, 2016), p. 165.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger I",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1094",
@@ -7817,7 +7817,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.506Z"
+      "created_at" : "2019-10-09T03:54:23.157Z"
     }
   }, {
     "type" : "Feature",
@@ -7878,14 +7878,14 @@
         "name" : "San Nicolò di Palocastro",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.515Z",
+      "updated_at" : "2019-10-09T03:54:23.168Z",
       "place_category" : "grange",
       "notes" : "The identification of the location of this house in Alcara Li Fusi is made by Giuseppe Reina, Itinerari italo-greci in Sicilia: I monasteri basiliani (Venice: Marsilio, 2016), p. 165.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger I",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1094",
@@ -7893,7 +7893,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.515Z"
+      "created_at" : "2019-10-09T03:54:23.168Z"
     }
   }, {
     "type" : "Feature",
@@ -7921,14 +7921,14 @@
       "place_type" : "monastery",
       "comune" : "Francavilla di Sicilia",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.525Z",
+      "updated_at" : "2019-10-09T03:54:23.179Z",
       "place_category" : "grange",
       "notes" : "The identification of the location of this house in Francavilla di Sicilia is made by Giuseppe Reina, Itinerari italo-greci in Sicilia: I monasteri basiliani (Venice: Marsilio, 2016), p. 165.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Regency of Countess Adelasia",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1112",
@@ -7936,7 +7936,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.525Z"
+      "created_at" : "2019-10-09T03:54:23.179Z"
     }
   }, {
     "type" : "Feature",
@@ -7976,14 +7976,14 @@
         "name" : "San Pietro di Galati",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.536Z",
+      "updated_at" : "2019-10-09T03:54:23.189Z",
       "place_category" : "grange",
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Regency of Countess Adelasia",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1105",
@@ -7991,7 +7991,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.536Z"
+      "created_at" : "2019-10-09T03:54:23.189Z"
     }
   }, {
     "type" : "Feature",
@@ -8022,14 +8022,14 @@
       "place_type" : "monastery",
       "comune" : "Milazzo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.546Z",
+      "updated_at" : "2019-10-09T03:54:23.199Z",
       "place_category" : "grange",
       "notes" : "The identification of the location of this house in Milazzo is made by Giuseppe Reina, Itinerari italo-greci in Sicilia: I monasteri basiliani (Venice: Marsilio, 2016), p. 165.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1310",
@@ -8037,7 +8037,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.546Z"
+      "created_at" : "2019-10-09T03:54:23.199Z"
     }
   }, {
     "type" : "Feature",
@@ -8080,14 +8080,14 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.551Z",
+      "updated_at" : "2019-10-09T03:54:23.204Z",
       "place_category" : null,
       "notes" : "We are unclear whether this is the same site as the remains of the church of the same name, which stands in ruins at 38.089606,13.345073.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of King Roger II",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1148",
@@ -8095,7 +8095,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.551Z"
+      "created_at" : "2019-10-09T03:54:23.204Z"
     }
   }, {
     "type" : "Feature",
@@ -8138,14 +8138,14 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.556Z",
+      "updated_at" : "2019-10-09T03:54:23.209Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Regency of Countess Adelasia",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1112",
@@ -8153,7 +8153,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.556Z"
+      "created_at" : "2019-10-09T03:54:23.209Z"
     }
   }, {
     "type" : "Feature",
@@ -8196,14 +8196,14 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.561Z",
+      "updated_at" : "2019-10-09T03:54:23.215Z",
       "place_category" : null,
       "notes" : "There is some confusion here. Although Giunta lists White as a source, the only reference we can find in White's book to a St. Theodore in Palermo is found on page 11 - a reference to a 6th-century document. This house does not appear in the list of Basilian monasteries White provides on pages 41-43 of his book.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of King Roger II",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1148",
@@ -8211,7 +8211,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.561Z"
+      "created_at" : "2019-10-09T03:54:23.215Z"
     }
   }, {
     "type" : "Feature",
@@ -8254,14 +8254,14 @@
       "place_type" : "monastery",
       "comune" : "Caccamo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.566Z",
+      "updated_at" : "2019-10-09T03:54:23.220Z",
       "place_category" : null,
       "notes" : "Giunta lists Pietro Sella, Rationes decimarum Italiae nei secoli XIII e XIV: Sicilia (Vatican City: Biblioteca apostolica vaticana, 1977 [1944]), n. 206 as a source.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1308",
@@ -8269,7 +8269,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.566Z"
+      "created_at" : "2019-10-09T03:54:23.220Z"
     }
   }, {
     "type" : "Feature",
@@ -8300,14 +8300,14 @@
       "place_type" : "monastery",
       "comune" : "Messina",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.575Z",
+      "updated_at" : "2019-10-09T03:54:23.230Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 1,
       "gender" : null,
       "earliest_attestation_min_year" : "1308",
@@ -8315,7 +8315,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.575Z"
+      "created_at" : "2019-10-09T03:54:23.230Z"
     }
   }, {
     "type" : "Feature",
@@ -8355,14 +8355,14 @@
         "name" : "Santa Barnara",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.580Z",
+      "updated_at" : "2019-10-09T03:54:23.236Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger I",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 1,
       "gender" : null,
       "earliest_attestation_min_year" : "1095",
@@ -8370,7 +8370,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.580Z"
+      "created_at" : "2019-10-09T03:54:23.236Z"
     }
   }, {
     "type" : "Feature",
@@ -8407,14 +8407,14 @@
       "place_type" : "monastery",
       "comune" : "Galati Mamertino",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.585Z",
+      "updated_at" : "2019-10-09T03:54:23.241Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : null,
@@ -8422,7 +8422,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.585Z"
+      "created_at" : "2019-10-09T03:54:23.241Z"
     }
   }, {
     "type" : "Feature",
@@ -8465,14 +8465,14 @@
       "place_type" : "monastery",
       "comune" : "San Marco d'Alunzio",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.590Z",
+      "updated_at" : "2019-10-09T03:54:23.246Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Regency of Countess Adelasia",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1105",
@@ -8480,7 +8480,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.590Z"
+      "created_at" : "2019-10-09T03:54:23.246Z"
     }
   }, {
     "type" : "Feature",
@@ -8535,14 +8535,14 @@
       "place_type" : "monastery",
       "comune" : "Rometta",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.594Z",
+      "updated_at" : "2019-10-09T03:54:23.251Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 1,
       "gender" : null,
       "earliest_attestation_min_year" : "1308",
@@ -8550,7 +8550,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.594Z"
+      "created_at" : "2019-10-09T03:54:23.251Z"
     }
   }, {
     "type" : "Feature",
@@ -8584,14 +8584,14 @@
         "name" : "Santa Maria di Vocante",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.599Z",
+      "updated_at" : "2019-10-09T03:54:23.256Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1308",
@@ -8599,7 +8599,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.599Z"
+      "created_at" : "2019-10-09T03:54:23.256Z"
     }
   }, {
     "type" : "Feature",
@@ -8633,14 +8633,14 @@
       "place_type" : "monastery",
       "comune" : "Fiumedinisi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.604Z",
+      "updated_at" : "2019-10-09T03:54:23.261Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 1,
       "gender" : null,
       "earliest_attestation_min_year" : null,
@@ -8648,7 +8648,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.604Z"
+      "created_at" : "2019-10-09T03:54:23.261Z"
     }
   }, {
     "type" : "Feature",
@@ -8676,14 +8676,14 @@
       "place_type" : "monastery",
       "comune" : "Naso",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.608Z",
+      "updated_at" : "2019-10-09T03:54:23.266Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1389",
@@ -8691,7 +8691,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.608Z"
+      "created_at" : "2019-10-09T03:54:23.266Z"
     }
   }, {
     "type" : "Feature",
@@ -8725,14 +8725,14 @@
       "place_type" : "monastery",
       "comune" : "Fiumedinisi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.613Z",
+      "updated_at" : "2019-10-09T03:54:23.271Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of Count Roger I",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 1,
       "gender" : null,
       "earliest_attestation_min_year" : "1093",
@@ -8740,7 +8740,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.613Z"
+      "created_at" : "2019-10-09T03:54:23.271Z"
     }
   }, {
     "type" : "Feature",
@@ -8786,14 +8786,14 @@
       "place_type" : "monastery",
       "comune" : "Alcara Li Fusi",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.619Z",
+      "updated_at" : "2019-10-09T03:54:23.276Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1308",
@@ -8801,7 +8801,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.619Z"
+      "created_at" : "2019-10-09T03:54:23.276Z"
     }
   }, {
     "type" : "Feature",
@@ -8835,14 +8835,14 @@
         "name" : "Santa Maria di Spanto",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.623Z",
+      "updated_at" : "2019-10-09T03:54:23.282Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1278",
@@ -8850,7 +8850,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.623Z"
+      "created_at" : "2019-10-09T03:54:23.282Z"
     }
   }, {
     "type" : "Feature",
@@ -8884,14 +8884,14 @@
       "place_type" : "monastery",
       "comune" : "Frazzanò",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.628Z",
+      "updated_at" : "2019-10-09T03:54:23.287Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Regency of Countess Adelasia",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1105",
@@ -8899,7 +8899,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Messina",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.628Z"
+      "created_at" : "2019-10-09T03:54:23.287Z"
     }
   }, {
     "type" : "Feature",
@@ -8942,14 +8942,14 @@
       "place_type" : "monastery",
       "comune" : "Palermo",
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.633Z",
+      "updated_at" : "2019-10-09T03:54:23.292Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Regency of Countess Adelasia",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : 2,
       "gender" : null,
       "earliest_attestation_min_year" : "1105",
@@ -8957,7 +8957,7 @@
       "archaeological_remains" : "unknown",
       "province" : "Palermo",
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.633Z"
+      "created_at" : "2019-10-09T03:54:23.292Z"
     }
   }, {
     "type" : "Feature",
@@ -8982,7 +8982,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.475Z",
+      "updated_at" : "2019-10-09T03:54:23.126Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -8997,7 +8997,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.475Z"
+      "created_at" : "2019-10-09T03:54:23.126Z"
     }
   }, {
     "type" : "Feature",
@@ -9022,7 +9022,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.416Z",
+      "updated_at" : "2019-10-09T03:54:23.064Z",
       "place_category" : "hospital",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -9037,7 +9037,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.416Z"
+      "created_at" : "2019-10-09T03:54:23.064Z"
     }
   }, {
     "type" : "Feature",
@@ -9062,7 +9062,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.368Z",
+      "updated_at" : "2019-10-09T03:54:23.011Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -9077,7 +9077,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.368Z"
+      "created_at" : "2019-10-09T03:54:23.011Z"
     }
   }, {
     "type" : "Feature",
@@ -9102,7 +9102,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.205Z",
+      "updated_at" : "2019-10-09T03:54:22.836Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -9117,7 +9117,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.205Z"
+      "created_at" : "2019-10-09T03:54:22.836Z"
     }
   }, {
     "type" : "Feature",
@@ -9154,14 +9154,14 @@
         "name" : "Sant'Eunufrio",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.570Z",
+      "updated_at" : "2019-10-09T03:54:23.225Z",
       "place_category" : null,
       "notes" : "This information is problematic. Giunta (p. 729) lists the monastery under the heading \"Val di Mazara\" but then locates it \"presso S. Nicola l'Arena,\" which is located in Catania and, therefore, this Saint Onufrius would actually be in the Val di Noto. But Scaduto (p. 125 n. 208), whom Giunta cites, writes \"Sembra che anche quest'altro monastero di S. Onofrio fosse pure in origine basiliano, costruito non lungi da quello di S. Michele [di Campogrosso] e di cui al tempo di Pirri restava solo vestigium nominis.\" Saint Michael (earlier known as \"Saint Mary\") of Campogrosso is located in the Val di Mazara, near Altavilla Milicia.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : null,
       "gender" : null,
       "earliest_attestation_min_year" : "1284",
@@ -9169,7 +9169,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.570Z"
+      "created_at" : "2019-10-09T03:54:23.225Z"
     }
   }, {
     "type" : "Feature",
@@ -9194,7 +9194,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.361Z",
+      "updated_at" : "2019-10-09T03:54:21.909Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -9209,7 +9209,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.361Z"
+      "created_at" : "2019-10-09T03:54:21.909Z"
     }
   }, {
     "type" : "Feature",
@@ -9234,14 +9234,14 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.314Z",
+      "updated_at" : "2019-10-09T03:54:22.951Z",
       "place_category" : null,
       "notes" : "The location of this house is unclear. White (pp. 178-179) places it, with some reservation, in Calabria whereas Scaduto (pp. 142-143), drawing on Garufi, argues for Sicily. Giunta records a date of earliest document at 1167, though White focuses on the document from January 1188 that records the conversion of this Basilian monastery into a Cistercian house.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : "Reign of King William II",
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian then Cisterican",
+      "order" : "Basilians then Cistericans",
       "seismic_class_id" : null,
       "gender" : null,
       "earliest_attestation_min_year" : "1188",
@@ -9249,7 +9249,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.314Z"
+      "created_at" : "2019-10-09T03:54:22.951Z"
     }
   }, {
     "type" : "Feature",
@@ -9274,7 +9274,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:07.804Z",
+      "updated_at" : "2019-10-09T03:54:22.389Z",
       "place_category" : "abbey",
       "notes" : "",
       "attestation_types" : "documentary",
@@ -9289,7 +9289,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:07.804Z"
+      "created_at" : "2019-10-09T03:54:22.389Z"
     }
   }, {
     "type" : "Feature",
@@ -9314,7 +9314,7 @@
       "place_type" : "monastery",
       "comune" : null,
       "alternate_place_names" : [ ],
-      "updated_at" : "2019-10-08T11:26:08.425Z",
+      "updated_at" : "2019-10-09T03:54:23.074Z",
       "place_category" : null,
       "notes" : "",
       "attestation_types" : "documentary",
@@ -9329,7 +9329,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.425Z"
+      "created_at" : "2019-10-09T03:54:23.074Z"
     }
   }, {
     "type" : "Feature",
@@ -9357,14 +9357,14 @@
         "name" : "San Salvatore di Scholario",
         "language" : "unknown"
       } ],
-      "updated_at" : "2019-10-08T11:26:08.637Z",
+      "updated_at" : "2019-10-09T03:54:23.296Z",
       "place_category" : null,
       "notes" : "According to Korolevskij, this was in southern Messina, on the River Mili.",
       "attestation_types" : "documentary",
       "record_status" : "draft",
       "reign_of_earliest_attestation_label" : null,
       "updated_by" : "Joe Hayes",
-      "order" : "Basilian",
+      "order" : "Basilians",
       "seismic_class_id" : null,
       "gender" : null,
       "earliest_attestation_min_year" : null,
@@ -9372,7 +9372,7 @@
       "archaeological_remains" : null,
       "province" : null,
       "created_by" : "Joe Hayes",
-      "created_at" : "2019-10-08T11:26:08.637Z"
+      "created_at" : "2019-10-09T03:54:23.296Z"
     }
   } ]
 }

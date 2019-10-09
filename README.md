@@ -52,7 +52,7 @@ provinces of Sicily.
   [interactive choropleth map](http://leafletjs.com/examples/choropleth/example.html)
 * it_sicilia_provinces.geojson - geojson file containing modern provinces for
   Sicily. From https://github.com/Dataninja/geo-shapes.git (italy region 19).
-* places-20191008.geojson - GeoJSON file containing raw data about Norman Sicilian
+* places-20191009.geojson - GeoJSON file containing raw data about Norman Sicilian
   monastic foundations. Copied from
   [The Norman Sicily Project data dumps](https://github.com/the-norman-sicily-project/data-dumps/blob/master/2019-10-08/)
 * app.js - main application script
