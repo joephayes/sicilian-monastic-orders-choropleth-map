@@ -1,6 +1,7 @@
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Baskerville, "Goudy Old Style", serif;
   font-size: 14px;
+  background-color: #fff;
 }
 .filter-controls {
   width: 800px;
