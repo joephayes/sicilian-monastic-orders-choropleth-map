@@ -1,5 +1,10 @@
 # Norman Sicily Monastic Order Location Quotients Choropleth Map
 
+> **This project has moved.** The map is now part of the Norman Sicily Project
+> website, as an interactive article that uses the project's current data:
+> <https://normansicily.org/learn/31>. This repository is archived and is no
+> longer maintained. Its data (October 2019) is out of date.
+
 This is an example [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map)
 showing the location quotients for Norman Sicilian monastic orders.
 
